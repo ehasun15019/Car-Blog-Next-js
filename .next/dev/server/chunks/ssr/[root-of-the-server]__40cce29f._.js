@@ -97,30 +97,178 @@ const __TURBOPACK__default__export__ = {
     blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAECAYAAACzzX7wAAAAeklEQVR42h2MQQuCMABGh9PWtpy1RI2itIMSSRRBUIfq2qX//2+eY6cP3vd4IpEpShsWyxJfbXC+wrpVYBZtC0QiJdlsjjJ5PLr+TH+6MIx36t0RkWYK4zy+aWmHG9fHm9fnx/P7x9d7hDKOvNzSdGOQDrGmbWDFOu4E9tMoP0Z7Zc4AAAAASUVORK5CYII="
 };
 }),
+"[project]/src/assets/t1.png (static in ecmascript, tag client)", ((__turbopack_context__) => {
+
+__turbopack_context__.v("/_next/static/media/t1.f5d1014b.png");}),
+"[project]/src/assets/t1.png.mjs { IMAGE => \"[project]/src/assets/t1.png (static in ecmascript, tag client)\" } [app-rsc] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t1$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__ = __turbopack_context__.i("[project]/src/assets/t1.png (static in ecmascript, tag client)");
+;
+const __TURBOPACK__default__export__ = {
+    src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t1$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__["default"],
+    width: 248,
+    height: 189,
+    blurWidth: 8,
+    blurHeight: 6,
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAGCAYAAAD+Bd/7AAAA0UlEQVR42gHGADn/AKKAgv7t2OX/+ebv//zr7//88PT/+e31//Lk8f/j2Oz+AIx4e//Mvbz/xays/8Opqv/eusD/3MHO/8mnv//Ap8H/ADY6Sv9DR1r/Py8+/1Q/T/+RaXH/aUlm/1o5YP9SRW7/AB0UE/8uKjT/Oik2/zwmJ/9EKyn/ERIj/xASJP8hIjL/AD40M/8eFBP/LzBA/yImMf8TDhL/GRYg/xYaK/8lKDX/AJGMk/0sJSb+Hxgc/jZJZP4XGB7+HxUU/hEQF/4NDRL9s9do2sGb618AAAAASUVORK5CYII="
+};
+}),
+"[project]/src/assets/t2.png (static in ecmascript, tag client)", ((__turbopack_context__) => {
+
+__turbopack_context__.v("/_next/static/media/t2.ddb15d00.png");}),
+"[project]/src/assets/t2.png.mjs { IMAGE => \"[project]/src/assets/t2.png (static in ecmascript, tag client)\" } [app-rsc] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t2$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__ = __turbopack_context__.i("[project]/src/assets/t2.png (static in ecmascript, tag client)");
+;
+const __TURBOPACK__default__export__ = {
+    src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t2$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__["default"],
+    width: 248,
+    height: 189,
+    blurWidth: 8,
+    blurHeight: 6,
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAGCAYAAAD+Bd/7AAAA0UlEQVR42gHGADn/AEVZW/5tfHX/bnx7/4qYk/95j47/N2+J/ytph/8gWnf+AFhjVf+PkHf/iIRo/7e4nv+8v6f/ZIKJ/z5thv8yXHb/ADtMTP9nenr/i5SG/5ujlP+fqZ//Xmlo/0BMTv80QUX/AGl0ef9tgIb/hJCL/3+MjP+AjpD/gouK/32Ghf9qc3X/AEhLQP9cVSr/j30m/1ZSMf8uNDf/KzI2/yUvNP8eKS3/AH10Vf0qMi/+HSop/hglKv4RISn+FCEm/hUgI/4VHiH9nf9mPFobq7cAAAAASUVORK5CYII="
+};
+}),
+"[project]/src/assets/t3.png (static in ecmascript, tag client)", ((__turbopack_context__) => {
+
+__turbopack_context__.v("/_next/static/media/t3.caa88cc5.png");}),
+"[project]/src/assets/t3.png.mjs { IMAGE => \"[project]/src/assets/t3.png (static in ecmascript, tag client)\" } [app-rsc] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t3$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__ = __turbopack_context__.i("[project]/src/assets/t3.png (static in ecmascript, tag client)");
+;
+const __TURBOPACK__default__export__ = {
+    src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t3$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__["default"],
+    width: 248,
+    height: 189,
+    blurWidth: 8,
+    blurHeight: 6,
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAGCAYAAAD+Bd/7AAAA0UlEQVR42gHGADn/AK5dWf7FgXj/w5GC/6qRef+9iXv/1o+H/9CGgP/FdHD+AIAeJ/+QNDj/oGtd/6CXef+ze2//03l4/89zcv/Jc3D/AIZRRv+bSkb/rlxZ/6NxZv/Jd3T/0qCT/6+JeP+RdGL/AJSCZv+UX1L/sWFe/6pyav+nem7/j35u/2lYSv9OPTP/AIt6Xv9uVUX/cVJG/4NuX/+QgG//hHRh/4Z1YP9KNy7/AJuQb/2Vim3+eWhT/n1uWf54aFj+XUk8/l1IOv5lUkH9LoBy6/HL8mwAAAAASUVORK5CYII="
+};
+}),
+"[project]/src/assets/t4.png (static in ecmascript, tag client)", ((__turbopack_context__) => {
+
+__turbopack_context__.v("/_next/static/media/t4.3d479b93.png");}),
+"[project]/src/assets/t4.png.mjs { IMAGE => \"[project]/src/assets/t4.png (static in ecmascript, tag client)\" } [app-rsc] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t4$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__ = __turbopack_context__.i("[project]/src/assets/t4.png (static in ecmascript, tag client)");
+;
+const __TURBOPACK__default__export__ = {
+    src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t4$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__["default"],
+    width: 248,
+    height: 189,
+    blurWidth: 8,
+    blurHeight: 6,
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAGCAYAAAD+Bd/7AAAAyklEQVR42iXGT0vCYADA4febdA7qFtIhO2h0cFCRYau5lKjea3QZWAdBVCqCBEFQUefc/IO+mwie9KP5/hQ8PPAIvyH1uClZKYe2W6P4U+X9q8Bt7oqEda5F4vSQy7Nj5IvJRPVodOoEYUAQ+fy7f4iLkwPSySPylkG/VaJccfiofuNNfZbrCHFjxJHZFE42zu9rjM/HGPI+iXx7wht2EZWyw3Mujf1wTd40sDMG5l0Ky85QKBURo8V8MwhDvae0p5R2Z7Od3aP5Zgs7pHUZopU32QAAAABJRU5ErkJggg=="
+};
+}),
+"[project]/src/assets/t-profile.png (static in ecmascript, tag client)", ((__turbopack_context__) => {
+
+__turbopack_context__.v("/_next/static/media/t-profile.a890855a.png");}),
+"[project]/src/assets/t-profile.png.mjs { IMAGE => \"[project]/src/assets/t-profile.png (static in ecmascript, tag client)\" } [app-rsc] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t$2d$profile$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__ = __turbopack_context__.i("[project]/src/assets/t-profile.png (static in ecmascript, tag client)");
+;
+const __TURBOPACK__default__export__ = {
+    src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t$2d$profile$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__["default"],
+    width: 53,
+    height: 53,
+    blurWidth: 8,
+    blurHeight: 8,
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAABBUlEQVR42hXPvU6DUBjG8UMcpUAMcRQROIBwKEc+KqnQgE0aL8DFzXQy2qVxaEwTUweNCcbEVReN1wH3wYWc8bwtwzP9f8uDBEHYGyhKqdlOg0nIsB8wzbRaUZKqviFRVqoTz+8cesZn0wLyLAHbJ1zHdrdDJTp23RaHlGeTHH7rZ9jc3cCQUrA8wo8Ms0FOHDMnimB6NYP/egMfyznk4wywF/SIITdJ2G5ARynUTwtYza9hGBKwTkmPGDJI0NhxygMawvfXG7ys7oEEBAwLc83ELZLUw9KNR915dckf12u4fVhANM65puvdvjioUH/lQFWrtJi0rz9/bPn+yeKLopFkuezbFpf+XCtgpmsLAAAAAElFTkSuQmCC"
+};
+}),
 "[project]/src/assets/assets.js [app-rsc] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
 
 __turbopack_context__.s([
     "assets",
     ()=>assets,
-    "newTaechnology",
-    ()=>newTaechnology
+    "newTechnology",
+    ()=>newTechnology
 ]);
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$logo$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$logo$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/src/assets/logo.png.mjs { IMAGE => "[project]/src/assets/logo.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$home$2d$hero$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$home$2d$hero$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/src/assets/home-hero.png.mjs { IMAGE => "[project]/src/assets/home-hero.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
-(()=>{
-    const e = new Error("Cannot find module './'");
-    e.code = 'MODULE_NOT_FOUND';
-    throw e;
-})();
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t1$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t1$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/src/assets/t1.png.mjs { IMAGE => "[project]/src/assets/t1.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t2$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t2$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/src/assets/t2.png.mjs { IMAGE => "[project]/src/assets/t2.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t3$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t3$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/src/assets/t3.png.mjs { IMAGE => "[project]/src/assets/t3.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t4$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t4$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/src/assets/t4.png.mjs { IMAGE => "[project]/src/assets/t4.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t$2d$profile$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t$2d$profile$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/src/assets/t-profile.png.mjs { IMAGE => "[project]/src/assets/t-profile.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
+;
+;
+;
+;
 ;
 ;
 ;
 const assets = {
     logo: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$logo$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$logo$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
-    HomeHero: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$home$2d$hero$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$home$2d$hero$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"]
+    HomeHero: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$home$2d$hero$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$home$2d$hero$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+    // new technology
+    t1: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t1$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t1$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+    t2: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t2$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t2$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+    t3: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t3$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t3$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+    t4: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t4$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t4$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+    t_profile: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t$2d$profile$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t$2d$profile$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"]
 };
-const newTaechnology = {};
+const newTechnology = [
+    {
+        id: 1,
+        img: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t1$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t1$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        description: "Enhanced autopilot system with lane-assist and smart braking.",
+        profile_img: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t$2d$profile$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t$2d$profile$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        profile_name: "John Carter",
+        date: "2025-02-10"
+    },
+    {
+        id: 2,
+        img: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t2$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t2$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        description: "New hybrid engine offering 30% better fuel efficiency.",
+        profile_img: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t$2d$profile$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t$2d$profile$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        profile_name: "Sophia Reynolds",
+        date: "2025-02-12"
+    },
+    {
+        id: 3,
+        img: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t3$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t3$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        description: "Advanced digital dashboard with AI-powered driving.",
+        profile_img: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t$2d$profile$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t$2d$profile$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        profile_name: "Michael Turner",
+        date: "2025-02-14"
+    },
+    {
+        id: 4,
+        img: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t4$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t4$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        description: "360° parking camera with automated obstacle detection.",
+        profile_img: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t$2d$profile$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t$2d$profile$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        profile_name: "Emma Johnson",
+        date: "2025-02-16"
+    }
+];
 }),
 "[project]/src/Components/Navbar/Navbar.jsx [app-rsc] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
@@ -366,4 +514,4 @@ function RootLayout({ children }) {
 }),
 ];
 
-//# sourceMappingURL=%5Broot-of-the-server%5D__590645f0._.js.map
+//# sourceMappingURL=%5Broot-of-the-server%5D__40cce29f._.js.map
