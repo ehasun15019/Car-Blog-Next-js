@@ -10,7 +10,7 @@ const NewTechnologyDesign = ({
 }) => {
   return (
     <div>
-      <div className="card bg-gray-200 w-70 shadow-sm">
+      <div className="card bg-gray-200 w-60 md:w-70 shadow-sm">
         <figure className="px-5 pt-5">
           <Image src={img} alt="feature image" />
         </figure>

@@ -202,6 +202,48 @@ const __TURBOPACK__default__export__ = {
     blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAABBUlEQVR42hXPvU6DUBjG8UMcpUAMcRQROIBwKEc+KqnQgE0aL8DFzXQy2qVxaEwTUweNCcbEVReN1wH3wYWc8bwtwzP9f8uDBEHYGyhKqdlOg0nIsB8wzbRaUZKqviFRVqoTz+8cesZn0wLyLAHbJ1zHdrdDJTp23RaHlGeTHH7rZ9jc3cCQUrA8wo8Ms0FOHDMnimB6NYP/egMfyznk4wywF/SIITdJ2G5ARynUTwtYza9hGBKwTkmPGDJI0NhxygMawvfXG7ys7oEEBAwLc83ELZLUw9KNR915dckf12u4fVhANM65puvdvjioUH/lQFWrtJi0rz9/bPn+yeKLopFkuezbFpf+XCtgpmsLAAAAAElFTkSuQmCC"
 };
 }),
+"[project]/src/assets/c1.png (static in ecmascript, tag client)", ((__turbopack_context__) => {
+
+__turbopack_context__.v("/_next/static/media/c1.d0d9f49d.png");}),
+"[project]/src/assets/c1.png.mjs { IMAGE => \"[project]/src/assets/c1.png (static in ecmascript, tag client)\" } [app-rsc] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c1$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__ = __turbopack_context__.i("[project]/src/assets/c1.png (static in ecmascript, tag client)");
+;
+const __TURBOPACK__default__export__ = {
+    src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c1$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__["default"],
+    width: 90,
+    height: 90,
+    blurWidth: 8,
+    blurHeight: 8,
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAABE0lEQVR42gEIAff+AAQDBANFREVBr6yxvsjF0fbCv832lJKevzo5PUEDAwMDAEBAQkHExMna0dDZ/8LDz//Bws7/x8fR/728wtpDQ0RBAJSYor+ytr//hIyR/3yJj/94hoz/eYOL/7u+xf+nqa++AJyjr/aHio7/Ymdr/1xjaf9ZYWf/VF1l/3Z8hf+qr7r2AIiKi/ZDRkn/HyIl/xYZHP8VGBv/Gh4i/zo/Rf+HiYz2AEdHR74nKCr/EhQX/w4RE/8PERT/ERMW/yIkJv9FRUa/ABUVFUFAQELaRUdK/0dHRv9BQ0X/PkBE/zEzNtoPDxBBAAICAgMpKSpBbm9yv5yXkfaRkJH2bm5yviUmJ0ECAgIDQpF8VVM5LsgAAAAASUVORK5CYII="
+};
+}),
+"[project]/src/assets/c2.png (static in ecmascript, tag client)", ((__turbopack_context__) => {
+
+__turbopack_context__.v("/_next/static/media/c2.4a98b6db.png");}),
+"[project]/src/assets/c2.png.mjs { IMAGE => \"[project]/src/assets/c2.png (static in ecmascript, tag client)\" } [app-rsc] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c2$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__ = __turbopack_context__.i("[project]/src/assets/c2.png (static in ecmascript, tag client)");
+;
+const __TURBOPACK__default__export__ = {
+    src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c2$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__["default"],
+    width: 90,
+    height: 90,
+    blurWidth: 8,
+    blurHeight: 8,
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAABE0lEQVR42gEIAff+AAEAAAMLAgJBRAMGvnEHD/ZpDBH2SAcMvx8BBEECAAADAAYBAUEUBQTaKAcH/1UEB/9yBQv/bAkP/1QIDNogAgRBABMMCb8kHRf/HxkV/zcZEv+RNh3/vT0a/6wzGP98JBC+AFdaVfZfWE3/Y1hJ/09DOP9XNSH/wmcz//dyK//1ZSP2AGRnYvZbUUT/c2la/21gT/98bl7/oXhc/71mNv/vcCv2ADMxK75URjv/bl5N/4J6bP+EfG//kIBu/4xmTv+JTSu/ABIRD0E8NS7abmph/6Slnv9nW1D/hXts/3hoWNopHhdBAAEBAQMiIB1BVlNLv3lyZPZrWUv2Vk5DviQgG0EDAgIDmGFlI9U3C4oAAAAASUVORK5CYII="
+};
+}),
 "[project]/src/assets/assets.js [app-rsc] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
 
@@ -220,11 +262,11 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t2$2e$png$2
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t3$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t3$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/src/assets/t3.png.mjs { IMAGE => "[project]/src/assets/t3.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t4$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t4$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/src/assets/t4.png.mjs { IMAGE => "[project]/src/assets/t4.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t$2d$profile$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t$2d$profile$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/src/assets/t-profile.png.mjs { IMAGE => "[project]/src/assets/t-profile.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
-(()=>{
-    const e = new Error("Cannot find module './'");
-    e.code = 'MODULE_NOT_FOUND';
-    throw e;
-})();
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c1$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$c1$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/src/assets/c1.png.mjs { IMAGE => "[project]/src/assets/c1.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c2$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$c2$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/src/assets/c2.png.mjs { IMAGE => "[project]/src/assets/c2.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
+;
+;
+;
 ;
 ;
 ;
@@ -525,4 +567,4 @@ function RootLayout({ children }) {
 }),
 ];
 
-//# sourceMappingURL=%5Broot-of-the-server%5D__40cce29f._.js.map
+//# sourceMappingURL=%5Broot-of-the-server%5D__e248eac2._.js.map

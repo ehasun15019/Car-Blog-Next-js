@@ -6,12 +6,20 @@ import t3 from './t3.png'
 import t4 from './t4.png'
 import t_profile from './t-profile.png'
 
+import c1 from './c1.png'
+import c2 from './c2.png'
+import c3 from './c3.png'
+import c4 from './c4.png'
+
 export const assets = {
     logo,
     HomeHero,
 
     // new technology
-    t1, t2, t3, t4, t_profile
+    t1, t2, t3, t4, t_profile,
+
+    // all categories
+    c1, c2, c3, c4
 }
 
 // new technology array  
@@ -48,5 +56,38 @@ export const newTechnology = [
         profile_name: "Emma Johnson",
         date: "2025-02-16"
     }
+];
+
+
+// All categories
+export const allCategories = [
+  {
+    id: 1,
+    title: "Car Reviews",
+    img: c1,
+    description:
+      "In-depth reviews of the latest cars, covering performance, comfort, fuel efficiency, technology, and overall driving experience."
+  },
+  {
+    id: 2,
+    title: "Maintenance Tips",
+    img: c2,
+    description:
+      "Essential maintenance advice to keep your car running smoothly—from engine care and oil changes to tire safety and seasonal checkups."
+  },
+  {
+    id: 3,
+    title: "Car Modifications",
+    img: c3,
+    description:
+      "Explore stylish and performance-boosting car modifications, including body kits, exhaust upgrades, lighting enhancements, and custom interiors."
+  },
+  {
+    id: 4,
+    title: "Driving Tips",
+    img: c4,
+    description:
+      "Useful driving techniques to improve safety, fuel economy, and overall road awareness—ideal for both new and experienced drivers."
+  }
 ];
 

@@ -202,6 +202,90 @@ const __TURBOPACK__default__export__ = {
     blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAABBUlEQVR42hXPvU6DUBjG8UMcpUAMcRQROIBwKEc+KqnQgE0aL8DFzXQy2qVxaEwTUweNCcbEVReN1wH3wYWc8bwtwzP9f8uDBEHYGyhKqdlOg0nIsB8wzbRaUZKqviFRVqoTz+8cesZn0wLyLAHbJ1zHdrdDJTp23RaHlGeTHH7rZ9jc3cCQUrA8wo8Ms0FOHDMnimB6NYP/egMfyznk4wywF/SIITdJ2G5ARynUTwtYza9hGBKwTkmPGDJI0NhxygMawvfXG7ys7oEEBAwLc83ELZLUw9KNR915dckf12u4fVhANM65puvdvjioUH/lQFWrtJi0rz9/bPn+yeKLopFkuezbFpf+XCtgpmsLAAAAAElFTkSuQmCC"
 };
 }),
+"[project]/src/assets/c1.png (static in ecmascript, tag client)", ((__turbopack_context__) => {
+
+__turbopack_context__.v("/_next/static/media/c1.d0d9f49d.png");}),
+"[project]/src/assets/c1.png.mjs { IMAGE => \"[project]/src/assets/c1.png (static in ecmascript, tag client)\" } [app-rsc] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c1$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__ = __turbopack_context__.i("[project]/src/assets/c1.png (static in ecmascript, tag client)");
+;
+const __TURBOPACK__default__export__ = {
+    src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c1$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__["default"],
+    width: 90,
+    height: 90,
+    blurWidth: 8,
+    blurHeight: 8,
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAABE0lEQVR42gEIAff+AAQDBANFREVBr6yxvsjF0fbCv832lJKevzo5PUEDAwMDAEBAQkHExMna0dDZ/8LDz//Bws7/x8fR/728wtpDQ0RBAJSYor+ytr//hIyR/3yJj/94hoz/eYOL/7u+xf+nqa++AJyjr/aHio7/Ymdr/1xjaf9ZYWf/VF1l/3Z8hf+qr7r2AIiKi/ZDRkn/HyIl/xYZHP8VGBv/Gh4i/zo/Rf+HiYz2AEdHR74nKCr/EhQX/w4RE/8PERT/ERMW/yIkJv9FRUa/ABUVFUFAQELaRUdK/0dHRv9BQ0X/PkBE/zEzNtoPDxBBAAICAgMpKSpBbm9yv5yXkfaRkJH2bm5yviUmJ0ECAgIDQpF8VVM5LsgAAAAASUVORK5CYII="
+};
+}),
+"[project]/src/assets/c2.png (static in ecmascript, tag client)", ((__turbopack_context__) => {
+
+__turbopack_context__.v("/_next/static/media/c2.4a98b6db.png");}),
+"[project]/src/assets/c2.png.mjs { IMAGE => \"[project]/src/assets/c2.png (static in ecmascript, tag client)\" } [app-rsc] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c2$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__ = __turbopack_context__.i("[project]/src/assets/c2.png (static in ecmascript, tag client)");
+;
+const __TURBOPACK__default__export__ = {
+    src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c2$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__["default"],
+    width: 90,
+    height: 90,
+    blurWidth: 8,
+    blurHeight: 8,
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAABE0lEQVR42gEIAff+AAEAAAMLAgJBRAMGvnEHD/ZpDBH2SAcMvx8BBEECAAADAAYBAUEUBQTaKAcH/1UEB/9yBQv/bAkP/1QIDNogAgRBABMMCb8kHRf/HxkV/zcZEv+RNh3/vT0a/6wzGP98JBC+AFdaVfZfWE3/Y1hJ/09DOP9XNSH/wmcz//dyK//1ZSP2AGRnYvZbUUT/c2la/21gT/98bl7/oXhc/71mNv/vcCv2ADMxK75URjv/bl5N/4J6bP+EfG//kIBu/4xmTv+JTSu/ABIRD0E8NS7abmph/6Slnv9nW1D/hXts/3hoWNopHhdBAAEBAQMiIB1BVlNLv3lyZPZrWUv2Vk5DviQgG0EDAgIDmGFlI9U3C4oAAAAASUVORK5CYII="
+};
+}),
+"[project]/src/assets/c3.png (static in ecmascript, tag client)", ((__turbopack_context__) => {
+
+__turbopack_context__.v("/_next/static/media/c3.58b9db00.png");}),
+"[project]/src/assets/c3.png.mjs { IMAGE => \"[project]/src/assets/c3.png (static in ecmascript, tag client)\" } [app-rsc] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c3$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__ = __turbopack_context__.i("[project]/src/assets/c3.png (static in ecmascript, tag client)");
+;
+const __TURBOPACK__default__export__ = {
+    src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c3$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__["default"],
+    width: 90,
+    height: 90,
+    blurWidth: 8,
+    blurHeight: 8,
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAABE0lEQVR42gEIAff+AAAAAAMMBwZBNyQdvkUwJ/YeFRD2CQcFvwEEBkEAAAEDAAkGBUFGLiXaTTcu/1pMRv9jWVH/FxIO/wYUINoDEh5BAC4hHL9NNi7/QDQu/0I8OP9xdHL/NC0n/w0iNP8GL02+AFVGQPZmVVH/X0tE/0pBOv+Hf3n/SkM7/w8VHP8NFRz2AFdJQPZoWFL/bVtT/2hfXP+3s7L/TEZA/xgOB/8lFQ32AEc9OL5WSUj/UklH/3hxc/+hqK7/Mywo/y0eFf8rHha/ABAQEEFJREbaY1la/46Smf9xbGz/JRsU/zkqINoVEA1BAAEBAQMiHiBBenh9v4h9ffYmHxr2Jh0WvhURDkEBAQEDzmhdPBPG+LgAAAAASUVORK5CYII="
+};
+}),
+"[project]/src/assets/c4.png (static in ecmascript, tag client)", ((__turbopack_context__) => {
+
+__turbopack_context__.v("/_next/static/media/c4.b2a85381.png");}),
+"[project]/src/assets/c4.png.mjs { IMAGE => \"[project]/src/assets/c4.png (static in ecmascript, tag client)\" } [app-rsc] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c4$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__ = __turbopack_context__.i("[project]/src/assets/c4.png (static in ecmascript, tag client)");
+;
+const __TURBOPACK__default__export__ = {
+    src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c4$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__["default"],
+    width: 90,
+    height: 90,
+    blurWidth: 8,
+    blurHeight: 8,
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAABAElEQVR42hXJ3U6CYACH8dd56HJ1BeWq5QykD74EJrwgClaAtWIRNKWcdpC1VgddRSddD9wHF/Ke/qPf9hw9pFkTVZkmr3mx/tyw1ceGpcunkhP69P+RHs/TOE0rY+JifBMhuI9hjl34s1m1u9+hRLOdkj8RwfMSFN3ANIzQPxNhuB60kVsQx/OZrJuI5ytkzwk8X4PlXeAuX8MJbxnxgmsmDzS8vH0hWySwqQRjaMG9jGB6ASOSqhW9Yw5Tx0H+OEecLSDLCgRRQZcTSrLVbtORbVa/30s8hBOIAx3c6XmdWLVaLUpqze7BHv15T8orqjLbGrLO4VHR3t6hpNFo/gEIUmKdms0MjAAAAABJRU5ErkJggg=="
+};
+}),
 "[project]/src/assets/assets.js [app-rsc] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
 
@@ -220,11 +304,13 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t2$2e$png$2
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t3$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t3$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/src/assets/t3.png.mjs { IMAGE => "[project]/src/assets/t3.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t4$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t4$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/src/assets/t4.png.mjs { IMAGE => "[project]/src/assets/t4.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t$2d$profile$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t$2d$profile$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/src/assets/t-profile.png.mjs { IMAGE => "[project]/src/assets/t-profile.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
-(()=>{
-    const e = new Error("Cannot find module './'");
-    e.code = 'MODULE_NOT_FOUND';
-    throw e;
-})();
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c1$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$c1$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/src/assets/c1.png.mjs { IMAGE => "[project]/src/assets/c1.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c2$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$c2$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/src/assets/c2.png.mjs { IMAGE => "[project]/src/assets/c2.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c3$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$c3$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/src/assets/c3.png.mjs { IMAGE => "[project]/src/assets/c3.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c4$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$c4$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/src/assets/c4.png.mjs { IMAGE => "[project]/src/assets/c4.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
+;
+;
+;
 ;
 ;
 ;
@@ -241,7 +327,12 @@ const assets = {
     t2: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t2$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t2$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
     t3: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t3$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t3$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
     t4: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t4$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t4$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
-    t_profile: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t$2d$profile$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t$2d$profile$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"]
+    t_profile: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$t$2d$profile$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$t$2d$profile$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+    // all categories
+    c1: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c1$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$c1$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+    c2: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c2$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$c2$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+    c3: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c3$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$c3$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+    c4: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c4$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$c4$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"]
 };
 const newTechnology = [
     {
@@ -278,7 +369,30 @@ const newTechnology = [
     }
 ];
 const allCategories = [
-    {}
+    {
+        id: 1,
+        title: "Car Reviews",
+        img: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c1$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$c1$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        description: "In-depth reviews of the latest cars, covering performance, comfort, fuel efficiency, technology, and overall driving experience."
+    },
+    {
+        id: 2,
+        title: "Maintenance Tips",
+        img: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c2$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$c2$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        description: "Essential maintenance advice to keep your car running smoothly—from engine care and oil changes to tire safety and seasonal checkups."
+    },
+    {
+        id: 3,
+        title: "Car Modifications",
+        img: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c3$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$c3$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        description: "Explore stylish and performance-boosting car modifications, including body kits, exhaust upgrades, lighting enhancements, and custom interiors."
+    },
+    {
+        id: 4,
+        title: "Driving Tips",
+        img: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c4$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$c4$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+        description: "Useful driving techniques to improve safety, fuel economy, and overall road awareness—ideal for both new and experienced drivers."
+    }
 ];
 }),
 "[project]/src/Components/Navbar/Navbar.jsx [app-rsc] (ecmascript)", ((__turbopack_context__) => {
@@ -525,4 +639,4 @@ function RootLayout({ children }) {
 }),
 ];
 
-//# sourceMappingURL=%5Broot-of-the-server%5D__40cce29f._.js.map
+//# sourceMappingURL=%5Broot-of-the-server%5D__80c334b7._.js.map
