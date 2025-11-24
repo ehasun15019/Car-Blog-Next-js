@@ -85,3 +85,2822 @@ Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
 [00:36:17.238] Server  LOG      ✓ Compiled in 77ms
 [00:36:25.811] Server  LOG      ✓ Compiled in 79ms
 [00:36:32.604] Server  LOG      ✓ Compiled in 79ms
+[00:38:28.823] Server  LOG      ✓ Compiled in 131ms
+[00:38:28.829] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:38:29.631] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:39:51.886] Server  LOG      ✓ Compiled in 79ms
+[00:39:55.455] Server  LOG      ✓ Compiled in 49ms
+[00:39:56.200] Browser WARN    Image with src "/_next/static/media/register_img.33f83f96.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:40:16.414] Server  LOG      ✓ Compiled in 34ms
+[00:40:22.521] Server  LOG      ✓ Compiled in 37ms
+[00:42:46.642] Server  LOG      ✓ Compiled in 32ms
+[00:42:47.811] Server  LOG      ✓ Compiled in 29ms
+[00:42:54.298] Server  LOG      ✓ Compiled in 34ms
+[00:42:58.550] Server  LOG      ✓ Compiled in 35ms
+[00:43:09.678] Server  LOG      ✓ Compiled in 34ms
+[00:43:12.792] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__108aae44._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:43:12.796] Server  ERROR    ⨯ ReferenceError: assets is not defined
+[00:43:12.942] Browser ERROR   uncaughtError: ReferenceError: assets is not defined
+[00:43:22.511] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:43:22.683] Browser WARN    Image with src "/_next/static/media/logo.299b8b6b.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:43:22.683] Browser WARN    Image with src "/_next/static/media/login_img.87f4187e.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:44:00.591] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__108aae44._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:44:00.592] Server  ERROR    ⨯ ReferenceError: handleRegister is not defined
+[00:44:00.908] Browser ERROR   uncaughtError: ReferenceError: handleRegister is not defined
+[00:44:01.805] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__108aae44._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:44:01.805] Server  ERROR    ⨯ ReferenceError: handleRegister is not defined
+[00:44:02.083] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:02.903] Browser ERROR   uncaughtError: ReferenceError: handleRegister is not defined
+[00:44:14.217] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__108aae44._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:44:14.217] Server  ERROR    ⨯ ReferenceError: handleRegister is not defined
+[00:44:14.449] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:14.658] Browser ERROR   uncaughtError: ReferenceError: handleRegister is not defined
+[00:44:21.135] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__108aae44._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:44:21.136] Server  ERROR    ⨯ ReferenceError: FaRegUser is not defined
+[00:44:21.416] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:21.568] Browser ERROR   uncaughtError: ReferenceError: FaRegUser is not defined
+[00:44:29.843] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__108aae44._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:44:29.844] Server  ERROR    ⨯ ReferenceError: MdOutlineMailOutline is not defined
+[00:44:30.107] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:30.919] Browser ERROR   uncaughtError: ReferenceError: MdOutlineMailOutline is not defined
+[00:44:33.367] Server  LOG      ✓ Compiled in 768ms
+[00:44:33.565] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__108aae44._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:44:33.566] Server  ERROR    ⨯ ReferenceError: TbLockPassword is not defined
+[00:44:33.811] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:34.913] Browser ERROR   uncaughtError: ReferenceError: TbLockPassword is not defined
+[00:44:37.250] Server  LOG      ✓ Compiled in 1169ms
+[00:44:37.580] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__108aae44._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:44:37.581] Server  ERROR    ⨯ ReferenceError: Link is not defined
+[00:44:37.813] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:38.908] Browser ERROR   uncaughtError: ReferenceError: Link is not defined
+[00:44:40.967] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__108aae44._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:44:40.968] Server  ERROR    ⨯ ReferenceError: FcGoogle is not defined
+[00:44:41.220] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:41.907] Browser ERROR   uncaughtError: ReferenceError: FcGoogle is not defined
+[00:44:44.581] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__108aae44._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:44:44.582] Server  ERROR    ⨯ ReferenceError: handleGoogleRegister is not defined
+[00:44:44.826] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:45.585] Browser ERROR   uncaughtError: ReferenceError: handleGoogleRegister is not defined
+[00:44:51.052] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:09.243] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:10.088] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:29.766] Server  LOG      ✓ Compiled in 61ms
+[00:46:58.440] Server  LOG      ✓ Compiled in 38ms
+[00:47:00.760] Server  LOG      ✓ Compiled in 39ms
+[00:47:00.918] Browser ERROR   uncaughtError: ReferenceError: GoogleAuthProvider is not defined
+[00:47:02.322] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:47:02.798] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\src_Components_Login_LoginFrom_jsx_f3db1a0a._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:47:02.798] Server  ERROR    ⨯ ReferenceError: GoogleAuthProvider is not defined
+[00:47:02.812] Server  LOG      ✓ Compiled in 75ms
+[00:47:02.966] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:03.910] Browser ERROR   uncaughtError: ReferenceError: GoogleAuthProvider is not defined
+[00:47:08.839] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:47:09.349] Server  LOG      ✓ Compiled in 49ms
+[00:47:09.493] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:15.098] Server  LOG      ✓ Compiled in 54ms
+[00:47:20.487] Server  LOG      ✓ Compiled in 41ms
+[00:47:21.296] Server  LOG      ✓ Compiled in 42ms
+[00:47:24.220] Browser WARN    Image with src "/_next/static/media/login_img.87f4187e.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:47:25.369] Browser ERROR   uncaughtError: ReferenceError: popUp is not defined
+[00:47:47.359] Server  LOG      ✓ Compiled in 59ms
+[00:47:47.904] Browser ERROR   uncaughtError: ReferenceError: use is not defined
+[00:47:51.782] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:47:52.327] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\src_Components_Login_LoginFrom_jsx_f3db1a0a._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:47:52.327] Server  ERROR    ⨯ ReferenceError: use is not defined
+[00:47:52.339] Server  LOG      ✓ Compiled in 68ms
+[00:47:52.340] Browser ERROR   uncaughtError: ReferenceError: use is not defined
+[00:47:52.445] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:52.914] Browser ERROR   uncaughtError: ReferenceError: use is not defined
+[00:47:54.817] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:47:55.302] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\src_Components_Login_LoginFrom_jsx_f3db1a0a._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:47:55.303] Server  ERROR    ⨯ ReferenceError: AuthContext is not defined
+[00:47:55.314] Server  LOG      ✓ Compiled in 46ms
+[00:47:55.414] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:55.908] Browser ERROR   uncaughtError: ReferenceError: AuthContext is not defined
+[00:47:57.190] Server  LOG      ✓ Compiled in 61ms
+[00:47:57.917] Browser ERROR   ./src/Components/Login/LoginFrom.jsx:11:37
+Parsing ecmascript source code failed
+   9 |
+  10 | const LoginFrom = () => {
+> 11 |   const { popUp } = use(AuthContextt;
+     |                                     ^
+  12 |
+  13 |   // Login with google
+  14 |   const provider = new GoogleAuthProvider();
+
+Expected ',', got ';'
+
+Import trace:
+  Server Component:
+    ./src/Components/Login/LoginFrom.jsx
+    ./src/app/login/page.jsx
+[00:48:01.607] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:48:01.660] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\src_Components_Login_LoginFrom_jsx_f3db1a0a._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:48:01.661] Server  ERROR    ⨯ ReferenceError: AuthContext is not defined
+[00:48:01.771] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:48:02.913] Browser ERROR   uncaughtError: ReferenceError: AuthContext is not defined
+[00:48:03.771] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:48:04.300] Server  LOG      ✓ Compiled in 70ms
+[00:48:04.444] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:48:17.719] Browser LOG     {"apiKey":"AIzaSyC1VxCUOIyTJYR9EvhAbNIYynflMBWQQEw","appName":"[DEFAULT]","createdAt":"1764003285453","displayName":"Ehasun UL Islam Orko","email":"ehasunulislamorko@gmail.com","emailVerified":true,"isAnonymous":false,"lastLoginAt":"1764009544844","photoURL":"https://lh3.googleusercontent.com/a/ACg8ocL8AuTwRNeIPWWDHuhjdNyOdtPvk7Dx6ShrKZNRUpcvJwFHL54o=s96-c","providerData":[{"displayName":"Ehasun UL Islam Orko","email":"ehasunulislamorko@gmail.com","phoneNumber":null,"photoURL":"https://lh3.googleusercontent.com/a/ACg8ocL8AuTwRNeIPWWDHuhjdNyOdtPvk7Dx6ShrKZNRUpcvJwFHL54o=s96-c","providerId":"google.com","uid":"115914245446524225749"}],"stsTokenManager":{"accessToken":"eyJhbGciOiJSUzI1NiIsImtpZCI6IjQ1YTZjMGMyYjgwMDcxN2EzNGQ1Y2JiYmYzOWI4NGI2NzYxMjgyNjUiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiRWhhc3VuIFVMIElzbGFtIE9ya28iLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTDhBdVR3Uk5lSVBXV0RIdWhqZE55T2R0UHZrN0R4NlNocktaTlJVcGN2SndGSEw1NG89czk2LWMiLCJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vbS00OS1pbnRlZ3JhdGlvbi1wcml2YXRlLXJvdXRlIiwiYXVkIjoibS00OS1pbnRlZ3JhdGlvbi1wcml2YXRlLXJvdXRlIiwiYXV0aF90aW1lIjoxNzY0MDA5NTQ0LCJ1c2VyX2lkIjoiYU5sQXlkcTRpVlBnZ0l2aHhucllXT0p4OUtIMiIsInN1YiI6ImFObEF5ZHE0aVZQZ2dJdmh4bnJZV09KeDlLSDIiLCJpYXQiOjE3NjQwMDk1NDQsImV4cCI6MTc2NDAxMzE0NCwiZW1haWwiOiJlaGFzdW51bGlzbGFtb3Jrb0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJnb29nbGUuY29tIjpbIjExNTkxNDI0NTQ0NjUyNDIyNTc0OSJdLCJlbWFpbCI6WyJlaGFzdW51bGlzbGFtb3Jrb0BnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJnb29nbGUuY29tIn19.QVNx2tFxL2sW7lmUS2Mtn2fU6yD6SdoBa7G5jhIs-zP-_OeWguT_zWKDF6Ym1RaRtn-xhB_nlW1RbRYPBpj3hawKcYxryhTg1-J9gNAB-4s3UOMXr49_IZcOYqKk4XWwOgg-TuXZkdNLg6arEkc-VQvKaIck4raaxfie4ya1-14LwEx-_d-6skP79hC3zvAjEpexnjOa89INQ264Zgifasiog0srS8vLW61PUrJ7Id3Z5BxBMns-QliQLZH9FMcDrt7hHPfyq1rHu4cyr44CEMCAShtYArlK8UY9IqSyuIOmHBBxmvScAvtTUtg6uqOsIfqQFFQ5uRs3LO3DiT9-Hw","expirationTime":1764013146137,"refreshToken":"AMf-vByeMhCyHf1Nnxxzenh392W_VILcjjKHHItL4_COuAA1YHs36TGRP_ijVz3r9G3q9Uc9wEbvgdtgQ1tjoSfnbK07yp3pNnLRwscIVJxhd6dmGVVI_dupvEfMx2lPHK06n7j5y9DvC0bOD8HjZnqp_5gPYVoMmESd9kqPRILK68RH7SX1PWP3iCY5tLtqyF2VkrT3FeCPZlseHwIcGlkdQmO1_XWOMH9AOdZxVtOhW8dhA-nS_AM-uQ2icTQ0uVappt1665sJucJTx9Z1ESCsJARG3UzuvebIRE_sprDW-QfTolajW1XHlqCcq2kQBNVijCGLx3eeYrqBeWUDtGF36sWXzGsrDo0Vmq1FwVx05wqqqFrazbMEb93kAvFdkgbIXWjN96NE5IJa6cthUCJ5r9peHwTQbAUjCMYQ12cCNBB5y8bf_djE6RZIRsX6uB-uveqKzGOoS_ZIEacPDg3oiCabNdFPtGZdndMGCCBSLfKH4Opa6rU"},"uid":"aNlAydq4iVPggIvhxnrYWOJx9KH2"}
+[00:48:17.719] Browser ERROR   unhandledRejection: ReferenceError: Swal is not defined
+[00:48:29.495] Server  LOG      ✓ Compiled in 72ms
+[00:48:41.506] Browser LOG     {"apiKey":"AIzaSyC1VxCUOIyTJYR9EvhAbNIYynflMBWQQEw","appName":"[DEFAULT]","createdAt":"1764003285453","displayName":"Ehasun UL Islam Orko","email":"ehasunulislamorko@gmail.com","emailVerified":true,"isAnonymous":false,"lastLoginAt":"1764009544844","photoURL":"https://lh3.googleusercontent.com/a/ACg8ocL8AuTwRNeIPWWDHuhjdNyOdtPvk7Dx6ShrKZNRUpcvJwFHL54o=s96-c","providerData":[{"displayName":"Ehasun UL Islam Orko","email":"ehasunulislamorko@gmail.com","phoneNumber":null,"photoURL":"https://lh3.googleusercontent.com/a/ACg8ocL8AuTwRNeIPWWDHuhjdNyOdtPvk7Dx6ShrKZNRUpcvJwFHL54o=s96-c","providerId":"google.com","uid":"115914245446524225749"}],"stsTokenManager":{"accessToken":"eyJhbGciOiJSUzI1NiIsImtpZCI6IjQ1YTZjMGMyYjgwMDcxN2EzNGQ1Y2JiYmYzOWI4NGI2NzYxMjgyNjUiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiRWhhc3VuIFVMIElzbGFtIE9ya28iLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTDhBdVR3Uk5lSVBXV0RIdWhqZE55T2R0UHZrN0R4NlNocktaTlJVcGN2SndGSEw1NG89czk2LWMiLCJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vbS00OS1pbnRlZ3JhdGlvbi1wcml2YXRlLXJvdXRlIiwiYXVkIjoibS00OS1pbnRlZ3JhdGlvbi1wcml2YXRlLXJvdXRlIiwiYXV0aF90aW1lIjoxNzY0MDA5NTY4LCJ1c2VyX2lkIjoiYU5sQXlkcTRpVlBnZ0l2aHhucllXT0p4OUtIMiIsInN1YiI6ImFObEF5ZHE0aVZQZ2dJdmh4bnJZV09KeDlLSDIiLCJpYXQiOjE3NjQwMDk1NjgsImV4cCI6MTc2NDAxMzE2OCwiZW1haWwiOiJlaGFzdW51bGlzbGFtb3Jrb0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJnb29nbGUuY29tIjpbIjExNTkxNDI0NTQ0NjUyNDIyNTc0OSJdLCJlbWFpbCI6WyJlaGFzdW51bGlzbGFtb3Jrb0BnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJnb29nbGUuY29tIn19.RksLjqXOaJVIY6Ld2GsWZJDgSrggSxbFDxVLmD6Jhk1cT2OR2Z1A1mDd_rz6trLscfLBUefRgF9a4B4EKN5M7_VOVGEhwwZNnrlYeqAaeY20UvWR6wxy351IiWi3Q707CbLlt7r16IzzgLWCEn7OUEJsr-dylzUXjX5KC60-Gqib8tlX1OrTmc_5GLEjdSPV0ADevMQexUf6cpfXH8MZ3_dK9YHAdEC4_TV1AHRNlfWFbI2V-eiL4tsX4oXt13D81YfPIn-0AWK8obx-NijwZV1ZYBBpWXWXHCEoUj_NZsbC43hmdxk_hfItnEYA4x4Um5iooakp7qziujKmtAYORg","expirationTime":1764013169958,"refreshToken":"AMf-vByZWGF6BPmvT0YX7sGFj8Bp0TzOCbDDs2T3qN2M2FqE7Wxq5FEneZy2FgjqB--2SdhP1soC8tovZiBCu_NoPb6ljd_cEZdm6DJv9RhU2mAR7mwCZ-4LnGqS-MHB9vi2sGcMO9wP7ZXaE2MfVUJexnwOYnFQu8VhlKRSgCVEDmezlzPTeNibjGxILfKOn3UorHPojnVstK8bMIiJUzB3JHTC3q6QgxiDMHZwcmiAFlQwA132-VWhgL5wXK3BlbDQmEtw7Hd5WUsdnqeB_SThrEiHWu1ETaGkCdCCtQqnd3k0FJbeESYrNu5qRxzu09Xdw9vG_plR9Ph9a7LdEY5tFI1HfrEESUKFVx7dmj96HPlVh0TGMyowdNMn9WEMgSK0xDwbcg-pqeXuRTo6RmcyYoiLNKyWrT6hJ_752JZB3jNyQb_xWz_mTLZze-FywgwX_TKVCUQJ3z14CiOCAVWO_t8juWZekoZ6lTuvEPjqyq0CNRRym_A"},"uid":"aNlAydq4iVPggIvhxnrYWOJx9KH2"}
+[00:49:17.980] Server  LOG      ✓ Compiled in 133ms
+[00:49:20.099] Server  LOG      ✓ Compiled in 41ms
+[00:49:43.778] Server  LOG      ✓ Compiled in 51ms
+[00:49:47.489] Server  LOG      ✓ Compiled in 43ms
+[00:49:48.920] Server  LOG      ✓ Compiled in 33ms
+[00:49:52.835] Server  LOG      ✓ Compiled in 41ms
+[00:49:56.578] Server  LOG      ✓ Compiled in 46ms
+[00:50:07.987] Server  LOG      ✓ Compiled in 73ms
+[00:50:34.533] Server  LOG      ✓ Compiled in 126ms
+[00:50:59.750] Server  LOG      ✓ Compiled in 51ms
+[00:51:01.779] Server  LOG      ✓ Compiled in 51ms
+[00:51:05.374] Server  LOG      ✓ Compiled in 37ms
+[00:51:11.924] Server  LOG      ✓ Compiled in 44ms
+[00:51:27.240] Server  LOG      ✓ Compiled in 42ms
+[00:51:31.106] Server  LOG      ✓ Compiled in 41ms
+[00:51:34.721] Server  LOG      ✓ Compiled in 39ms
+[00:51:37.340] Server  LOG      ✓ Compiled in 48ms
+[00:51:40.751] Server  LOG      ✓ Compiled in 40ms
+[00:52:42.913] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:29:9
+Parsing ecmascript source code failed
+  27 | const Navbar = () => {
+  28 |
+> 29 |   const {}
+     |         ^^
+  30 |
+  31 |   return (
+  32 |     <div className="navbar shadow-sm">
+
+'const' declarations must be initialized
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[00:52:44.907] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:31:3
+Parsing ecmascript source code failed
+  29 |   const {} = 
+  30 |
+> 31 |   return (
+     |   ^^^^^^
+  32 |     <div className="navbar shadow-sm">
+  33 |       <div className="navbar-start px-4">
+  34 |         <div className="dropdown">
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[00:52:48.030] Server  LOG      ✓ Compiled in 118ms
+[00:52:48.122] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__17730005._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:52:48.123] Server  ERROR    ⨯ ReferenceError: use is not defined
+[00:52:48.151] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__17730005._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:52:48.152] Server  ERROR    ⨯ ReferenceError: use is not defined
+[00:52:48.906] Browser ERROR   uncaughtError: ReferenceError: use is not defined
+[00:52:54.008] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:52:54.008] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__17730005._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:52:54.009] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading '$$typeof')
+[00:52:54.735] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:52:54.904] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading '$$typeof')
+[00:52:55.742] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__17730005._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:52:55.743] Server  ERROR    ⨯ ReferenceError: A is not defined
+[00:52:56.299] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:52:56.910] Browser ERROR   uncaughtError: ReferenceError: A is not defined
+[00:53:01.484] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:53:01.608] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:53:01.609] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__9a421b1f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:53:01.609] Server  ERROR    ⨯ Error: Cannot use() an already resolved Client Reference.
+[00:53:02.066] Server  LOG      ✓ Compiled in 203ms
+[00:53:02.089] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:53:02.089] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__9a421b1f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:53:02.090] Server  ERROR    ⨯ Error: Cannot use() an already resolved Client Reference.
+[00:53:02.298] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:53:02.903] Browser ERROR   uncaughtError: Error: Cannot use() an already resolved Client Reference.
+[00:53:07.827] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:53:07.827] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__9a421b1f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:53:07.828] Server  ERROR    ⨯ Error: Cannot use() an already resolved Client Reference.
+[00:53:08.271] Server  LOG      ✓ Compiled in 251ms
+[00:53:08.375] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:53:08.919] Browser ERROR   uncaughtError: Error: Cannot use() an already resolved Client Reference.
+[00:53:21.029] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:53:21.029] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__9a421b1f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:53:21.030] Server  ERROR    ⨯ Error: Cannot use() an already resolved Client Reference.
+[00:53:21.677] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:53:21.908] Browser ERROR   uncaughtError: Error: Cannot use() an already resolved Client Reference.
+[00:53:22.137] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:53:22.138] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__9a421b1f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:53:22.138] Server  ERROR    ⨯ Error: Cannot use() an already resolved Client Reference.
+[00:53:22.852] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:53:23.393] Browser ERROR   uncaughtError: Error: Cannot use() an already resolved Client Reference.
+[00:53:23.584] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:53:23.584] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__9a421b1f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:53:23.585] Server  ERROR    ⨯ Error: Cannot use() an already resolved Client Reference.
+[00:53:24.274] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:53:24.903] Browser ERROR   uncaughtError: Error: Cannot use() an already resolved Client Reference.
+[00:53:26.621] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:53:27.206] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__80d283ee._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:53:27.207] Server  ERROR    ⨯ TypeError: Cannot destructure property 'user' of '{imported module ./nodemodules/next/dist/server/route-modules/app-page/vendored/ssr/react.js}.use(...)' as it is null.
+[00:53:27.237] Server  LOG      ✓ Compiled in 407ms
+[00:53:27.248] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__80d283ee._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:53:27.249] Server  ERROR    ⨯ TypeError: Cannot destructure property 'user' of '{imported module ./nodemodules/next/dist/server/route-modules/app-page/vendored/ssr/react.js}.use(...)' as it is null.
+[00:53:27.258] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:53:27.368] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:53:30.580] Browser WARN    Image with src "/_next/static/media/login_img.87f4187e.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:56:22.328] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:56:22.329] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__9a421b1f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:56:22.330] Server  ERROR    ⨯ Error: Cannot use() an already resolved Client Reference.
+[00:56:22.355] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:56:22.355] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__9a421b1f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:56:22.356] Server  ERROR    ⨯ Error: Cannot use() an already resolved Client Reference.
+[00:56:22.823] Server  LOG      ✓ Compiled in 202ms
+[00:56:22.920] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:56:23.324] Browser ERROR   uncaughtError: Error: Cannot use() an already resolved Client Reference.
+[00:56:23.484] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:56:23.485] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__9a421b1f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:56:23.485] Server  ERROR    ⨯ Error: Cannot use() an already resolved Client Reference.
+[00:56:24.016] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:56:24.433] Browser ERROR   uncaughtError: Error: Cannot use() an already resolved Client Reference.
+[00:56:24.579] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:56:24.580] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__9a421b1f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:56:24.580] Server  ERROR    ⨯ Error: Cannot use() an already resolved Client Reference.
+[00:56:25.094] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:56:25.918] Browser ERROR   uncaughtError: Error: Cannot use() an already resolved Client Reference.
+[00:56:31.024] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__9a421b1f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:56:31.025] Server  ERROR    ⨯ ReferenceError: use is not defined
+[00:56:31.572] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:56:31.910] Browser ERROR   uncaughtError: ReferenceError: use is not defined
+[00:56:43.475] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.477] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.478] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.479] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.507] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.508] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.509] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.510] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.588] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.589] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.591] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.592] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.595] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.596] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.597] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.598] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.601] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.602] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.604] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.605] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.606] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.607] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.608] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.609] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.611] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.612] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.613] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.614] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.616] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.617] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.618] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.619] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:43.630] Server  LOG      ✓ Compiled in 192ms
+[00:56:43.911] Browser ERROR   ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+[00:56:47.153] Server  ERROR    ⨯ ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+
+./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:47.289] Browser ERROR   ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+[00:56:47.916] Browser ERROR   ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+[00:56:47.916] Browser ERROR   ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+[00:56:48.595] Browser ERROR   uncaughtError: Error: ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:56:48.759] Browser ERROR   ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+[00:56:48.759] Browser ERROR   ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+[00:56:48.759] Browser ERROR   ./src/Context/useAuth.jsx:4:1
+Module not found: Can't resolve '../Context/AuthContext/AuthContext'
+  2 |
+  3 | import React, { use } from "react";
+> 4 | import { AuthContext } from "../Context/AuthContext/AuthContext";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const useAuth = () => {
+  7 |   const authInfo = use(AuthContext);
+
+Import trace:
+  Server Component:
+    ./src/Context/useAuth.jsx
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+[00:57:10.097] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__02e175c0._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:57:10.098] Server  ERROR    ⨯ Error: Attempted to call the default export of [project]/src/Context/useAuth.jsx from the server, but it's on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:57:10.731] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:57:10.908] Browser ERROR   uncaughtError: Error: Attempted to call the default export of [project]/src/Context/useAuth.jsx from the server, but it's on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:57:14.652] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:57:14.746] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__02e175c0._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:57:14.747] Server  ERROR    ⨯ Error: Attempted to call the default export of [project]/src/Context/useAuth.jsx from the server, but it's on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:57:15.175] Server  LOG      ✓ Compiled in 40ms
+[00:57:15.283] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:57:15.700] Browser ERROR   uncaughtError: Error: Attempted to call the default export of [project]/src/Context/useAuth.jsx from the server, but it's on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:58:08.927] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:58:09.072] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:58:09.072] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__fccedbc9._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:58:09.073] Server  ERROR    ⨯ Error: Cannot use() an already resolved Client Reference.
+[00:58:09.580] Server  LOG      ✓ Compiled in 288ms
+[00:58:09.677] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:58:10.062] Browser ERROR   uncaughtError: Error: Cannot use() an already resolved Client Reference.
+[00:58:16.860] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:58:16.860] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__fccedbc9._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:58:16.860] Server  ERROR    ⨯ Error: Cannot use() an already resolved Client Reference.
+[00:58:16.986] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:58:16.986] Browser ERROR   uncaughtError: Error: Cannot use() an already resolved Client Reference.
+[00:58:34.813] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__fccedbc9._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:58:34.814] Server  ERROR    ⨯ ReferenceError: use is not defined
+[00:58:35.384] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:58:35.912] Browser ERROR   uncaughtError: ReferenceError: use is not defined
+[00:58:38.690] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:58:38.690] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__fccedbc9._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:58:38.690] Server  ERROR    ⨯ Error: Cannot use() an already resolved Client Reference.
+[00:58:39.234] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:58:39.919] Browser ERROR   uncaughtError: Error: Cannot use() an already resolved Client Reference.
+[00:59:01.423] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:59:01.542] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__02e175c0._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:59:01.543] Server  ERROR    ⨯ Error: Attempted to call the default export of [project]/src/Context/useAuth.jsx from the server, but it's on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:59:02.121] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:59:02.121] Browser ERROR   uncaughtError: Error: Attempted to call the default export of [project]/src/Context/useAuth.jsx from the server, but it's on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:59:56.186] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__a19f83d9._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:59:56.186] Server  ERROR    ⨯ Error: Attempted to call the default export of [project]/src/Context/useAuth.jsx from the server, but it's on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:59:56.906] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:59:57.194] Browser ERROR   uncaughtError: Error: Attempted to call the default export of [project]/src/Context/useAuth.jsx from the server, but it's on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[01:00:02.906] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__a19f83d9._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:00:02.906] Server  ERROR    ⨯ Error: Attempted to call the default export of [project]/src/Context/useAuth.jsx from the server, but it's on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[01:00:03.461] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:00:03.908] Browser ERROR   uncaughtError: Error: Attempted to call the default export of [project]/src/Context/useAuth.jsx from the server, but it's on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[01:00:06.630] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__3eb8d599._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:00:06.630] Server  ERROR    ⨯ TypeError: Cannot destructure property 'user' of '{imported module ./src/Context/useAuth.jsx}.default(...)' as it is null.
+[01:00:06.643] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:00:06.646] Server  LOG      ✓ Compiled in 292ms
+[01:00:06.651] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:00:06.675] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__3eb8d599._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:00:06.676] Server  ERROR    ⨯ TypeError: Cannot destructure property 'user' of '{imported module ./src/Context/useAuth.jsx}.default(...)' as it is null.
+[01:00:06.784] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:00:07.978] Browser WARN    Image with src "/_next/static/media/login_img.87f4187e.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:02:26.115] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.117] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.118] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.124] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.127] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.128] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.132] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.133] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.297] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.299] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.301] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.306] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.308] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.311] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.313] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.314] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.317] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.319] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.322] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.324] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.326] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.328] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.330] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.333] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.336] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.337] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.340] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.341] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.344] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.345] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.347] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.348] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:02:26.349] Server  LOG      ✓ Compiled in 245ms
+[01:02:26.909] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:4:1
+Module not found: Can't resolve '@/Context/useAuth'
+  2 |
+  3 | import { assets } from "@/assets/assets";
+> 4 | import useAuth from "@/Context/useAuth";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import Image from "next/image";
+  6 | import Link from "next/link";
+  7 | import React from "react";
+
+Import map: aliased to relative './src/Context/useAuth' inside of [project]/
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+[01:02:45.753] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__c0bdaac9._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:02:45.754] Server  ERROR    ⨯ ReferenceError: useAuth is not defined
+[01:02:45.890] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:02:46.907] Browser ERROR   uncaughtError: ReferenceError: useAuth is not defined
+[01:02:50.970] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:02:51.532] Server  LOG      ✓ Compiled in 104ms
+[01:02:51.647] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:02:53.073] Server  LOG      ✓ Compiled in 45ms
+[01:02:53.917] Browser ERROR   uncaughtError: Error: An unsupported type was passed to use(): undefined
+[01:02:57.754] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:02:58.204] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__80d283ee._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:02:58.205] Server  ERROR    ⨯ TypeError: Cannot destructure property 'user' of '{imported module ./nodemodules/next/dist/server/route-modules/app-page/vendored/ssr/react.js}.use(...)' as it is null.
+[01:02:58.217] Server  LOG      ✓ Compiled in 221ms
+[01:02:58.219] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:02:58.336] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:02:59.459] Browser WARN    Image with src "/_next/static/media/login_img.87f4187e.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:05:15.237] Server  LOG      ✓ Compiled in 250ms
+[01:05:15.916] Browser ERROR   uncaughtError: ReferenceError: use is not defined
+[01:05:19.881] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:05:19.887] Server  LOG      ✓ Compiled in 45ms
+[01:05:20.456] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__80d283ee._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:05:20.456] Server  ERROR    ⨯ ReferenceError: useCon is not defined
+[01:05:20.573] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:05:21.320] Browser ERROR   uncaughtError: ReferenceError: useCon is not defined
+[01:05:21.486] Server  LOG      ✓ Compiled in 523ms
+[01:05:21.497] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:05:22.138] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__80d283ee._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:05:22.139] Server  ERROR    ⨯ TypeError: Cannot destructure property 'user' of '{imported module ./nodemodules/next/dist/server/route-modules/app-page/vendored/ssr/react.js}.useContext(...)' as it is null.
+[01:05:22.268] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:05:23.324] Browser WARN    Image with src "/_next/static/media/login_img.87f4187e.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:05:26.998] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__80d283ee._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:05:26.999] Server  ERROR    ⨯ TypeError: Cannot destructure property 'user' of '{imported module ./nodemodules/next/dist/server/route-modules/app-page/vendored/ssr/react.js}.useContext(...)' as it is null.
+[01:05:27.098] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:05:27.898] Browser WARN    Image with src "/_next/static/media/login_img.87f4187e.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:06:13.098] Server  LOG      ✓ Compiled in 103ms
+[01:06:17.600] Server  LOG      ✓ Compiled in 62ms
+[01:06:17.905] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:59:11
+Parsing ecmascript source code failed
+  57 |           {
+  58 |             user ? 
+> 59 |           }
+     |           ^
+  60 |
+  61 |           <Link href="/register" className="btn btn-sm border-none text-black">
+  62 |             Register
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[01:06:19.911] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:59:11
+Parsing ecmascript source code failed
+  57 |           {
+  58 |             user ? '' 
+> 59 |           }
+     |           ^
+  60 |
+  61 |           <Link href="/register" className="btn btn-sm border-none text-black">
+  62 |             Register
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[01:06:23.638] Server  LOG      ✓ Compiled in 72ms
+[01:06:23.903] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'user' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useContext)(...)' as it is null.
+[01:06:29.061] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:06:29.471] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__80d283ee._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:06:29.472] Server  ERROR    ⨯ TypeError: Cannot destructure property 'user' of '{imported module ./nodemodules/next/dist/server/route-modules/app-page/vendored/ssr/react.js}.useContext(...)' as it is null.
+[01:06:29.484] Server  LOG      ✓ Compiled in 44ms
+[01:06:29.584] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:06:30.910] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'user' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useContext)(...)' as it is null.
+[01:06:33.312] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:06:33.717] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__80d283ee._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:06:33.718] Server  ERROR    ⨯ TypeError: Cannot destructure property 'user' of '{imported module ./nodemodules/next/dist/server/route-modules/app-page/vendored/ssr/react.js}.useContext(...)' as it is null.
+[01:06:33.729] Server  LOG      ✓ Compiled in 57ms
+[01:06:33.837] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:06:34.916] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'user' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useContext)(...)' as it is null.
+[01:06:35.185] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:06:35.622] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__80d283ee._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:06:35.623] Server  ERROR    ⨯ TypeError: Cannot destructure property 'user' of '{imported module ./nodemodules/next/dist/server/route-modules/app-page/vendored/ssr/react.js}.useContext(...)' as it is null.
+[01:06:35.635] Server  LOG      ✓ Compiled in 39ms
+[01:06:35.734] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:06:36.418] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:06:36.418] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'user' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useContext)(...)' as it is null.
+[01:06:36.843] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__80d283ee._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:06:36.843] Server  ERROR    ⨯ TypeError: Cannot destructure property 'user' of '{imported module ./nodemodules/next/dist/server/route-modules/app-page/vendored/ssr/react.js}.useContext(...)' as it is null.
+[01:06:36.855] Server  LOG      ✓ Compiled in 49ms
+[01:06:36.955] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:06:37.918] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'user' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useContext)(...)' as it is null.
+[01:06:39.185] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:06:39.596] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__80d283ee._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:06:39.596] Server  ERROR    ⨯ TypeError: Cannot destructure property 'user' of '{imported module ./nodemodules/next/dist/server/route-modules/app-page/vendored/ssr/react.js}.useContext(...)' as it is null.
+[01:06:39.607] Server  LOG      ✓ Compiled in 58ms
+[01:06:39.704] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:06:39.962] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'user' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useContext)(...)' as it is null.
+[01:06:48.704] Server  LOG      ✓ Compiled in 61ms
+[01:06:48.906] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:61:13
+Parsing ecmascript source code failed
+  59 |             '' 
+  60 |             : 
+> 61 |             '<Link href="/login" className="btn btn-sm border-none text-black">
+     |             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  62 |             Login
+  63 |           </Link>
+  64 |           }
+
+Unterminated string constant
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[01:06:50.346] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:06:50.389] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__80d283ee._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:06:50.390] Server  ERROR    ⨯ TypeError: Cannot destructure property 'user' of '{imported module ./nodemodules/next/dist/server/route-modules/app-page/vendored/ssr/react.js}.useContext(...)' as it is null.
+[01:06:50.515] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:06:50.916] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'user' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useContext)(...)' as it is null.
+[01:06:52.791] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:06:53.201] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__80d283ee._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:06:53.201] Server  ERROR    ⨯ TypeError: Cannot destructure property 'user' of '{imported module ./nodemodules/next/dist/server/route-modules/app-page/vendored/ssr/react.js}.useContext(...)' as it is null.
+[01:06:53.212] Server  LOG      ✓ Compiled in 56ms
+[01:06:53.308] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:06:53.907] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'user' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useContext)(...)' as it is null.
+[01:06:57.231] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:06:57.694] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__80d283ee._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:06:57.694] Server  ERROR    ⨯ TypeError: Cannot destructure property 'user' of '{imported module ./nodemodules/next/dist/server/route-modules/app-page/vendored/ssr/react.js}.useContext(...)' as it is null.
+[01:06:57.705] Server  LOG      ✓ Compiled in 49ms
+[01:06:57.821] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:06:58.649] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:06:58.649] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'user' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useContext)(...)' as it is null.
+[01:06:59.037] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__80d283ee._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:06:59.037] Server  ERROR    ⨯ TypeError: Cannot destructure property 'user' of '{imported module ./nodemodules/next/dist/server/route-modules/app-page/vendored/ssr/react.js}.useContext(...)' as it is null.
+[01:06:59.048] Server  LOG      ✓ Compiled in 42ms
+[01:06:59.150] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:06:59.907] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'user' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useContext)(...)' as it is null.
+[01:07:03.636] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:07:04.095] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__80d283ee._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:07:04.096] Server  ERROR    ⨯ TypeError: Cannot destructure property 'user' of '{imported module ./nodemodules/next/dist/server/route-modules/app-page/vendored/ssr/react.js}.useContext(...)' as it is null.
+[01:07:04.107] Server  LOG      ✓ Compiled in 42ms
+[01:07:04.201] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:07:04.914] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'user' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useContext)(...)' as it is null.
+[01:07:05.430] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:07:05.819] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__80d283ee._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:07:05.820] Server  ERROR    ⨯ TypeError: Cannot destructure property 'user' of '{imported module ./nodemodules/next/dist/server/route-modules/app-page/vendored/ssr/react.js}.useContext(...)' as it is null.
+[01:07:05.832] Server  LOG      ✓ Compiled in 42ms
+[01:07:05.936] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:07:06.908] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'user' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useContext)(...)' as it is null.
+[01:07:08.547] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:07:08.963] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__80d283ee._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:07:08.964] Server  ERROR    ⨯ TypeError: Cannot destructure property 'user' of '{imported module ./nodemodules/next/dist/server/route-modules/app-page/vendored/ssr/react.js}.useContext(...)' as it is null.
+[01:07:08.978] Server  LOG      ✓ Compiled in 40ms
+[01:07:09.107] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:07:09.668] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:07:09.668] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'user' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useContext)(...)' as it is null.
+[01:07:09.681] Server  LOG      ✓ Compiled in 43ms
+[01:07:09.706] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__80d283ee._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:07:09.707] Server  ERROR    ⨯ TypeError: Cannot destructure property 'user' of '{imported module ./nodemodules/next/dist/server/route-modules/app-page/vendored/ssr/react.js}.useContext(...)' as it is null.
+[01:07:09.834] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:07:10.914] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'user' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useContext)(...)' as it is null.
+[01:07:12.879] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:07:13.356] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__80d283ee._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:07:13.356] Server  ERROR    ⨯ TypeError: Cannot destructure property 'user' of '{imported module ./nodemodules/next/dist/server/route-modules/app-page/vendored/ssr/react.js}.useContext(...)' as it is null.
+[01:07:13.368] Server  LOG      ✓ Compiled in 41ms
+[01:07:13.484] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:07:14.905] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'user' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useContext)(...)' as it is null.
+[01:07:15.111] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:07:15.540] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__80d283ee._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:07:15.540] Server  ERROR    ⨯ TypeError: Cannot destructure property 'user' of '{imported module ./nodemodules/next/dist/server/route-modules/app-page/vendored/ssr/react.js}.useContext(...)' as it is null.
+[01:07:15.551] Server  LOG      ✓ Compiled in 47ms
+[01:07:15.655] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:07:16.130] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'user' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useContext)(...)' as it is null.
+[01:09:23.273] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__80d283ee._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:09:23.274] Server  ERROR    ⨯ TypeError: Cannot destructure property 'user' of '{imported module ./nodemodules/next/dist/server/route-modules/app-page/vendored/ssr/react.js}.useContext(...)' as it is null.
+[01:09:23.442] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:09:23.914] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'user' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useContext)(...)' as it is null.
+[01:09:24.503] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__80d283ee._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:09:24.504] Server  ERROR    ⨯ TypeError: Cannot destructure property 'user' of '{imported module ./nodemodules/next/dist/server/route-modules/app-page/vendored/ssr/react.js}.useContext(...)' as it is null.
+[01:09:24.605] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:09:25.081] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'user' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useContext)(...)' as it is null.
+[01:09:28.751] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:09:40.745] Browser WARN    Image with src "/_next/static/media/login_img.87f4187e.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:09:55.987] Server  LOG      ✓ Compiled in 80ms
+[01:09:56.917] Browser ERROR   uncaughtError: ReferenceError: use is not defined
+[01:09:58.182] Server  LOG      ✓ Compiled in 357ms
+[01:09:58.185] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:09:58.311] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:10:11.729] Server  LOG      ✓ Compiled in 301ms
+[01:11:12.432] Server  LOG      ✓ Compiled in 181ms
+[01:11:13.410] Server  LOG      ✓ Compiled in 43ms
+[01:11:19.052] Server  LOG      ✓ Compiled in 49ms
+[01:11:20.316] Server  LOG      ✓ Compiled in 70ms
+[01:11:31.418] Server  LOG      ✓ Compiled in 62ms
+[01:11:35.678] Server  LOG      ✓ Compiled in 40ms
+[01:11:37.052] Server  LOG      ✓ Compiled in 42ms
+[01:11:40.792] Server  LOG      ✓ Compiled in 67ms
+[01:11:40.902] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:33:9
+Parsing ecmascript source code failed
+  31 |   const { user, signOutFunction } = use(AuthContext);
+  32 |
+> 33 |   const handle
+     |         ^^^^^^
+  34 |
+  35 |   return (
+  36 |     <div className="navbar shadow-sm">
+
+'const' declarations must be initialized
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[01:11:46.908] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:33:9
+Parsing ecmascript source code failed
+  31 |   const { user, signOutFunction } = use(AuthContext);
+  32 |
+> 33 |   const handleSignOut
+     |         ^^^^^^^^^^^^^
+  34 |
+  35 |   return (
+  36 |     <div className="navbar shadow-sm">
+
+'const' declarations must be initialized
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[01:11:54.277] Server  LOG      ✓ Compiled in 38ms
+[01:11:55.510] Server  LOG      ✓ Compiled in 42ms
+[01:11:57.817] Server  LOG      ✓ Compiled in 41ms
+[01:12:01.251] Server  LOG      ✓ Compiled in 39ms
+[01:12:03.384] Server  LOG      ✓ Compiled in 41ms
+[01:12:23.557] Server  LOG      ✓ Compiled in 53ms
+[01:12:24.777] Server  LOG      ✓ Compiled in 49ms
+[01:12:46.712] Server  LOG      ✓ Compiled in 45ms
+[01:12:47.841] Server  LOG      ✓ Compiled in 45ms
+[01:13:01.697] Server  LOG      ✓ Compiled in 47ms
+[01:13:02.726] Server  LOG      ✓ Compiled in 42ms
+[01:13:19.820] Server  LOG      ✓ Compiled in 39ms
+[01:13:22.391] Server  LOG      ✓ Compiled in 41ms
+[01:13:26.274] Server  LOG      ✓ Compiled in 72ms
+[01:13:47.957] Server  LOG      ✓ Compiled in 40ms
+[01:13:48.916] Browser ERROR   Unknown event handler property `%s`. It will be ignored. onc
+[01:13:50.100] Server  LOG      ✓ Compiled in 49ms
+[01:13:50.912] Browser ERROR   Unknown event handler property `%s`. It will be ignored. oncCl
+[01:13:52.654] Server  LOG      ✓ Compiled in 62ms
+[01:13:55.621] Browser ERROR   uncaughtError: ReferenceError: signOut is not defined
+[01:14:28.269] Server  LOG      ✓ Compiled in 149ms
+[01:14:30.606] Browser ERROR   unhandledRejection: ReferenceError: Swal is not defined
+[01:14:42.810] Server  LOG      ✓ Compiled in 428ms
+[01:14:43.045] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:15:28.867] Browser LOG     {"apiKey":"AIzaSyC1VxCUOIyTJYR9EvhAbNIYynflMBWQQEw","appName":"[DEFAULT]","createdAt":"1764003285453","displayName":"Ehasun UL Islam Orko","email":"ehasunulislamorko@gmail.com","emailVerified":true,"isAnonymous":false,"lastLoginAt":"1764011175674","photoURL":"https://lh3.googleusercontent.com/a/ACg8ocL8AuTwRNeIPWWDHuhjdNyOdtPvk7Dx6ShrKZNRUpcvJwFHL54o=s96-c","providerData":[{"displayName":"Ehasun UL Islam Orko","email":"ehasunulislamorko@gmail.com","phoneNumber":null,"photoURL":"https://lh3.googleusercontent.com/a/ACg8ocL8AuTwRNeIPWWDHuhjdNyOdtPvk7Dx6ShrKZNRUpcvJwFHL54o=s96-c","providerId":"google.com","uid":"115914245446524225749"}],"stsTokenManager":{"accessToken":"eyJhbGciOiJSUzI1NiIsImtpZCI6IjQ1YTZjMGMyYjgwMDcxN2EzNGQ1Y2JiYmYzOWI4NGI2NzYxMjgyNjUiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiRWhhc3VuIFVMIElzbGFtIE9ya28iLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTDhBdVR3Uk5lSVBXV0RIdWhqZE55T2R0UHZrN0R4NlNocktaTlJVcGN2SndGSEw1NG89czk2LWMiLCJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vbS00OS1pbnRlZ3JhdGlvbi1wcml2YXRlLXJvdXRlIiwiYXVkIjoibS00OS1pbnRlZ3JhdGlvbi1wcml2YXRlLXJvdXRlIiwiYXV0aF90aW1lIjoxNzY0MDExMTc1LCJ1c2VyX2lkIjoiYU5sQXlkcTRpVlBnZ0l2aHhucllXT0p4OUtIMiIsInN1YiI6ImFObEF5ZHE0aVZQZ2dJdmh4bnJZV09KeDlLSDIiLCJpYXQiOjE3NjQwMTExNzUsImV4cCI6MTc2NDAxNDc3NSwiZW1haWwiOiJlaGFzdW51bGlzbGFtb3Jrb0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJnb29nbGUuY29tIjpbIjExNTkxNDI0NTQ0NjUyNDIyNTc0OSJdLCJlbWFpbCI6WyJlaGFzdW51bGlzbGFtb3Jrb0BnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJnb29nbGUuY29tIn19.tw7bFlWPa7BEX9BRBcjusdQ_qINrU5rvXO4VYB5yCkGw4yqumbI-JVVnUqc0I0NlEbLSnrO127VzUTLHjVL29Gve2xgW3Eh_FN9eHyrIsQZa0DaZqjiUZicvPD-KPfqdm8x0pOcG0sNwxl5g6_WC05ubiBebpKUtFKi8uJCg38UPZOft-zNy6rNCvqifOaVY0SWI2c8Mgq4s7QINkJRZgUO8_CN5mBrsYj6YuMNEvS_LMOT4LB1eoxl7PWUZQufczAT7jzATTnVEj6JcYOoZs6jkfF_JD62zKhAhR50gJ8rkm_Ihyq5iUiqvOheqQ74H-38lMtDQj_vlbcAksVvDQA","expirationTime":1764014777034,"refreshToken":"AMf-vBxHnN2JT_dYCPIfm2SxyUMeRgyuwaXbwPmKYiUlLUOmtG2lOUDiex-wtaYpwwjJ1K1D_sLdeKdPnLnG_bb1g9WMHmg3inbT8q92YQlZtrtAhbuj7nSgcmnoouWT10G7M9p0R4u64MW3isk3eEVfIbCf0k7_vc86csx8Vvb1bRapZWq8OSsG_9z370WqM3nYBZSgITttBAaAQWwJR15rB1GVlbBesThKizmMjvzSLkmuviL62DfKPDPqR2wyeI09ebcvPXY0Wf1KY_qW7Gwzm_tzT7BerUAaxWwSt87FZu5nHXUqbrjHbmBOwnWYSgJ5QacSzlmhx47Ar3HFNn6bYdFeNnrVgqIW7AoBE3VtbU9R1neORGuC31kh2kpEPTwpymzVU0XUVwp2tAzgXMkeDBU-5rqEwfRM2Y2lO1yTYXSy9CKq3DHTMbxw6uyp5IuaSf2srD3VRSyE0T6xYI5dL73L_ztJwt1xkyrOoC3XtGyYgZ_9W1A"},"uid":"aNlAydq4iVPggIvhxnrYWOJx9KH2"}
+[01:16:09.837] Server  LOG      ✓ Compiled in 46ms
+[01:16:15.393] Server  LOG      ✓ Compiled in 79ms
+[01:16:21.309] Server  LOG      ✓ Compiled in 94ms
+[01:16:48.435] Server  LOG      ✓ Compiled in 65ms
+[01:16:51.191] Server  LOG      ✓ Compiled in 42ms
+[01:16:53.388] Server  LOG      ✓ Compiled in 52ms
+[01:17:02.052] Server  LOG      ✓ Compiled in 51ms
+[01:17:03.878] Server  LOG      ✓ Compiled in 46ms
+[01:17:09.135] Server  LOG      ✓ Compiled in 47ms
+[01:17:09.910] Browser ERROR   ./src/Components/Login/LoginFrom.jsx:16:9
+Parsing ecmascript source code failed
+  14 |
+  15 |   // login with email, password
+> 16 |   const handleLogin
+     |         ^^^^^^^^^^^
+  17 |
+  18 |   // Login with google
+  19 |   const provider = new GoogleAuthProvider();
+
+'const' declarations must be initialized
+
+Import trace:
+  Server Component:
+    ./src/Components/Login/LoginFrom.jsx
+    ./src/app/login/page.jsx
+[01:17:19.364] Server  LOG      ✓ Compiled in 51ms
+[01:17:20.857] Server  LOG      ✓ Compiled in 50ms
+[01:17:34.651] Server  LOG      ✓ Compiled in 70ms
+[01:17:35.715] Server  LOG      ✓ Compiled in 50ms
+[01:17:42.917] Server  LOG      ✓ Compiled in 53ms
+[01:17:44.179] Server  LOG      ✓ Compiled in 62ms
+[01:17:53.038] Server  LOG      ✓ Compiled in 75ms
+[01:18:33.684] Server  LOG      ✓ Compiled in 143ms
+[01:18:42.836] Server  LOG      ✓ Compiled in 56ms
+[01:18:44.069] Server  LOG      ✓ Compiled in 62ms
+[01:19:08.187] Server  LOG      ✓ Compiled in 127ms
+[01:19:08.907] Browser ERROR   ./src/Components/Login/LoginFrom.jsx:23:11
+Parsing ecmascript source code failed
+  21 |
+  22 |     loginWithEmailPassword(email, password)
+> 23 |     .then(())
+     |           ^^
+  24 |   };
+  25 |
+  26 |   // Login with google
+
+Parenthesized expression cannot be empty
+
+Import trace:
+  Server Component:
+    ./src/Components/Login/LoginFrom.jsx
+    ./src/app/login/page.jsx
+[01:19:15.920] Server  LOG      ✓ Compiled in 53ms
+[01:19:19.852] Server  LOG      ✓ Compiled in 53ms
+[01:19:23.843] Server  LOG      ✓ Compiled in 52ms
+[01:19:25.624] Server  LOG      ✓ Compiled in 54ms
+[01:19:37.624] Server  LOG      ✓ Compiled in 49ms
+[01:19:37.947] Server  LOG      ✓ Compiled in 52ms
+[01:19:40.560] Server  LOG      ✓ Compiled in 41ms
+[01:19:47.105] Server  LOG      ✓ Compiled in 54ms
+[01:19:51.654] Server  LOG      ✓ Compiled in 47ms
+[01:20:05.573] Server  LOG      ✓ Compiled in 54ms
+[01:20:06.950] Server  LOG      ✓ Compiled in 67ms
+[01:20:42.920] Browser LOG     {"apiKey":"AIzaSyC1VxCUOIyTJYR9EvhAbNIYynflMBWQQEw","appName":"[DEFAULT]","createdAt":"1764006754606","email":"orko@gmail.com","emailVerified":false,"isAnonymous":false,"lastLoginAt":"1764011489988","providerData":[{"displayName":null,"email":"orko@gmail.com","phoneNumber":null,"photoURL":null,"providerId":"password","uid":"orko@gmail.com"}],"stsTokenManager":{"accessToken":"eyJhbGciOiJSUzI1NiIsImtpZCI6IjQ1YTZjMGMyYjgwMDcxN2EzNGQ1Y2JiYmYzOWI4NGI2NzYxMjgyNjUiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vbS00OS1pbnRlZ3JhdGlvbi1wcml2YXRlLXJvdXRlIiwiYXVkIjoibS00OS1pbnRlZ3JhdGlvbi1wcml2YXRlLXJvdXRlIiwiYXV0aF90aW1lIjoxNzY0MDExNDg5LCJ1c2VyX2lkIjoiSGswM0Q4cjhEMVpTU2U0NlFlWktVR2xrOTh1MSIsInN1YiI6IkhrMDNEOHI4RDFaU1NlNDZRZVpLVUdsazk4dTEiLCJpYXQiOjE3NjQwMTE0ODksImV4cCI6MTc2NDAxNTA4OSwiZW1haWwiOiJvcmtvQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJlbWFpbCI6WyJvcmtvQGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.W43XDsUMc87FYBjy3Z6Om8GAt6eGSe55yRdLTT-XnCwMiKOfmEcOf3h_MEdXvw--345pKIUt-lyoUPMW5cKpGJfBYEh9tJnW2N4AxSwXJ3M0IHZ4elfr9U5T7oenzFFAUQ40W22Gbf1dN2GO_5-HjuXB4XuAkXlGP3zFkdzX9TpzqPYrlDv8f8j9RNqkJGLDTHZsnPq2ko0U0wVz2yHQbD3x07rXb_GHpTPj0k5xaa9zDvLkJqn5DXpVaXrpNjznjPrshh2GDlMCXQdR9lOD9EXMt3nRgpQ01-Y1l6Kh_zPPddbVV5GE18cOKzcwQLiMCc_lppuX-QecfQcKlBNZXw","expirationTime":1764015091350,"refreshToken":"AMf-vByfuuk3r-_S0zNUUwUv4Fxbt7yGiLSjQiCNfnmpEwpTGTndmGNK9j7zX6iuDVnHmG1dIYVtzF35N87bYuinQ1CYSg0ZsZptKchODTdOkmYvU3VYkHy_bhN7MWdDzxR9dOMYBrHlF_XtkNHYdti72hENBglCWUr_hLyMdvQfbYmlRYxSa_Ws8P1TyJABTnfX5g14xAm5Tk5oFlIjSHQvot1LLM65su2_GYBHxVxVeFehOOMlYNjrXsYiw9U9GqgmMJ7sgnkR"},"uid":"Hk03D8r8D1ZSSe46QeZKUGlk98u1"}
+[01:20:49.399] Browser LOG     {"apiKey":"AIzaSyC1VxCUOIyTJYR9EvhAbNIYynflMBWQQEw","appName":"[DEFAULT]","createdAt":"1764006754606","email":"orko@gmail.com","emailVerified":false,"isAnonymous":false,"lastLoginAt":"1764011489988","providerData":[{"displayName":null,"email":"orko@gmail.com","phoneNumber":null,"photoURL":null,"providerId":"password","uid":"orko@gmail.com"}],"stsTokenManager":{"accessToken":"eyJhbGciOiJSUzI1NiIsImtpZCI6IjQ1YTZjMGMyYjgwMDcxN2EzNGQ1Y2JiYmYzOWI4NGI2NzYxMjgyNjUiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vbS00OS1pbnRlZ3JhdGlvbi1wcml2YXRlLXJvdXRlIiwiYXVkIjoibS00OS1pbnRlZ3JhdGlvbi1wcml2YXRlLXJvdXRlIiwiYXV0aF90aW1lIjoxNzY0MDExNDk2LCJ1c2VyX2lkIjoiSGswM0Q4cjhEMVpTU2U0NlFlWktVR2xrOTh1MSIsInN1YiI6IkhrMDNEOHI4RDFaU1NlNDZRZVpLVUdsazk4dTEiLCJpYXQiOjE3NjQwMTE0OTYsImV4cCI6MTc2NDAxNTA5NiwiZW1haWwiOiJvcmtvQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJlbWFpbCI6WyJvcmtvQGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.qfcboP9VniXDVkoNJ-pByLbDL0kGvH7qA4lWS-uYm4Xcgw-6AO51RDx3VV4jfbaHCJAb2LpABUmt3WdYC0U_utH-Xi5Y-H1IwbdVVxBnoHbOure3XMoRskhf3R2_CZaYqBjqpXqjT6z5Y6_oizNH9VGea-LwQkkIIVzy43i8K4jsROIElbCsrwxckVfMUuizuUoQa4UDlm2_GJKhPWmaz20TNmHthUiQxu0PbuJEevvdiXSqgg2prfb0_0rqhPdzJxKdRMsVy1EJmrwsJDs47XFd9kRfi04TOo8O2gqRT350AkHh3zUx1Zsa6MzvC8fWVstKWLz9hhKEnQfz2_-czA","expirationTime":1764015097855,"refreshToken":"AMf-vBzwJE5Htddj3CXOjRCtlKT3JW03TgsCz9u70misuqR2-BlKA92Mt5BpQL_A6VAvZiq_WoGED6JQGXm4lo3I80JgQt6MxDcVA0wu6-6Mc_NGygzb4E5kG6qiJ6VRkA7Mp4wMnH6VYMzQYPdzZQryzNuGnGhrYzGfMtGm4a7PwbMv5FGmLS8_G_XtH2tYltCHFFP-asn43R6eUGvCTQgrjplD5lmYq_-UNkNqIJN51zal_58i4b5MMu2dGE6oBBlyzFhupQ4a"},"uid":"Hk03D8r8D1ZSSe46QeZKUGlk98u1"}
+[01:21:02.158] Server  LOG      ✓ Compiled in 57ms
+[01:21:03.388] Server  LOG      ✓ Compiled in 54ms
+[01:21:08.388] Server  LOG      ✓ Compiled in 49ms
+[01:21:12.003] Server  LOG      ✓ Compiled in 81ms
+[01:21:13.532] Server  LOG      ✓ Compiled in 50ms
+[01:21:17.110] Browser LOG     {"apiKey":"AIzaSyC1VxCUOIyTJYR9EvhAbNIYynflMBWQQEw","appName":"[DEFAULT]","createdAt":"1764006754606","email":"orko@gmail.com","emailVerified":false,"isAnonymous":false,"lastLoginAt":"1764011489988","providerData":[{"displayName":null,"email":"orko@gmail.com","phoneNumber":null,"photoURL":null,"providerId":"password","uid":"orko@gmail.com"}],"stsTokenManager":{"accessToken":"eyJhbGciOiJSUzI1NiIsImtpZCI6IjQ1YTZjMGMyYjgwMDcxN2EzNGQ1Y2JiYmYzOWI4NGI2NzYxMjgyNjUiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vbS00OS1pbnRlZ3JhdGlvbi1wcml2YXRlLXJvdXRlIiwiYXVkIjoibS00OS1pbnRlZ3JhdGlvbi1wcml2YXRlLXJvdXRlIiwiYXV0aF90aW1lIjoxNzY0MDExNTI0LCJ1c2VyX2lkIjoiSGswM0Q4cjhEMVpTU2U0NlFlWktVR2xrOTh1MSIsInN1YiI6IkhrMDNEOHI4RDFaU1NlNDZRZVpLVUdsazk4dTEiLCJpYXQiOjE3NjQwMTE1MjQsImV4cCI6MTc2NDAxNTEyNCwiZW1haWwiOiJvcmtvQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJlbWFpbCI6WyJvcmtvQGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.dm8oA8b6Qa79ihch1I7ovswGziHoaT9o8OvSmXgORd1is6Bpyg_WjIKzN0eAByl-iBIz-lU7CtRTlNc8NFSk92Naddnybtn7Zgq5yxri4UWv6abLsd7-8N8DJ3U73RqhZM7oSW0GUInQ9Ep7P5uqmJCU7RB0MizPycHFbvKfmbqfn-1BBSqJy8F8hrnXB9UUUa6q0lifpNNjbprdN2eAPPUYXO37UkmxzZKq4XJAIqilZG53dmRnJBY8CIstwz7XUmTIBWZmnPfMmih6vr-_zFRmxHFQNZJiWoGv1brnef0ozFkuojpL84jzanCyqtjkUVk38ehSGt0IM6hjg6cuNg","expirationTime":1764015125608,"refreshToken":"AMf-vBzSqweKb1jCT1DYEf7gGdEraqN87BajBdgdEAUlZJAncFy9R4S0WEHOGNbyXS37GWZza8jxcpGy_kjvf88l-Mn1AP-Zvhg_2Pj84j7uj9B1ecUEDMyt_7SIwZ8v0mS-9G04jcNCwfUwIxE4fxdv4HyqfTK80FuWKFpgGfX3AlJKRPDHHbYFTrzfchGFhzjVUm_6obgjfQNfWdmwnplw1TpHRes43MSushz1pjkGJUL-Zj862d0JijBeu2phAQfKHXMixrc1"},"uid":"Hk03D8r8D1ZSSe46QeZKUGlk98u1"}
+[01:21:31.642] Server  LOG      ✓ Compiled in 50ms
+[01:21:34.725] Server  LOG      ✓ Compiled in 42ms
+[01:22:25.053] Server  LOG      ✓ Compiled in 144ms
+[01:22:26.968] Server  LOG      ✓ Compiled in 59ms
+[01:22:35.245] Server  LOG      ✓ Compiled in 43ms
+[01:22:46.269] Server  LOG      ✓ Compiled in 80ms
+[01:22:49.005] Server  LOG      ✓ Compiled in 59ms
+[01:22:50.156] Server  LOG      ✓ Compiled in 56ms
+[01:22:54.843] Server  LOG      ✓ Compiled in 102ms
+[01:22:58.838] Server  LOG      ✓ Compiled in 58ms
+[01:23:16.748] Server  LOG      ✓ Compiled in 167ms
+[01:23:19.327] Server  LOG      ✓ Compiled in 76ms
+[01:23:23.684] Server  LOG      ✓ Compiled in 59ms
+[01:23:27.290] Server  LOG      ✓ Compiled in 57ms
+[01:23:38.973] Server  LOG      ✓ Compiled in 53ms
+[01:23:41.984] Server  LOG      ✓ Compiled in 59ms
+[01:23:46.805] Server  LOG      ✓ Compiled in 59ms
+[01:23:52.905] Server  LOG      ✓ Compiled in 55ms
+[01:23:54.478] Server  LOG      ✓ Compiled in 52ms
+[01:23:59.248] Server  LOG      ✓ Compiled in 49ms
+[01:24:02.865] Server  LOG      ✓ Compiled in 59ms
+[01:24:08.258] Server  LOG      ✓ Compiled in 55ms
+[01:24:10.378] Server  LOG      ✓ Compiled in 51ms
+[01:24:11.438] Server  LOG      ✓ Compiled in 55ms
+[01:24:12.499] Server  LOG      ✓ Compiled in 49ms
+[01:24:24.882] Server  LOG      ✓ Compiled in 53ms
+[01:24:32.849] Server  LOG      ✓ Compiled in 51ms
+[01:24:39.279] Server  LOG      ✓ Compiled in 54ms
+[01:24:47.810] Server  LOG      ✓ Compiled in 47ms
+[01:24:50.008] Server  LOG      ✓ Compiled in 52ms
+[01:25:15.408] Server  LOG      ✓ Compiled in 132ms
+[01:25:17.780] Server  LOG      ✓ Compiled in 51ms
+[01:25:22.237] Server  LOG      ✓ Compiled in 48ms
+[01:25:25.836] Server  LOG      ✓ Compiled in 48ms
+[01:25:29.795] Server  LOG      ✓ Compiled in 38ms
+[01:25:31.631] Server  LOG      ✓ Compiled in 46ms
+[01:25:32.875] Server  LOG      ✓ Compiled in 53ms
+[01:29:03.543] Server  LOG      ✓ Compiled in 169ms
+[01:29:03.547] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:29:07.070] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:29:44.932] Browser WARN    Image with src "/_next/static/media/login_img.87f4187e.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:31:24.307] Server  LOG      ✓ Compiled in 187ms
+[01:31:24.912] Browser ERROR   ./src/Components/Login/LoginFrom.jsx:103:97
+Parsing ecmascript source code failed
+  101 |             </p>
+  102 |
+> 103 |             <L className="text-primary cursor-pointer hover:underline">Forgot Password</buttLon>
+      |                                                                                                 ^
+> 104 |           </div>
+      | ^^^^^^^^^^^
+  105 |
+  106 |           <button className="btn btn-primary text-black mt-4">Login</button>
+  107 |
+
+Expected '</', got 'jsx text (
+          )'
+
+Import trace:
+  Server Component:
+    ./src/Components/Login/LoginFrom.jsx
+    ./src/app/login/page.jsx
+[01:31:31.670] Server  LOG      ✓ Compiled in 41ms
+[01:31:31.903] Browser ERROR   ./src/Components/Login/LoginFrom.jsx:103:24
+Parsing ecmascript source code failed
+  101 |             </p>
+  102 |
+> 103 |             < className="text-primary cursor-pointer hover:underline">Forgot Password</button>
+      |                        ^
+  104 |           </div>
+  105 |
+  106 |           <button className="btn btn-primary text-black mt-4">Login</button>
+
+Expected '</', got '='
+
+Import trace:
+  Server Component:
+    ./src/Components/Login/LoginFrom.jsx
+    ./src/app/login/page.jsx
+[01:31:34.903] Browser ERROR   ./src/Components/Login/LoginFrom.jsx:103:24
+Parsing ecmascript source code failed
+  101 |             </p>
+  102 |
+> 103 |             < className="text-primary cursor-pointer hover:underline">Forgot Password</>
+      |                        ^
+  104 |           </div>
+  105 |
+  106 |           <button className="btn btn-primary text-black mt-4">Login</button>
+
+Expected '</', got '='
+
+Import trace:
+  Server Component:
+    ./src/Components/Login/LoginFrom.jsx
+    ./src/app/login/page.jsx
+[01:31:38.907] Browser ERROR   uncaughtError: Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
+Open your browser's console to view the Component stack trace.
+[01:31:49.783] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:31:49.797] Server  LOG      ✓ Compiled in 48ms
+[01:31:50.811] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\node_modules_next_db5561f6._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:31:50.814] Server  ERROR    ⨯ Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
+[01:31:51.005] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:31:51.906] Browser ERROR   uncaughtError: Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
+Open your browser's console to view the Component stack trace.
+[01:31:53.014] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:31:53.771] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\node_modules_next_db5561f6._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:31:53.771] Server  ERROR    ⨯ Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
+[01:31:53.784] Server  LOG      ✓ Compiled in 64ms
+[01:31:53.896] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:31:54.909] Browser ERROR   ./src/Components/Login/LoginFrom.jsx:103:27
+Parsing ecmascript source code failed
+  101 |             </p>
+  102 |
+> 103 |             <Link href={} className="text-primary cursor-pointer hover:underline">Forgot Password</Link>
+      |                           ^^^^^^^^^
+  104 |           </div>
+  105 |
+  106 |           <button className="btn btn-primary text-black mt-4">Login</button>
+
+Expected '</', got 'className'
+
+Import trace:
+  Server Component:
+    ./src/Components/Login/LoginFrom.jsx
+    ./src/app/login/page.jsx
+[01:31:54.909] Browser ERROR   ./src/Components/Login/LoginFrom.jsx:103:27
+Parsing ecmascript source code failed
+  101 |             </p>
+  102 |
+> 103 |             <Link href={} className="text-primary cursor-pointer hover:underline">Forgot Password</Link>
+      |                           ^^^^^^^^^
+  104 |           </div>
+  105 |
+  106 |           <button className="btn btn-primary text-black mt-4">Login</button>
+
+Expected '</', got 'className'
+
+Import trace:
+  Server Component:
+    ./src/Components/Login/LoginFrom.jsx
+    ./src/app/login/page.jsx
+[01:31:54.909] Browser ERROR   ./src/Components/Login/LoginFrom.jsx:103:27
+Parsing ecmascript source code failed
+  101 |             </p>
+  102 |
+> 103 |             <Link href={} className="text-primary cursor-pointer hover:underline">Forgot Password</Link>
+      |                           ^^^^^^^^^
+  104 |           </div>
+  105 |
+  106 |           <button className="btn btn-primary text-black mt-4">Login</button>
+
+Expected '</', got 'className'
+
+Import trace:
+  Server Component:
+    ./src/Components/Login/LoginFrom.jsx
+    ./src/app/login/page.jsx
+[01:31:54.909] Browser ERROR   uncaughtError: Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
+Open your browser's console to view the Component stack trace.
+[01:31:56.192] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:31:57.061] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:32:03.937] Server  LOG      ✓ Compiled in 95ms
+[01:32:04.542] Browser WARN    Image with src "/_next/static/media/login_img.87f4187e.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:33:24.918] Browser ERROR   ./src/app/forgot-password/page.jsx:10:1
+Parsing ecmascript source code failed
+   8 |         </div>
+   9 |     )
+> 10 | }
+     | ^
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+[01:33:25.913] Browser ERROR   ./src/app/forgot-password/page.jsx:10:1
+Parsing ecmascript source code failed
+   8 |         </div>
+   9 |     )
+> 10 | }
+     | ^
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+[01:33:27.918] Browser ERROR   ./src/app/forgot-password/page.jsx:10:1
+Parsing ecmascript source code failed
+   8 |         </div>
+   9 |     )
+> 10 | }
+     | ^
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+[01:33:29.912] Browser ERROR   ./src/app/forgot-password/page.jsx:8:9
+Parsing ecmascript source code failed
+   6 |         onSubmit={handleLogin}
+   7 |       ></
+>  8 |         </div>
+     |         ^
+   9 |     )
+  10 | }
+
+Expression expected
+[01:33:29.912] Browser ERROR   ./src/app/forgot-password/page.jsx:8:10
+Parsing ecmascript source code failed
+   6 |         onSubmit={handleLogin}
+   7 |       ></
+>  8 |         </div>
+     |          ^^^^^
+   9 |     )
+  10 | }
+
+Unterminated regexp literal
+[01:33:30.961] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__bf8277d4._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:33:30.962] Server  ERROR    ⨯ ReferenceError: handleLogin is not defined
+[01:33:31.119] Browser ERROR   uncaughtError: ReferenceError: handleLogin is not defined
+[01:33:31.190] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__bf8277d4._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:33:31.191] Server  ERROR    ⨯ ReferenceError: handleLogin is not defined
+[01:33:31.742] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:33:32.915] Browser ERROR   uncaughtError: ReferenceError: handleLogin is not defined
+[01:33:41.188] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:37:47.383] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__bf8277d4._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:37:47.384] Server  ERROR    ⨯ ReferenceError: FaRegUser is not defined
+[01:37:47.914] Browser ERROR   uncaughtError: ReferenceError: FaRegUser is not defined
+[01:37:48.390] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__bf8277d4._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:37:48.391] Server  ERROR    ⨯ ReferenceError: FaRegUser is not defined
+[01:37:48.646] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:37:49.909] Browser ERROR   uncaughtError: ReferenceError: FaRegUser is not defined
+[01:37:53.158] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:38:14.829] Server  LOG      ✓ Compiled in 125ms
+[01:38:21.006] Server  LOG      ✓ Compiled in 73ms
+[01:39:27.690] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:39:35.904] Browser ERROR   ./src/app/forgot-password/page.jsx:6:3
+Parsing ecmascript source code failed
+  4 | export default function forgotPassword() {
+  5 |     const {user} = 
+> 6 |   return (
+    |   ^^^^^^
+  7 |     <div className="flex justify-center items-center py-10">
+  8 |       <form
+  9 |         className="bg-white shadow-lg px-6 py-5 rounded w-[300px]"
+
+Expression expected
+[01:39:40.508] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:39:40.509] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__bf8277d4._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:39:40.509] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading '$$typeof')
+[01:39:40.907] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading '$$typeof')
+[01:39:43.240] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__bf8277d4._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:39:43.241] Server  ERROR    ⨯ ReferenceError: AuthCo is not defined
+[01:39:43.698] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:39:43.915] Browser ERROR   uncaughtError: ReferenceError: AuthCo is not defined
+[01:39:45.638] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:39:45.639] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__bd506ac4._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:39:45.639] Server  ERROR    ⨯ Error: Cannot use() an already resolved Client Reference.
+[01:39:45.883] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:39:46.916] Browser ERROR   uncaughtError: Error: Cannot use() an already resolved Client Reference.
+[01:39:52.953] Server  LOG      ✓ Compiled in 48ms
+[01:39:53.081] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:39:53.082] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__bd506ac4._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:39:53.082] Server  ERROR    ⨯ Error: Cannot use() an already resolved Client Reference.
+[01:39:53.355] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:39:53.903] Browser ERROR   uncaughtError: Error: Cannot use() an already resolved Client Reference.
+[01:39:56.180] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:39:56.180] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__bd506ac4._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:39:56.181] Server  ERROR    ⨯ Error: Cannot use() an already resolved Client Reference.
+[01:39:56.460] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:39:56.903] Browser ERROR   uncaughtError: Error: Cannot use() an already resolved Client Reference.
+[01:40:40.458] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__bd506ac4._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:40:40.458] Server  ERROR    ⨯ ReferenceError: use is not defined
+[01:40:40.712] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:40:41.906] Browser ERROR   uncaughtError: ReferenceError: use is not defined
+[01:40:45.057] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:40:45.057] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__bd506ac4._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:40:45.058] Server  ERROR    ⨯ Error: Cannot use() an already resolved Client Reference.
+[01:40:45.300] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:40:45.905] Browser ERROR   uncaughtError: Error: Cannot use() an already resolved Client Reference.
+[01:42:00.393] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:42:00.393] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__bd506ac4._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:42:00.394] Server  ERROR    ⨯ Error: Cannot use() an already resolved Client Reference.
+[01:42:00.648] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:42:01.349] Browser ERROR   uncaughtError: Error: Cannot use() an already resolved Client Reference.
+[01:42:01.475] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:42:01.476] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__bd506ac4._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:42:01.476] Server  ERROR    ⨯ Error: Cannot use() an already resolved Client Reference.
+[01:42:01.734] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:42:02.906] Browser ERROR   uncaughtError: Error: Cannot use() an already resolved Client Reference.
+[01:42:04.478] Server  LOG      ✓ Compiled in 43ms
+[01:42:04.772] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:42:35.159] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:42:36.199] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:43:11.100] Server  LOG      ✓ Compiled in 122ms
+[01:43:11.915] Browser ERROR   ./src/app/forgot-password/page.jsx:24:13
+Parsing ecmascript source code failed
+  22 |             className="input border-0 outline-0 bg-transparent"
+  23 |             placeholder={}
+> 24 |             name="name"
+     |             ^^^^
+  25 |           />
+  26 |         </div>
+  27 |       </form>
+
+Expected '</', got 'name'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/forgot-password/page.jsx [Client Component Browser]
+    ./src/app/forgot-password/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/forgot-password/page.jsx [Client Component SSR]
+    ./src/app/forgot-password/page.jsx [Server Component]
+[01:43:13.105] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/forgot-password/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:43:13.386] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:43:19.060] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/forgot-password/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:43:19.267] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\src_app_forgot-password_page_jsx_32b4e2c5._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:43:19.267] Server  ERROR    ⨯ TypeError: Cannot read properties of null (reading 'displayName')
+[01:43:19.281] Server  LOG      ✓ Compiled in 43ms
+[01:43:19.396] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:43:19.854] Browser ERROR   uncaughtError: TypeError: Cannot read properties of null (reading 'displayName')
+[01:44:54.774] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:44:54.775] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/forgot-password/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:44:54.775] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:44:54.991] Server  LOG      ✓ Compiled in 164ms
+[01:44:55.099] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:45:04.099] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:45:04.901] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:45:05.097] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:45:05.469] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:45:05.660] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:45:06.016] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:45:12.099] Server  LOG      ✓ Compiled in 40ms
+[01:45:14.803] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:45:52.317] Server  LOG      ✓ Compiled in 118ms
+[01:45:54.420] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\src_app_forgot-password_page_jsx_32b4e2c5._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:45:54.421] Server  ERROR    ⨯ TypeError: Cannot read properties of null (reading 'displayName')
+[01:45:54.539] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:45:54.700] Browser ERROR   uncaughtError: TypeError: Cannot read properties of null (reading 'displayName')
+[01:46:05.201] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:46:34.224] Browser ERROR   uncaughtError: TypeError: Cannot read properties of null (reading 'displayName')
+[01:46:47.109] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:47:17.903] Browser ERROR   ./src/app/forgot-password/page.jsx:9:10
+Parsing ecmascript source code failed
+   7 |   const { user } = useContext(AuthContext);
+   8 |
+>  9 |   return (
+     |          ^
+> 10 |     
+     | ^^^^
+> 11 |   );
+     | ^^^^
+  12 | }
+  13 |
+
+Parenthesized expression cannot be empty
+
+Import traces:
+  Client Component Browser:
+    ./src/app/forgot-password/page.jsx [Client Component Browser]
+    ./src/app/forgot-password/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/forgot-password/page.jsx [Client Component SSR]
+    ./src/app/forgot-password/page.jsx [Server Component]
+[01:47:20.353] Server  LOG      ✓ Compiled in 49ms
+[01:47:24.879] Server  LOG      ✓ Compiled in 45ms
+[01:48:25.913] Browser ERROR   ./src/app/forgot-password/page.jsx:2:10
+Parsing ecmascript source code failed
+  1 | export default function ForgotPassword() {
+> 2 |   return (
+    |          ^
+> 3 |     
+    | ^^^^
+> 4 |   );
+    | ^^^^
+  5 | }
+  6 |
+
+Parenthesized expression cannot be empty
+[01:48:34.912] Browser ERROR   ./src/app/forgot-password/page.jsx:3:5
+Parsing ecmascript source code failed
+  1 | export default function ForgotPassword() {
+  2 |   return (
+> 3 |     <
+    |     ^
+  4 |   );
+  5 | }
+  6 |
+
+Expression expected
+[01:48:37.469] Server  LOG      ✓ Compiled in 37ms
+[01:50:08.915] Browser ERROR   ./src/app/forgot-password/page.jsx:5:5
+Parsing ecmascript source code failed
+  3 |     <div>
+  4 |         <
+> 5 |     </div>
+    |     ^
+  6 |   );
+  7 | }
+  8 |
+
+Expression expected
+[01:50:08.915] Browser ERROR   ./src/app/forgot-password/page.jsx:5:6
+Parsing ecmascript source code failed
+  3 |     <div>
+  4 |         <
+> 5 |     </div>
+    |      ^^^^^
+  6 |   );
+  7 | }
+  8 |
+
+Unterminated regexp literal
+[01:50:09.911] Browser ERROR   ./src/app/forgot-password/page.jsx:5:5
+Parsing ecmascript source code failed
+  3 |     <div>
+  4 |         <F
+> 5 |     </div>
+    |     ^
+  6 |   );
+  7 | }
+  8 |
+
+Expression expected
+[01:50:09.911] Browser ERROR   ./src/app/forgot-password/page.jsx:5:6
+Parsing ecmascript source code failed
+  3 |     <div>
+  4 |         <F
+> 5 |     </div>
+    |      ^^^^^
+  6 |   );
+  7 | }
+  8 |
+
+Unterminated regexp literal
+[01:50:14.907] Browser ERROR   ./src/app/forgot-password/page.jsx:5:5
+Parsing ecmascript source code failed
+  3 |     <div>
+  4 |         <ForgotPassword
+> 5 |     </div>
+    |     ^
+  6 |   );
+  7 | }
+  8 |
+
+Expression expected
+[01:50:14.907] Browser ERROR   ./src/app/forgot-password/page.jsx:5:6
+Parsing ecmascript source code failed
+  3 |     <div>
+  4 |         <ForgotPassword
+> 5 |     </div>
+    |      ^^^^^
+  6 |   );
+  7 | }
+  8 |
+
+Unterminated regexp literal
+[01:51:01.730] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__ba826c9b._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:51:01.730] Server  ERROR    ⨯ ReferenceError: FaRegUser is not defined
+[01:51:01.910] Browser ERROR   uncaughtError: ReferenceError: FaRegUser is not defined
+[01:51:03.238] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__ba826c9b._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:51:03.238] Server  ERROR    ⨯ ReferenceError: FaRegUser is not defined
+[01:51:03.611] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:51:04.914] Browser ERROR   uncaughtError: ReferenceError: FaRegUser is not defined
+[01:51:09.194] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:51:33.612] Server  LOG      ✓ Compiled in 154ms
+[01:52:52.248] Server  LOG      ✓ Compiled in 85ms
+[01:53:26.178] Server  LOG      ✓ Compiled in 71ms
+[01:53:59.918] Browser ERROR   ./src/Components/Forgot-Password/ForgotPasswordFrom.jsx:6:3
+Parsing ecmascript source code failed
+  4 | const ForgotPasswordFrom = () => {
+  5 |     const 
+> 6 |   return (
+    |   ^^^^^^
+  7 |     <div className="flex justify-center items-center">
+  8 |       <form className="w-[350px] bg-white shadow-md px-6 py-4 rounded-md">
+  9 |         {/* name */}
+
+Expected ident
+
+Import trace:
+  Server Component:
+    ./src/Components/Forgot-Password/ForgotPasswordFrom.jsx
+    ./src/app/forgot-password/page.jsx
+[01:54:04.907] Browser ERROR   ./src/Components/Forgot-Password/ForgotPasswordFrom.jsx:6:3
+Parsing ecmascript source code failed
+  4 | const ForgotPasswordFrom = () => {
+  5 |     const {user} = 
+> 6 |   return (
+    |   ^^^^^^
+  7 |     <div className="flex justify-center items-center">
+  8 |       <form className="w-[350px] bg-white shadow-md px-6 py-4 rounded-md">
+  9 |         {/* name */}
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/Components/Forgot-Password/ForgotPasswordFrom.jsx
+    ./src/app/forgot-password/page.jsx
+[01:54:08.872] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:54:08.873] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__ba826c9b._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:54:08.873] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading '$$typeof')
+[01:54:09.917] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading '$$typeof')
+[01:54:22.554] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:54:22.554] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__e5762778._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:54:22.555] Server  ERROR    ⨯ Error: Cannot use() an already resolved Client Reference.
+[01:54:23.960] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:54:24.917] Browser ERROR   uncaughtError: Error: Cannot use() an already resolved Client Reference.
+[01:54:31.458] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:54:31.458] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__e5762778._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:54:31.459] Server  ERROR    ⨯ Error: Cannot use() an already resolved Client Reference.
+[01:54:31.718] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:54:31.903] Browser ERROR   uncaughtError: Error: Cannot use() an already resolved Client Reference.
+[01:54:35.660] Server  LOG      ✓ Compiled in 133ms
+[01:54:36.034] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:54:45.018] Server  LOG      ✓ Compiled in 42ms
+[01:54:45.908] Browser ERROR   ./src/Components/Forgot-Password/ForgotPasswordFrom.jsx:19:13
+Parsing ecmascript source code failed
+  17 |             className="input border-0 outline-0 bg-transparent"
+  18 |             placeholder={}
+> 19 |             name="name"
+     |             ^^^^
+  20 |           />
+  21 |         </div>
+  22 |       </form>
+
+Expected '</', got 'name'
+
+Import trace:
+  Server Component:
+    ./src/Components/Forgot-Password/ForgotPasswordFrom.jsx
+    ./src/app/forgot-password/page.jsx
+[01:54:49.323] Server  LOG      ✓ Compiled in 45ms
+[01:54:49.913] Browser ERROR   uncaughtError: TypeError: Cannot read properties of null (reading 'displ')
+[01:54:52.233] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:54:52.442] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\src_Components_Forgot-Password_ForgotPasswordFrom_jsx_7bc7f17c._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:54:52.442] Server  ERROR    ⨯ TypeError: Cannot read properties of null (reading 'displayName')
+[01:54:52.454] Server  LOG      ✓ Compiled in 42ms
+[01:54:52.863] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:54:53.911] Browser ERROR   uncaughtError: TypeError: Cannot read properties of null (reading 'displayName')
+[01:55:11.325] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:55:11.559] Server  LOG      ✓ Compiled in 55ms
+[01:55:12.016] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:55:45.665] Browser LOG     {"apiKey":"AIzaSyC1VxCUOIyTJYR9EvhAbNIYynflMBWQQEw","appName":"[DEFAULT]","createdAt":"1764013592346","email":"mami@gmail.com","emailVerified":false,"isAnonymous":false,"lastLoginAt":"1764013592346","providerData":[{"displayName":null,"email":"mami@gmail.com","phoneNumber":null,"photoURL":null,"providerId":"password","uid":"mami@gmail.com"}],"stsTokenManager":{"accessToken":"eyJhbGciOiJSUzI1NiIsImtpZCI6IjQ1YTZjMGMyYjgwMDcxN2EzNGQ1Y2JiYmYzOWI4NGI2NzYxMjgyNjUiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vbS00OS1pbnRlZ3JhdGlvbi1wcml2YXRlLXJvdXRlIiwiYXVkIjoibS00OS1pbnRlZ3JhdGlvbi1wcml2YXRlLXJvdXRlIiwiYXV0aF90aW1lIjoxNzY0MDEzNTkyLCJ1c2VyX2lkIjoiVGZIenRlT09SeFJZZU1VblZRVU9LaDhZWXZCMiIsInN1YiI6IlRmSHp0ZU9PUnhSWWVNVW5WUVVPS2g4WVl2QjIiLCJpYXQiOjE3NjQwMTM1OTIsImV4cCI6MTc2NDAxNzE5MiwiZW1haWwiOiJtYW1pQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJlbWFpbCI6WyJtYW1pQGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.S8MNK3aJvl5D6RP_fGMzJW73zm079VCnGl6Q_8xXcGGwPDc4ftc4W6duJ9H7w9RmfNoQo-Rrv2OnElW1yoBSzmcFFe0XasafM4OpTess2bBzgFtF1_UvRq8JiLTUaiaYe8JZRs6MArFJONHOtPZIy71UAmL2nxBY9B3HvfcRAipzEQwCKF9njfhOGofxtBJF0pPRlURigwmTuCw17Yj_lM0iH4tTmMv_o_14vjK2AkGHgE_0w9Y5KCAnnzHZsijvo61t7jZeHULjqEX2e722IsLOc_b9-pvvH_-bXMl5meoMjYOXfkjIUetIt5kfDVXYpw7h9aaEB-DrPwv8Jrqbfw","expirationTime":1764017194144,"refreshToken":"AMf-vByNKBOFpsXpPrgDb1vMrVhFTj04-oVB26vqLIoWV99JDuUP06JaR4AdXavD_8J595su51k6EoOVVoqnnTAHWFEsyMJvhyxygQbd2kJJhI0hf4EfAdGgl-A5IciqNLYgHQrljY2I9-ljF-NfootncXxFYIVmn6_q1wEb1yAlRMFZHWd7x6Ow2gXHnWsNuvSgddlj_zHmj3hzLygblioNcv8H9uLO4mnjj5QDUlFQ1l8WX6jakQEqajo9LfwhEnTJK0IRdrj1"},"uid":"TfHzteOORxRYeMUnVQUOKh8YYvB2"}
+[01:56:05.321] Server  LOG      ✓ Compiled in 40ms
+[01:56:08.335] Server  LOG      ✓ Compiled in 45ms
+[01:56:14.001] Server  LOG      ✓ Compiled in 40ms
+[01:57:53.594] Server  LOG      ✓ Compiled in 125ms
+[01:57:57.582] Server  LOG      ✓ Compiled in 42ms
+[01:57:59.297] Server  LOG      ✓ Compiled in 40ms
+[01:58:06.971] Server  LOG      ✓ Compiled in 38ms
+[01:58:16.537] Server  LOG      ✓ Compiled in 52ms
+[01:58:18.171] Server  LOG      ✓ Compiled in 40ms
+[01:58:23.965] Server  LOG      ✓ Compiled in 46ms
+[01:58:25.036] Server  LOG      ✓ Compiled in 45ms
+[01:58:35.712] Server  LOG      ✓ Compiled in 44ms
+[01:58:41.196] Server  LOG      ✓ Compiled in 38ms
+[01:58:43.518] Server  LOG      ✓ Compiled in 57ms
+[01:58:45.578] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\src_Components_Forgot-Password_ForgotPasswordFrom_jsx_7bc7f17c._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:58:45.579] Server  ERROR    ⨯ TypeError: Cannot read properties of null (reading 'email')
+[01:58:46.736] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:58:47.642] Browser ERROR   uncaughtError: TypeError: Cannot read properties of null (reading 'email')
+[01:58:49.916] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\src_Components_Forgot-Password_ForgotPasswordFrom_jsx_7bc7f17c._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:58:49.917] Server  ERROR    ⨯ TypeError: Cannot read properties of null (reading 'email')
+[01:58:51.212] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:58:52.093] Browser ERROR   uncaughtError: TypeError: Cannot read properties of null (reading 'email')
+[02:00:38.563] Server  LOG      ✓ Compiled in 42ms
+[02:00:38.743] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[02:00:40.171] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:00:40.863] Browser WARN    Image with src "/_next/static/media/logo.299b8b6b.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[02:00:55.401] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:00:56.095] Browser WARN    Image with src "/_next/static/media/logo.299b8b6b.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[02:02:47.890] Server  LOG      ✓ Compiled in 47ms
+[02:02:56.088] Server  LOG      ✓ Compiled in 44ms
+[02:02:57.181] Server  LOG      ✓ Compiled in 47ms
+[02:03:09.496] Server  LOG      ✓ Compiled in 49ms
+[02:04:02.040] Server  LOG      ✓ Compiled in 110ms
+[02:04:02.995] Server  LOG      ✓ Compiled in 72ms
+[02:04:07.732] Server  LOG      ✓ Compiled in 84ms
+[02:04:28.745] Server  LOG      ✓ Compiled in 59ms
+[02:04:29.849] Server  LOG      ✓ Compiled in 40ms
+[02:04:47.780] Server  LOG      ✓ Compiled in 122ms
+[02:04:51.009] Server  LOG      ✓ Compiled in 52ms
+[02:04:58.082] Server  LOG      ✓ Compiled in 43ms
+[02:05:03.334] Server  LOG      ✓ Compiled in 58ms
+[02:05:09.257] Server  LOG      ✓ Compiled in 64ms
+[02:05:20.166] Server  LOG      ✓ Compiled in 52ms
+[02:05:21.568] Server  LOG      ✓ Compiled in 65ms
+[02:05:23.631] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'value')
+[02:06:19.972] Server  LOG      ✓ Compiled in 151ms
+[02:06:22.288] Browser ERROR   uncaughtError: ReferenceError: sendPasswordResetEmail is not defined
+[02:06:25.845] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:06:28.372] Browser ERROR   uncaughtError: ReferenceError: sendPasswordResetEmail is not defined
+[02:06:43.834] Server  LOG      ✓ Compiled in 184ms
+[02:07:13.235] Server  LOG      ✓ Compiled in 136ms
+[02:07:23.898] Server  LOG      ✓ Compiled in 73ms
+[02:07:27.622] Server  LOG      ✓ Compiled in 60ms
+[02:07:46.720] Browser LOG     {"apiKey":"AIzaSyC1VxCUOIyTJYR9EvhAbNIYynflMBWQQEw","appName":"[DEFAULT]","createdAt":"1764003285453","displayName":"Ehasun UL Islam Orko","email":"ehasunulislamorko@gmail.com","emailVerified":true,"isAnonymous":false,"lastLoginAt":"1764014313738","photoURL":"https://lh3.googleusercontent.com/a/ACg8ocL8AuTwRNeIPWWDHuhjdNyOdtPvk7Dx6ShrKZNRUpcvJwFHL54o=s96-c","providerData":[{"displayName":"Ehasun UL Islam Orko","email":"ehasunulislamorko@gmail.com","phoneNumber":null,"photoURL":"https://lh3.googleusercontent.com/a/ACg8ocL8AuTwRNeIPWWDHuhjdNyOdtPvk7Dx6ShrKZNRUpcvJwFHL54o=s96-c","providerId":"google.com","uid":"115914245446524225749"}],"stsTokenManager":{"accessToken":"eyJhbGciOiJSUzI1NiIsImtpZCI6IjQ1YTZjMGMyYjgwMDcxN2EzNGQ1Y2JiYmYzOWI4NGI2NzYxMjgyNjUiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiRWhhc3VuIFVMIElzbGFtIE9ya28iLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTDhBdVR3Uk5lSVBXV0RIdWhqZE55T2R0UHZrN0R4NlNocktaTlJVcGN2SndGSEw1NG89czk2LWMiLCJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vbS00OS1pbnRlZ3JhdGlvbi1wcml2YXRlLXJvdXRlIiwiYXVkIjoibS00OS1pbnRlZ3JhdGlvbi1wcml2YXRlLXJvdXRlIiwiYXV0aF90aW1lIjoxNzY0MDE0MzEzLCJ1c2VyX2lkIjoiYU5sQXlkcTRpVlBnZ0l2aHhucllXT0p4OUtIMiIsInN1YiI6ImFObEF5ZHE0aVZQZ2dJdmh4bnJZV09KeDlLSDIiLCJpYXQiOjE3NjQwMTQzMTMsImV4cCI6MTc2NDAxNzkxMywiZW1haWwiOiJlaGFzdW51bGlzbGFtb3Jrb0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJnb29nbGUuY29tIjpbIjExNTkxNDI0NTQ0NjUyNDIyNTc0OSJdLCJlbWFpbCI6WyJlaGFzdW51bGlzbGFtb3Jrb0BnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJnb29nbGUuY29tIn19.yZx33CFQn_FIY0okK7BK5puQ-aAYrksuPatQ6ZRFy4UEHnryVEERczYG_CzyAGUbt_hqoGBECqPc5YlmmeN8leyh-wkeYupFF02ylxzdT0qVLE947wwa4_98EPSokr3qjjReQiaXmmDIcqef1gZnTwLqnEWj3eiaQ88mQUMcEXqkUno7zouczKuW0s9kXWbhM4kfQqDDg48eAzPZQzTMWtD5hJd7WmR7kR7IVaUp0pMA9-DBcvvjVttIu5ExK4lr7Yw8N9u-GpI5OO5-nGPt0vQPMU9UKT0tPfVtjByHoxSZ07wa2GMiSI1yzCFvCo2hqnHfaSLa-65KvmhU52AOkQ","expirationTime":1764017915187,"refreshToken":"AMf-vBxjkxPSmjKyJlM-B9yqNzQ7hCnLZsMw06fpWkKTWuxSApyPF9ain7bzNkAQ1PnRKoRidmACa_QvXRejJBJY8yxRB6WyvnPw8TLGDVn3u6jt4fx1Y3gJ1MnPVQQOpmu-wAf8vXWIfT41KMiJrACWLrdNonuWw3acb_5TCB-hcJHVKb5zObHS6g_zUi_piQSu_CnuUMFJAOL0yg_S7NqHTjm-hJU4TkAS-YGiScTVzpG2gcRioMaikp-N4AUDLNZZvlBCqUUtDTQVWhiJabAW6kWLNgwU7CX8gGlNyFJFweL8oQ4TjfBn2iTmoI3ClPorNP4LHpBiz0GSad0IHfMkltEW6Vl2deQLR4O-t9vgcwhijXkvjL1f5bs1XRG9U7GAWOF4Q0XmcSaGKViN7nvA_gnI73zRCuxN3T_UnN5h14h1eLZyS_auYXBSzzGeM80IWyG-kwA6kCqGRP23ekeCrcDvaVRE9MbJz4T73229138rT8xHYiM"},"uid":"aNlAydq4iVPggIvhxnrYWOJx9KH2"}
+[02:08:45.945] Server  LOG      ✓ Compiled in 73ms
+[02:08:46.910] Browser ERROR   ./src/Components/Forgot-Password/ForgotPasswordFrom.jsx:8:11
+Parsing ecmascript source code failed
+   6 |
+   7 | const ForgotPasswordFrom = () => {
+>  8 |   const { , sendPasswordLink } = use(AuthContext);
+     |           ^
+   9 |
+  10 |   const handleResetPassword = (e) => {
+  11 |     e.preventDefault();
+
+Unexpected token `,`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./src/Components/Forgot-Password/ForgotPasswordFrom.jsx
+    ./src/app/forgot-password/page.jsx
+[02:08:47.915] Browser ERROR   uncaughtError: ReferenceError: user is not defined
+[02:09:02.192] Server  LOG      ✓ Compiled in 44ms
+[02:09:02.907] Browser ERROR   ./src/Components/Forgot-Password/ForgotPasswordFrom.jsx:45:41
+Parsing ecmascript source code failed
+  43 |             type="email"
+  44 |             className="input border-0 outline-0 bg-transparent"
+> 45 |             placeholder={user?.email || }
+     |                                         ^
+  46 |             name="email"
+  47 |           />
+  48 |         </div>
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./src/Components/Forgot-Password/ForgotPasswordFrom.jsx
+    ./src/app/forgot-password/page.jsx
+[02:09:07.032] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[02:09:08.012] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold

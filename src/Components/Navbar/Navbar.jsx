@@ -1,8 +1,12 @@
+"use client";
+
 import { assets } from "@/assets/assets";
+import { AuthContext } from "@/Context/AuthContext";
 import Image from "next/image";
 import Link from "next/link";
-import React from "react";
+import React, { use } from "react";
 import { FaBars } from "react-icons/fa";
+import Swal from "sweetalert2";
 
 const links = (
   <>
@@ -25,6 +29,27 @@ const links = (
 );
 
 const Navbar = () => {
+  const { user, signOutFunction } = use(AuthContext);
+
+  // handle signout
+  const handleSignOut = () => {
+    signOutFunction()
+      .then(() => {
+        Swal.fire({
+          title: "Log out Successfully",
+          icon: "success",
+          draggable: true,
+        });
+      })
+      .catch((err) => {
+        Swal.fire({
+          icon: "error",
+          title: err.message,
+          text: "Something went wrong!",
+        });
+      });
+  };
+
   return (
     <div className="navbar shadow-sm">
       <div className="navbar-start px-4">
@@ -49,17 +74,17 @@ const Navbar = () => {
 
       <div className="navbar-end">
         <div className="flex gap-3">
-          <Link
-            href=""
-            className="btn btn-sm border-none text-black"
-          >
-            Login
-          </Link>
+          {user ? (
+            <button className="btn btn-sm border-none text-black" onClick={handleSignOut}>
+              log out
+            </button>
+          ) : (
+            <Link href="/login" className="btn btn-sm border-none text-black">
+              Login
+            </Link>
+          )}
 
-          <Link
-            href=""
-            className="btn btn-sm border-none text-black"
-          >
+          <Link href="/register" className="btn btn-sm border-none text-black">
             Register
           </Link>
         </div>

@@ -32,11 +32,11 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$firebase$2
 ;
 const RegisterFrom = ()=>{
     const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$compiler$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["c"])(21);
-    if ($[0] !== "78a9f47fdf53fbbe10403617e4f2ffc3c0d11171e781d7adabddc5757fb2ab52") {
+    if ($[0] !== "28e1b39f6dadb85455cf8905e04f00e8ceabc35408c19e925fbe929a0812a9e9") {
         for(let $i = 0; $i < 21; $i += 1){
             $[$i] = Symbol.for("react.memo_cache_sentinel");
         }
-        $[0] = "78a9f47fdf53fbbe10403617e4f2ffc3c0d11171e781d7adabddc5757fb2ab52";
+        $[0] = "28e1b39f6dadb85455cf8905e04f00e8ceabc35408c19e925fbe929a0812a9e9";
     }
     const { createUserFunction, popUp } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["use"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$Context$2f$AuthContext$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["AuthContext"]);
     let t0;
@@ -235,7 +235,7 @@ const RegisterFrom = ()=>{
             children: [
                 "Already have an account?",
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                    href: "",
+                    href: "/login",
                     className: "text-primary ps-1",
                     children: "Login"
                 }, void 0, false, {

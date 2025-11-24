@@ -5,7 +5,10 @@ import { AuthContext } from "./AuthContext";
 import {
   createUserWithEmailAndPassword,
   onAuthStateChanged,
+  sendPasswordResetEmail,
+  signInWithEmailAndPassword,
   signInWithPopup,
+  signOut,
 } from "firebase/auth";
 import { auth } from "@/Firebase/firebase.config";
 
@@ -20,7 +23,6 @@ const AuthProvider = ({ children }) => {
   };
   /* register functionality end */
 
-
   /* SignInWithPopUp functionality start */
   const popUp = (email, password) => {
     setLoading(true);
@@ -28,7 +30,26 @@ const AuthProvider = ({ children }) => {
   };
   /* SignInWithPopUp functionality end */
 
-  
+  /* login with email, password functionality start */
+  const loginWithEmailPassword = (email, password) => {
+    setLoading(true);
+    return signInWithEmailAndPassword(auth, email, password);
+  };
+  /* login with email, password functionality end */
+
+  /* signout functionality start */
+  const signOutFunction = () => {
+    setLoading(true);
+    return signOut(auth);
+  };
+  /* signout functionality end */
+
+  /* Password Reset Email start */
+  const sendPasswordLink = (email) => {
+    setLoading(true);
+    return sendPasswordResetEmail(auth, email);
+  };
+  /* Password Reset Email end */
 
   // unsubscribe
   useEffect(() => {
@@ -47,6 +68,9 @@ const AuthProvider = ({ children }) => {
     loading,
     createUserFunction,
     popUp,
+    signOutFunction,
+    loginWithEmailPassword,
+    sendPasswordLink
   };
   return <AuthContext value={authInfo}>{children}</AuthContext>;
 };

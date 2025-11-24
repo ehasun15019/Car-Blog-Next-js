@@ -111,7 +111,7 @@ const RegisterFrom = () => {
 
           <p className="py-1 text-center">
             Already have an account?
-            <Link href="" className="text-primary ps-1">
+            <Link href="/login" className="text-primary ps-1">
               Login
             </Link>
           </p>

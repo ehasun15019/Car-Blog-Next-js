@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///F:/Programing-Hero-EJP/Blog/client/src/app/forgot-password/page.jsx"],"sourcesContent":["export default function ForgotPassword() {\r\n  return (\r\n    <div></div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,8OAAC;;;;;AAEL"}}]
+}
