@@ -8,6 +8,7 @@ const TestimonialCardDesign = ({
   userName,
   ratings,
   review,
+  user_email
 }) => {
   return (
     <div className="p-4">
@@ -34,7 +35,7 @@ const TestimonialCardDesign = ({
 
           <div>
             <h3 className="font-semibold text-lg text-teal-600">{userName}</h3>
-
+            <p className="text-[0.7rem]">{user_email}</p>
             <div className="flex gap-2 pt-2">
               <TiStarFullOutline className="text-yellow-400" />
               <p className="text-gray-200 text-sm">{ratings}</p>

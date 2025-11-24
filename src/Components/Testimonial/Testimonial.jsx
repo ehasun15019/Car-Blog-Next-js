@@ -61,6 +61,7 @@ const Testimonial = () => {
               <TestimonialCardDesign
                 user_photoURL={item.user_photoURL}
                 userName={item.userName}
+                user_email={item.user_email}
                 ratings={item.ratings}
                 review={item.review}
               />

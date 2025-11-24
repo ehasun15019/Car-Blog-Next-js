@@ -19,21 +19,21 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$ico
 ;
 ;
 const TestimonialCardDesign = (t0)=>{
-    const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$compiler$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["c"])(17);
-    if ($[0] !== "07461928dda36449a4d204b6010058ef6b134dcebe77417b77ab65c6c90c8864") {
-        for(let $i = 0; $i < 17; $i += 1){
+    const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$compiler$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["c"])(20);
+    if ($[0] !== "d4aba4570106115c16de43d31a23d0ab734ae1baebe2d6158a87ce838909f1f7") {
+        for(let $i = 0; $i < 20; $i += 1){
             $[$i] = Symbol.for("react.memo_cache_sentinel");
         }
-        $[0] = "07461928dda36449a4d204b6010058ef6b134dcebe77417b77ab65c6c90c8864";
+        $[0] = "d4aba4570106115c16de43d31a23d0ab734ae1baebe2d6158a87ce838909f1f7";
     }
-    const { userName, ratings, review } = t0;
+    const { userName, ratings, review, user_email } = t0;
     let t1;
     if ($[1] === Symbol.for("react.memo_cache_sentinel")) {
         t1 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["FaQuoteLeft"], {
             className: "text-3xl text-primary mb-4"
         }, void 0, false, {
             fileName: "[project]/src/Components/Design/TestimonialCardDesign.jsx",
-            lineNumber: 21,
+            lineNumber: 22,
             columnNumber: 10
         }, ("TURBOPACK compile-time value", void 0));
         $[1] = t1;
@@ -47,7 +47,7 @@ const TestimonialCardDesign = (t0)=>{
             children: review
         }, void 0, false, {
             fileName: "[project]/src/Components/Design/TestimonialCardDesign.jsx",
-            lineNumber: 28,
+            lineNumber: 29,
             columnNumber: 10
         }, ("TURBOPACK compile-time value", void 0));
         $[2] = review;
@@ -61,7 +61,7 @@ const TestimonialCardDesign = (t0)=>{
             className: "border-t border-dashed border-gray-300 mb-4"
         }, void 0, false, {
             fileName: "[project]/src/Components/Design/TestimonialCardDesign.jsx",
-            lineNumber: 36,
+            lineNumber: 37,
             columnNumber: 10
         }, ("TURBOPACK compile-time value", void 0));
         $[4] = t3;
@@ -74,7 +74,7 @@ const TestimonialCardDesign = (t0)=>{
             className: "w-12 h-12 relative rounded-full overflow-hidden"
         }, void 0, false, {
             fileName: "[project]/src/Components/Design/TestimonialCardDesign.jsx",
-            lineNumber: 43,
+            lineNumber: 44,
             columnNumber: 10
         }, ("TURBOPACK compile-time value", void 0));
         $[5] = t4;
@@ -88,7 +88,7 @@ const TestimonialCardDesign = (t0)=>{
             children: userName
         }, void 0, false, {
             fileName: "[project]/src/Components/Design/TestimonialCardDesign.jsx",
-            lineNumber: 50,
+            lineNumber: 51,
             columnNumber: 10
         }, ("TURBOPACK compile-time value", void 0));
         $[6] = userName;
@@ -97,74 +97,91 @@ const TestimonialCardDesign = (t0)=>{
         t5 = $[7];
     }
     let t6;
-    if ($[8] === Symbol.for("react.memo_cache_sentinel")) {
-        t6 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$ti$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["TiStarFullOutline"], {
+    if ($[8] !== user_email) {
+        t6 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+            className: "text-[0.7rem]",
+            children: user_email
+        }, void 0, false, {
+            fileName: "[project]/src/Components/Design/TestimonialCardDesign.jsx",
+            lineNumber: 59,
+            columnNumber: 10
+        }, ("TURBOPACK compile-time value", void 0));
+        $[8] = user_email;
+        $[9] = t6;
+    } else {
+        t6 = $[9];
+    }
+    let t7;
+    if ($[10] === Symbol.for("react.memo_cache_sentinel")) {
+        t7 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$ti$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["TiStarFullOutline"], {
             className: "text-yellow-400"
         }, void 0, false, {
             fileName: "[project]/src/Components/Design/TestimonialCardDesign.jsx",
-            lineNumber: 58,
+            lineNumber: 67,
             columnNumber: 10
         }, ("TURBOPACK compile-time value", void 0));
-        $[8] = t6;
-    } else {
-        t6 = $[8];
-    }
-    let t7;
-    if ($[9] !== ratings) {
-        t7 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-            className: "flex gap-2 pt-2",
-            children: [
-                t6,
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                    className: "text-gray-200 text-sm",
-                    children: ratings
-                }, void 0, false, {
-                    fileName: "[project]/src/Components/Design/TestimonialCardDesign.jsx",
-                    lineNumber: 65,
-                    columnNumber: 47
-                }, ("TURBOPACK compile-time value", void 0))
-            ]
-        }, void 0, true, {
-            fileName: "[project]/src/Components/Design/TestimonialCardDesign.jsx",
-            lineNumber: 65,
-            columnNumber: 10
-        }, ("TURBOPACK compile-time value", void 0));
-        $[9] = ratings;
         $[10] = t7;
     } else {
         t7 = $[10];
     }
     let t8;
-    if ($[11] !== t5 || $[12] !== t7) {
+    if ($[11] !== ratings) {
         t8 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+            className: "flex gap-2 pt-2",
+            children: [
+                t7,
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    className: "text-gray-200 text-sm",
+                    children: ratings
+                }, void 0, false, {
+                    fileName: "[project]/src/Components/Design/TestimonialCardDesign.jsx",
+                    lineNumber: 74,
+                    columnNumber: 47
+                }, ("TURBOPACK compile-time value", void 0))
+            ]
+        }, void 0, true, {
+            fileName: "[project]/src/Components/Design/TestimonialCardDesign.jsx",
+            lineNumber: 74,
+            columnNumber: 10
+        }, ("TURBOPACK compile-time value", void 0));
+        $[11] = ratings;
+        $[12] = t8;
+    } else {
+        t8 = $[12];
+    }
+    let t9;
+    if ($[13] !== t5 || $[14] !== t6 || $[15] !== t8) {
+        t9 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
             className: "flex items-center gap-3",
             children: [
                 t4,
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     children: [
                         t5,
-                        t7
+                        t6,
+                        t8
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/Components/Design/TestimonialCardDesign.jsx",
-                    lineNumber: 73,
+                    lineNumber: 82,
                     columnNumber: 55
                 }, ("TURBOPACK compile-time value", void 0))
             ]
         }, void 0, true, {
             fileName: "[project]/src/Components/Design/TestimonialCardDesign.jsx",
-            lineNumber: 73,
+            lineNumber: 82,
             columnNumber: 10
         }, ("TURBOPACK compile-time value", void 0));
-        $[11] = t5;
-        $[12] = t7;
-        $[13] = t8;
+        $[13] = t5;
+        $[14] = t6;
+        $[15] = t8;
+        $[16] = t9;
     } else {
-        t8 = $[13];
+        t9 = $[16];
     }
-    let t9;
-    if ($[14] !== t2 || $[15] !== t8) {
-        t9 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+    let t10;
+    if ($[17] !== t2 || $[18] !== t9) {
+        t10 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
             className: "p-4",
             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "card bg-black/20 shadow-md p-6 rounded-xl border border-white text-white max-w-md mx-auto",
@@ -172,25 +189,25 @@ const TestimonialCardDesign = (t0)=>{
                     t1,
                     t2,
                     t3,
-                    t8
+                    t9
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/Components/Design/TestimonialCardDesign.jsx",
-                lineNumber: 82,
-                columnNumber: 31
+                lineNumber: 92,
+                columnNumber: 32
             }, ("TURBOPACK compile-time value", void 0))
         }, void 0, false, {
             fileName: "[project]/src/Components/Design/TestimonialCardDesign.jsx",
-            lineNumber: 82,
-            columnNumber: 10
+            lineNumber: 92,
+            columnNumber: 11
         }, ("TURBOPACK compile-time value", void 0));
-        $[14] = t2;
-        $[15] = t8;
-        $[16] = t9;
+        $[17] = t2;
+        $[18] = t9;
+        $[19] = t10;
     } else {
-        t9 = $[16];
+        t10 = $[19];
     }
-    return t9;
+    return t10;
 };
 _c = TestimonialCardDesign;
 const __TURBOPACK__default__export__ = TestimonialCardDesign;
@@ -229,11 +246,11 @@ var _s = __turbopack_context__.k.signature();
 const Testimonial = ()=>{
     _s();
     const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$compiler$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["c"])(14);
-    if ($[0] !== "8fbaf5ccae44e746e90853835a49537d2aab9b672ecf84ec8398f50c656bc093") {
+    if ($[0] !== "cf0187e1aa9690dbbb3a0408bc04712db151893893ceddd4c40760d2fc6d0126") {
         for(let $i = 0; $i < 14; $i += 1){
             $[$i] = Symbol.for("react.memo_cache_sentinel");
         }
-        $[0] = "8fbaf5ccae44e746e90853835a49537d2aab9b672ecf84ec8398f50c656bc093";
+        $[0] = "cf0187e1aa9690dbbb3a0408bc04712db151893893ceddd4c40760d2fc6d0126";
     }
     let t0;
     if ($[1] === Symbol.for("react.memo_cache_sentinel")) {
@@ -392,6 +409,7 @@ function _temp3(item, index) {
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$Components$2f$Design$2f$TestimonialCardDesign$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
             user_photoURL: item.user_photoURL,
             userName: item.userName,
+            user_email: item.user_email,
             ratings: item.ratings,
             review: item.review
         }, void 0, false, {
