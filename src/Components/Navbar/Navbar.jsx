@@ -27,7 +27,7 @@ const links = (
 const Navbar = () => {
   return (
     <div className="navbar shadow-sm">
-      <div className="navbar-start">
+      <div className="navbar-start px-4">
         <div className="dropdown">
           <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
             <FaBars />
@@ -39,7 +39,7 @@ const Navbar = () => {
             {links}
           </ul>
         </div>
-        <Link href="/">
+        <Link href="/" className="flex gap-2 items-center">
           <Image src={assets.logo} alt="logo" height={40} />
         </Link>
       </div>

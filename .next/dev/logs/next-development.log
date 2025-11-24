@@ -1,235 +1,17 @@
-[00:00:06.718] Server  LOG      ✓ Ready in 5s
-[00:00:09.789] Server  LOG      ○ Compiling / ...
-[00:00:14.545] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:15.141] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
-[00:00:15.141] Browser ERROR   uncaughtError: Error: Invalid src prop (https://randomuser.me/api/portraits/men/10.jpg) on `next/image`, hostname "randomuser.me" is not configured under images in your `next.config.js`
-See more info: https://nextjs.org/docs/messages/next-image-unconfigured-host
-[00:01:05.411] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:05.564] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
-[00:01:05.565] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
-[00:01:05.565] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
-[00:01:05.565] Browser ERROR   uncaughtError: Error: Invalid src prop (https://randomuser.me/api/portraits/women/25.jpg) on `next/image`, hostname "randomuser.me" is not configured under images in your `next.config.js`
-See more info: https://nextjs.org/docs/messages/next-image-unconfigured-host
-[00:02:37.105] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:37.273] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
-[00:02:37.273] Browser ERROR   uncaughtError: Error: Invalid src prop (https://ibb.co.com/jPWTYc0Y) on `next/image`, hostname "ibb.co.com" is not configured under images in your `next.config.js`
-See more info: https://nextjs.org/docs/messages/next-image-unconfigured-host
-[00:04:21.692] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:04:21.868] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
-[00:04:21.868] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
-[00:04:21.868] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
-[00:04:21.868] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
-[00:04:21.868] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
-[00:04:21.868] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
-[00:04:21.868] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
-[00:04:21.868] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
-[00:04:21.868] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
-[00:04:21.868] Browser ERROR   Image is missing required "src" property: <img>
-[00:04:21.868] Browser ERROR   Image is missing required "src" property: <img>
-[00:04:21.868] Browser ERROR   Image is missing required "src" property: <img>
-[00:04:21.868] Browser ERROR   Image is missing required "src" property: <img>
-[00:04:21.868] Browser ERROR   Image is missing required "src" property: <img>
-[00:04:21.868] Browser ERROR   Image is missing required "src" property: <img>
-[00:04:21.868] Browser ERROR   Image is missing required "src" property: <img>
-[00:04:21.868] Browser ERROR   Image is missing required "src" property: <img>
-[00:04:21.868] Browser ERROR   Image is missing required "src" property: <img>
-[00:04:21.868] Browser ERROR   Image is missing required "src" property: <img>
-[00:04:21.868] Browser ERROR   Image is missing required "src" property: <img>
-[00:04:21.868] Browser ERROR   Image is missing required "src" property: <img>
-[00:04:21.868] Browser ERROR   Image is missing required "src" property: <img>
-[00:04:21.868] Browser ERROR   Image is missing required "src" property: <img>
-[00:04:21.868] Browser ERROR   Image is missing required "src" property: <img>
-[00:04:21.868] Browser ERROR   Image is missing required "src" property: <img>
-[00:04:53.206] Server  LOG      ✓ Compiled in 71ms
-[00:04:53.704] Browser ERROR   uncaughtError: ReferenceError: user_photoURL is not defined
-[00:05:00.249] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[00:05:00.264] Server  LOG      ✓ Compiled in 61ms
-[00:05:00.647] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
-[00:05:00.798] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:05:00.932] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
-[00:05:25.108] Server  LOG      ✓ Compiled in 124ms
-[00:05:26.914] Server  LOG      ✓ Compiled in 53ms
-[00:05:49.613] Server  LOG      ✓ Compiled in 63ms
-[00:05:52.548] Server  LOG      ✓ Compiled in 53ms
-[00:06:01.597] Server  LOG      ✓ Compiled in 75ms
-[00:06:04.701] Server  LOG      ✓ Compiled in 42ms
-[00:06:07.980] Server  LOG      ✓ Compiled in 85ms
-[00:06:10.287] Server  LOG      ✓ Compiled in 43ms
-[00:06:14.014] Server  LOG      ✓ Compiled in 40ms
-[00:06:19.870] Server  LOG      ✓ Compiled in 60ms
-[00:06:24.594] Server  LOG      ✓ Compiled in 42ms
-[00:06:27.843] Server  LOG      ✓ Compiled in 39ms
-[00:06:29.693] Server  LOG      ✓ Compiled in 40ms
-[00:06:36.982] Server  LOG      ✓ Compiled in 71ms
-[00:07:52.650] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:07:52.796] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
-[00:07:55.537] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:07:55.689] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
-[00:07:56.315] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:07:56.445] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
-[00:08:03.337] Server  LOG      ✓ Compiled in 30ms
-[00:08:07.142] Server  LOG      ✓ Compiled in 47ms
-[00:08:07.695] Browser ERROR   uncaughtError: Error: Invalid src prop (https://ibb.co.com/jPWTYc0Y) on `next/image`, hostname "ibb.co.com" is not configured under images in your `next.config.js`
-See more info: https://nextjs.org/docs/messages/next-image-unconfigured-host
-[00:09:31.018] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[00:09:31.381] Server  LOG      ✓ Compiled in 150ms
-[00:09:31.507] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:09:32.706] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
-[00:09:32.707] Browser ERROR   uncaughtError: Error: Invalid src prop (https://ibb.co.com/jPWTYc0Y) on `next/image`, hostname "ibb.co.com" is not configured under images in your `next.config.js`
-See more info: https://nextjs.org/docs/messages/next-image-unconfigured-host
-[00:09:32.927] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[00:09:33.248] Server  LOG      ✓ Compiled in 41ms
-[00:09:33.387] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:09:33.708] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
-[00:09:33.708] Browser ERROR   uncaughtError: Error: Invalid src prop (https://ibb.co.com/jPWTYc0Y) on `next/image`, hostname "ibb.co.com" is not configured under images in your `next.config.js`
-See more info: https://nextjs.org/docs/messages/next-image-unconfigured-host
-[00:09:53.954] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[00:09:54.298] Server  LOG      ✓ Compiled in 39ms
-[00:09:54.533] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:09:55.705] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
-[00:09:55.705] Browser ERROR   uncaughtError: ReferenceError: user_photoURL is not defined
-[00:09:59.285] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[00:09:59.612] Server  LOG      ✓ Compiled in 26ms
-[00:09:59.767] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:09:59.900] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
-[00:12:06.715] Server  LOG      ✓ Compiled in 117ms
-[00:12:07.855] Server  LOG      ✓ Compiled in 37ms
-[00:12:08.697] Browser ERROR   uncaughtError: ReferenceError: TiStarFullOutline is not defined
-[00:12:20.782] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[00:12:21.149] Server  LOG      ✓ Compiled in 113ms
-[00:12:21.419] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:12:21.701] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
-[00:12:31.170] Server  LOG      ✓ Compiled in 35ms
-[00:12:32.792] Server  LOG      ✓ Compiled in 46ms
-[00:13:06.666] Server  LOG      ✓ Compiled in 55ms
-[00:13:08.538] Server  LOG      ✓ Compiled in 30ms
-[00:13:13.763] Server  LOG      ✓ Compiled in 59ms
-[00:13:15.848] Server  LOG      ✓ Compiled in 34ms
-[00:13:16.220] Server  LOG      ✓ Compiled in 28ms
-[00:13:21.328] Server  LOG      ✓ Compiled in 46ms
-[00:13:22.527] Server  LOG      ✓ Compiled in 30ms
-[00:13:25.824] Server  LOG      ✓ Compiled in 30ms
-[00:13:32.336] Server  LOG      ✓ Compiled in 46ms
-[00:13:56.141] Server  LOG      ✓ Compiled in 33ms
-[00:13:57.844] Server  LOG      ✓ Compiled in 19ms
-[00:14:06.613] Server  LOG      ✓ Compiled in 71ms
-[00:14:12.173] Server  LOG      ✓ Compiled in 31ms
-[00:14:18.255] Server  LOG      ✓ Compiled in 32ms
-[00:14:19.772] Server  LOG      ✓ Compiled in 31ms
-[00:14:22.159] Server  LOG      ✓ Compiled in 30ms
-[00:14:28.015] Server  LOG      ✓ Compiled in 39ms
-[00:14:38.218] Server  LOG      ✓ Compiled in 45ms
-[00:14:45.260] Server  LOG      ✓ Compiled in 44ms
-[00:14:49.696] Server  LOG      ✓ Compiled in 25ms
-[00:15:43.731] Server  LOG      ✓ Compiled in 159ms
-[00:15:44.166] Server  LOG      ✓ Compiled in 34ms
-[00:15:47.261] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:15:47.423] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
-[00:16:04.424] Server  LOG      ✓ Compiled in 98ms
-[00:16:19.546] Server  LOG      ✓ Compiled in 90ms
-[00:16:22.106] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:16:22.262] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
-[00:17:14.039] Server  LOG      ✓ Compiled in 80ms
-[00:17:49.531] Server  LOG      ✓ Compiled in 53ms
-[00:17:59.207] Server  LOG      ✓ Compiled in 42ms
-[00:18:12.520] Server  LOG      ✓ Compiled in 29ms
-[00:18:37.657] Server  LOG      ✓ Compiled in 118ms
-[00:18:40.693] Server  LOG      ✓ Compiled in 51ms
-[00:18:46.018] Server  LOG      ✓ Compiled in 47ms
-[00:18:48.595] Server  LOG      ✓ Compiled in 44ms
-[00:18:55.133] Server  LOG      ✓ Compiled in 48ms
-[00:19:07.822] Server  LOG      ✓ Compiled in 33ms
-[00:19:20.874] Server  LOG      ✓ Compiled in 37ms
-[00:19:23.231] Server  LOG      ✓ Compiled in 51ms
-[00:19:38.775] Server  LOG      ✓ Compiled in 67ms
-[00:19:43.474] Server  LOG      ✓ Compiled in 29ms
-[00:19:46.993] Server  LOG      ✓ Compiled in 39ms
-[00:19:51.661] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:19:51.808] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
-[00:20:17.981] Server  LOG      ✓ Compiled in 30ms
-[00:20:19.463] Server  LOG      ✓ Compiled in 21ms
-[00:20:25.731] Server  LOG      ✓ Compiled in 20ms
-[00:20:29.337] Server  LOG      ✓ Compiled in 30ms
-[00:20:42.064] Server  LOG      ✓ Compiled in 63ms
-[00:20:48.454] Server  LOG      ✓ Compiled in 43ms
-[00:20:59.859] Server  LOG      ✓ Compiled in 44ms
-[00:21:05.244] Server  LOG      ✓ Compiled in 41ms
-[00:21:14.588] Server  LOG      ✓ Compiled in 50ms
-[00:21:55.157] Server  LOG      ✓ Compiled in 147ms
-[00:21:58.500] Server  LOG      ✓ Compiled in 42ms
-[00:22:18.468] Server  LOG      ✓ Compiled in 74ms
-[00:22:19.463] Server  LOG      ✓ Compiled in 54ms
-[00:22:27.764] Server  LOG      ✓ Compiled in 58ms
-[00:22:31.896] Server  LOG      ✓ Compiled in 55ms
-[00:23:01.607] Server  LOG      ✓ Compiled in 65ms
-[00:23:03.485] Server  LOG      ✓ Compiled in 40ms
-[00:23:06.299] Server  LOG      ✓ Compiled in 57ms
-[00:23:09.368] Server  LOG      ✓ Compiled in 80ms
-[00:23:12.530] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:23:12.672] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
-[00:23:20.105] Server  LOG      ✓ Compiled in 55ms
-[00:23:25.763] Server  LOG      ✓ Compiled in 67ms
-[00:23:28.865] Server  LOG      ✓ Compiled in 67ms
-[00:23:29.705] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
-[00:23:29.894] Server  LOG      ✓ Compiled in 58ms
-[00:23:33.674] Server  LOG      ✓ Compiled in 59ms
-[00:23:36.234] Server  LOG      ✓ Compiled in 57ms
-[00:23:43.808] Server  LOG      ✓ Compiled in 83ms
-[00:23:46.138] Server  LOG      ✓ Compiled in 81ms
-[00:37:51.705] Browser ERROR   ./src/app/page.js:14:5
-Parsing ecmascript source code failed
-  12 |       <Testimonial />
-  13 |       <Up
-> 14 |     </div>
-     |     ^
-  15 |   );
-  16 | }
-  17 |
+[00:00:12.895] Server  LOG      ✓ Ready in 8s
+[00:00:41.967] Server  LOG      ○ Compiling / ...
+[00:00:47.513] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:47.668] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[00:10:32.892] Browser ERROR   Received `%s` for a non-boolean attribute `%s`.
 
-Expression expected
-[00:37:51.705] Browser ERROR   ./src/app/page.js:14:6
-Parsing ecmascript source code failed
-  12 |       <Testimonial />
-  13 |       <Up
-> 14 |     </div>
-     |      ^^^^^
-  15 |   );
-  16 | }
-  17 |
-
-Unterminated regexp literal
-[00:37:55.373] Server  LOG      ✓ Compiled in 70ms
-[00:39:13.699] Browser ERROR   ./src/assets/assets.js:16:1
-Parsing ecmascript source code failed
-  14 | import 
-  15 |
-> 16 | export const assets = {
-     | ^^^^^^
-  17 |     logo,
-  18 |     HomeHero,
-  19 |
-
-Expected 'from', got 'export'
-
-Import traces:
-  #1 [Server Component]:
-    ./src/assets/assets.js
-    ./src/Components/Navbar/Navbar.jsx
-    ./src/app/layout.js
-
-  #2 [Server Component]:
-    ./src/assets/assets.js
-    ./src/Components/New-Technology/NewTechnology.jsx
-    ./src/app/page.js
-[00:39:23.016] Server  ERROR    ⨯ ./src/assets/assets.js:14:1
-Module not found: Can't resolve './'
-  12 | import c4 from './c4.png'
-  13 |
-> 14 | import u1 from './'
-     | ^^^^^^^^^^^^^^^^^^^
-  15 |
-  16 | export const assets = {
-  17 |     logo,
+If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.toString()}. true cals cals true cals
+[00:14:40.595] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.png'
+> 1 | import logo from './logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import HomeHero from "./home-hero.png"
+  3 | import t1 from './t1.png'
+  4 | import t2 from './t2.png'
 
 
 
@@ -241,21 +23,19 @@ Import traces:
 
   #2 [Server Component]:
     ./src/assets/assets.js
-    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/Components/Up-Coming/UpComing.jsx
     ./src/app/page.js
 
 https://nextjs.org/docs/messages/module-not-found
 
 
-[00:39:23.017] Server  ERROR    ⨯ ./src/assets/assets.js:14:1
-Module not found: Can't resolve './'
-  12 | import c4 from './c4.png'
-  13 |
-> 14 | import u1 from './'
-     | ^^^^^^^^^^^^^^^^^^^
-  15 |
-  16 | export const assets = {
-  17 |     logo,
+[00:14:40.597] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.png'
+> 1 | import logo from './logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import HomeHero from "./home-hero.png"
+  3 | import t1 from './t1.png'
+  4 | import t2 from './t2.png'
 
 
 
@@ -267,21 +47,19 @@ Import traces:
 
   #2 [Server Component]:
     ./src/assets/assets.js
-    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/Components/Up-Coming/UpComing.jsx
     ./src/app/page.js
 
 https://nextjs.org/docs/messages/module-not-found
 
 
-[00:39:23.019] Server  ERROR    ⨯ ./src/assets/assets.js:14:1
-Module not found: Can't resolve './'
-  12 | import c4 from './c4.png'
-  13 |
-> 14 | import u1 from './'
-     | ^^^^^^^^^^^^^^^^^^^
-  15 |
-  16 | export const assets = {
-  17 |     logo,
+[00:14:40.632] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.png'
+> 1 | import logo from './logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import HomeHero from "./home-hero.png"
+  3 | import t1 from './t1.png'
+  4 | import t2 from './t2.png'
 
 
 
@@ -293,21 +71,19 @@ Import traces:
 
   #2 [Server Component]:
     ./src/assets/assets.js
-    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/Components/Up-Coming/UpComing.jsx
     ./src/app/page.js
 
 https://nextjs.org/docs/messages/module-not-found
 
 
-[00:39:23.020] Server  ERROR    ⨯ ./src/assets/assets.js:14:1
-Module not found: Can't resolve './'
-  12 | import c4 from './c4.png'
-  13 |
-> 14 | import u1 from './'
-     | ^^^^^^^^^^^^^^^^^^^
-  15 |
-  16 | export const assets = {
-  17 |     logo,
+[00:14:40.634] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.png'
+> 1 | import logo from './logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import HomeHero from "./home-hero.png"
+  3 | import t1 from './t1.png'
+  4 | import t2 from './t2.png'
 
 
 
@@ -319,21 +95,19 @@ Import traces:
 
   #2 [Server Component]:
     ./src/assets/assets.js
-    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/Components/Up-Coming/UpComing.jsx
     ./src/app/page.js
 
 https://nextjs.org/docs/messages/module-not-found
 
 
-[00:39:23.021] Server  ERROR    ⨯ ./src/assets/assets.js:14:1
-Module not found: Can't resolve './'
-  12 | import c4 from './c4.png'
-  13 |
-> 14 | import u1 from './'
-     | ^^^^^^^^^^^^^^^^^^^
-  15 |
-  16 | export const assets = {
-  17 |     logo,
+[00:14:40.637] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.png'
+> 1 | import logo from './logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import HomeHero from "./home-hero.png"
+  3 | import t1 from './t1.png'
+  4 | import t2 from './t2.png'
 
 
 
@@ -345,21 +119,19 @@ Import traces:
 
   #2 [Server Component]:
     ./src/assets/assets.js
-    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/Components/Up-Coming/UpComing.jsx
     ./src/app/page.js
 
 https://nextjs.org/docs/messages/module-not-found
 
 
-[00:39:23.023] Server  ERROR    ⨯ ./src/assets/assets.js:14:1
-Module not found: Can't resolve './'
-  12 | import c4 from './c4.png'
-  13 |
-> 14 | import u1 from './'
-     | ^^^^^^^^^^^^^^^^^^^
-  15 |
-  16 | export const assets = {
-  17 |     logo,
+[00:14:40.638] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.png'
+> 1 | import logo from './logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import HomeHero from "./home-hero.png"
+  3 | import t1 from './t1.png'
+  4 | import t2 from './t2.png'
 
 
 
@@ -371,21 +143,19 @@ Import traces:
 
   #2 [Server Component]:
     ./src/assets/assets.js
-    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/Components/Up-Coming/UpComing.jsx
     ./src/app/page.js
 
 https://nextjs.org/docs/messages/module-not-found
 
 
-[00:39:23.025] Server  ERROR    ⨯ ./src/assets/assets.js:14:1
-Module not found: Can't resolve './'
-  12 | import c4 from './c4.png'
-  13 |
-> 14 | import u1 from './'
-     | ^^^^^^^^^^^^^^^^^^^
-  15 |
-  16 | export const assets = {
-  17 |     logo,
+[00:14:40.641] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.png'
+> 1 | import logo from './logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import HomeHero from "./home-hero.png"
+  3 | import t1 from './t1.png'
+  4 | import t2 from './t2.png'
 
 
 
@@ -397,21 +167,21 @@ Import traces:
 
   #2 [Server Component]:
     ./src/assets/assets.js
-    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/Components/Up-Coming/UpComing.jsx
     ./src/app/page.js
 
 https://nextjs.org/docs/messages/module-not-found
 
 
-[00:39:23.707] Browser ERROR   ./src/assets/assets.js:14:1
-Module not found: Can't resolve './'
-  12 | import c4 from './c4.png'
-  13 |
-> 14 | import u1 from './'
-     | ^^^^^^^^^^^^^^^^^^^
-  15 |
-  16 | export const assets = {
-  17 |     logo,
+[00:14:40.643] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.png'
+> 1 | import logo from './logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import HomeHero from "./home-hero.png"
+  3 | import t1 from './t1.png'
+  4 | import t2 from './t2.png'
+
+
 
 Import traces:
   #1 [Server Component]:
@@ -421,44 +191,21 @@ Import traces:
 
   #2 [Server Component]:
     ./src/assets/assets.js
-    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/Components/Up-Coming/UpComing.jsx
     ./src/app/page.js
 
 https://nextjs.org/docs/messages/module-not-found
-[00:39:29.159] Server  LOG      ✓ Compiled in 152ms
-[00:39:33.700] Browser ERROR   ./src/assets/assets.js:17:8
-Ecmascript file had an error
-  15 | import u1 from './u1.png'
-  16 | import u1 from './u1.png'
-> 17 | import u1 from './u1.png'
-     |        ^^
-  18 |
-  19 | export const assets = {
-  20 |     logo,
 
-the name `u1` is defined multiple times
 
-Import traces:
-  #1 [Server Component]:
-    ./src/assets/assets.js
-    ./src/Components/Navbar/Navbar.jsx
-    ./src/app/layout.js
+[00:14:40.647] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.png'
+> 1 | import logo from './logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import HomeHero from "./home-hero.png"
+  3 | import t1 from './t1.png'
+  4 | import t2 from './t2.png'
 
-  #2 [Server Component]:
-    ./src/assets/assets.js
-    ./src/Components/New-Technology/NewTechnology.jsx
-    ./src/app/page.js
-[00:39:37.695] Browser ERROR   ./src/assets/assets.js:17:8
-Ecmascript file had an error
-  15 | import u2 from './u2.png'
-  16 | import u1 from './u1.png'
-> 17 | import u1 from './u1.png'
-     |        ^^
-  18 |
-  19 | export const assets = {
-  20 |     logo,
 
-the name `u1` is defined multiple times
 
 Import traces:
   #1 [Server Component]:
@@ -468,19 +215,21 @@ Import traces:
 
   #2 [Server Component]:
     ./src/assets/assets.js
-    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/Components/Up-Coming/UpComing.jsx
     ./src/app/page.js
-[00:39:41.708] Browser ERROR   ./src/assets/assets.js:17:8
-Ecmascript file had an error
-  15 | import u2 from './u2.png'
-  16 | import u3 from './u3.png'
-> 17 | import u1 from './u1.png'
-     |        ^^
-  18 |
-  19 | export const assets = {
-  20 |     logo,
 
-the name `u1` is defined multiple times
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:40.649] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.png'
+> 1 | import logo from './logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import HomeHero from "./home-hero.png"
+  3 | import t1 from './t1.png'
+  4 | import t2 from './t2.png'
+
+
 
 Import traces:
   #1 [Server Component]:
@@ -490,20 +239,21 @@ Import traces:
 
   #2 [Server Component]:
     ./src/assets/assets.js
-    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/Components/Up-Coming/UpComing.jsx
     ./src/app/page.js
-[00:39:45.484] Server  LOG      ✓ Compiled in 104ms
-[00:40:08.703] Browser ERROR   ./src/assets/assets.js:30:5
-Parsing ecmascript source code failed
-  28 |
-  29 |     // upComing feature
-> 30 |     u1
-     |     ^^
-  31 | }
-  32 |
-  33 | // new technology array  
 
-Unexpected token `u1`. Expected ... , *,  (, [, :, , ?, = or an identifier
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:40.651] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.png'
+> 1 | import logo from './logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import HomeHero from "./home-hero.png"
+  3 | import t1 from './t1.png'
+  4 | import t2 from './t2.png'
+
+
 
 Import traces:
   #1 [Server Component]:
@@ -513,19 +263,21 @@ Import traces:
 
   #2 [Server Component]:
     ./src/assets/assets.js
-    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/Components/Up-Coming/UpComing.jsx
     ./src/app/page.js
-[00:40:09.704] Browser ERROR   ./src/assets/assets.js:30:5
-Parsing ecmascript source code failed
-  28 |
-  29 |     // upComing feature
-> 30 |     u1,
-     |     ^^
-  31 | }
-  32 |
-  33 | // new technology array  
 
-Unexpected token `u1`. Expected ... , *,  (, [, :, , ?, = or an identifier
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:40.653] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.png'
+> 1 | import logo from './logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import HomeHero from "./home-hero.png"
+  3 | import t1 from './t1.png'
+  4 | import t2 from './t2.png'
+
+
 
 Import traces:
   #1 [Server Component]:
@@ -535,19 +287,21 @@ Import traces:
 
   #2 [Server Component]:
     ./src/assets/assets.js
-    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/Components/Up-Coming/UpComing.jsx
     ./src/app/page.js
-[00:40:12.694] Browser ERROR   ./src/assets/assets.js:30:5
-Parsing ecmascript source code failed
-  28 |
-  29 |     // upComing feature
-> 30 |     u1, 
-     |     ^^
-  31 | }
-  32 |
-  33 | // new technology array  
 
-Unexpected token `u1`. Expected ... , *,  (, [, :, , ?, = or an identifier
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:40.656] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.png'
+> 1 | import logo from './logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import HomeHero from "./home-hero.png"
+  3 | import t1 from './t1.png'
+  4 | import t2 from './t2.png'
+
+
 
 Import traces:
   #1 [Server Component]:
@@ -557,19 +311,21 @@ Import traces:
 
   #2 [Server Component]:
     ./src/assets/assets.js
-    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/Components/Up-Coming/UpComing.jsx
     ./src/app/page.js
-[00:40:54.706] Browser ERROR   ./src/assets/assets.js:104:13
-Parsing ecmascript source code failed
-  102 |
-  103 | // up coming feature
-> 104 | export const 
-      |             ^
-  105 |
-  106 |
-  107 |
 
-Unexpected token `<eof>`. Expected yield, an identifier, [ or {
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:40.657] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.png'
+> 1 | import logo from './logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import HomeHero from "./home-hero.png"
+  3 | import t1 from './t1.png'
+  4 | import t2 from './t2.png'
+
+
 
 Import traces:
   #1 [Server Component]:
@@ -579,19 +335,19 @@ Import traces:
 
   #2 [Server Component]:
     ./src/assets/assets.js
-    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/Components/Up-Coming/UpComing.jsx
     ./src/app/page.js
-[00:40:56.706] Browser ERROR   ./src/assets/assets.js:104:14
-Parsing ecmascript source code failed
-  102 |
-  103 | // up coming feature
-> 104 | export const up
-      |              ^^
-  105 |
-  106 |
-  107 |
 
-'const' declarations must be initialized
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:14:40.862] Browser ERROR   ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.png'
+> 1 | import logo from './logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import HomeHero from "./home-hero.png"
+  3 | import t1 from './t1.png'
+  4 | import t2 from './t2.png'
 
 Import traces:
   #1 [Server Component]:
@@ -601,38 +357,18 @@ Import traces:
 
   #2 [Server Component]:
     ./src/assets/assets.js
-    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/Components/Up-Coming/UpComing.jsx
     ./src/app/page.js
-[00:50:26.597] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__552f83e0._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
-[00:50:26.599] Server  ERROR    ⨯ ReferenceError: allCategories is not defined
-[00:50:27.487] Browser ERROR   uncaughtError: ReferenceError: allCategories is not defined
-[00:50:27.670] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__552f83e0._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
-[00:50:27.671] Server  ERROR    ⨯ ReferenceError: allCategories is not defined
-[00:50:28.852] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:50:29.707] Browser ERROR   uncaughtError: ReferenceError: allCategories is not defined
-[00:50:42.656] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__552f83e0._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
-[00:50:42.657] Server  ERROR    ⨯ ReferenceError: allCategories is not defined
-[00:50:42.918] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:50:43.708] Browser ERROR   uncaughtError: ReferenceError: allCategories is not defined
-[00:50:45.282] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__4a236d0c._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
-[00:50:45.283] Server  ERROR    ⨯ ReferenceError: allCategories is not defined
-[00:50:45.553] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:50:46.697] Browser ERROR   uncaughtError: ReferenceError: allCategories is not defined
-[00:50:52.233] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__4a236d0c._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
-[00:50:52.233] Server  ERROR    ⨯ ReferenceError: allCategories is not defined
-[00:50:52.482] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:50:52.693] Browser ERROR   uncaughtError: ReferenceError: allCategories is not defined
-[00:51:00.707] Browser ERROR   ./src/assets/assets.js:105:15
-Parsing ecmascript source code failed
-  103 | // up coming feature
-  104 | // up coming feature
-> 105 | export const  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 justify-items-center gap-3">
-      |               ^
-  106 |         {allCategories.map((item) => {
-  107 |           return (
-  108 |             <div key={item.id} className="">
 
-Unexpected token `<`. Expected yield, an identifier, [ or {
+https://nextjs.org/docs/messages/module-not-found
+[00:14:43.542] Server  LOG      ✓ Compiled in 146ms
+[00:14:44.142] Browser ERROR   ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.png'
+> 1 | import logo from './logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import HomeHero from "./home-hero.png"
+  3 | import t1 from './t1.png'
+  4 | import t2 from './t2.png'
 
 Import traces:
   #1 [Server Component]:
@@ -642,102 +378,7 @@ Import traces:
 
   #2 [Server Component]:
     ./src/assets/assets.js
-    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/Components/Up-Coming/UpComing.jsx
     ./src/app/page.js
-[00:51:01.386] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__4a236d0c._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
-[00:51:01.386] Server  ERROR    ⨯ ReferenceError: allCategories is not defined
-[00:51:01.542] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:51:02.692] Browser ERROR   uncaughtError: ReferenceError: allCategories is not defined
-[00:51:06.833] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__4a236d0c._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
-[00:51:06.833] Server  ERROR    ⨯ ReferenceError: upComing is not defined
-[00:51:07.115] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:51:07.703] Browser ERROR   uncaughtError: ReferenceError: upComing is not defined
-[00:51:11.556] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:51:11.709] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:51:11.709] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
-[00:56:03.708] Browser ERROR   ./src/app/layout.js:29:7
-Parsing ecmascript source code failed
-  27 |         {children}
-  28 |         <
-> 29 |       </body>
-     |       ^
-  30 |     </html>
-  31 |   );
-  32 | }
 
-Expression expected
-[00:56:03.708] Browser ERROR   ./src/app/layout.js:29:8
-Parsing ecmascript source code failed
-  27 |         {children}
-  28 |         <
-> 29 |       </body>
-     |        ^^^^^^
-  30 |     </html>
-  31 |   );
-  32 | }
-
-Unterminated regexp literal
-[00:56:06.694] Browser ERROR   ./src/app/layout.js:29:7
-Parsing ecmascript source code failed
-  27 |         {children}
-  28 |         <Footer
-> 29 |       </body>
-     |       ^
-  30 |     </html>
-  31 |   );
-  32 | }
-
-Expression expected
-[00:56:06.694] Browser ERROR   ./src/app/layout.js:29:8
-Parsing ecmascript source code failed
-  27 |         {children}
-  28 |         <Footer
-> 29 |       </body>
-     |        ^^^^^^
-  30 |     </html>
-  31 |   );
-  32 | }
-
-Unterminated regexp literal
-[00:56:09.552] Server  LOG      ✓ Compiled in 161ms
-[01:05:49.308] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__f8c7456d._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
-[01:05:49.309] Server  ERROR    ⨯ ReferenceError: FaLocationArrow is not defined
-[01:05:49.693] Browser ERROR   uncaughtError: ReferenceError: FaLocationArrow is not defined
-[01:05:53.340] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:05:53.703] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
-[01:11:58.036] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
-[01:11:58.045] Server  ERROR    ⨯ Error: Event handlers cannot be passed to Client Component props.
-  <button className=... onClick={function onClick} children=...>
-                                ^^^^^^^^^^^^^^^^^^
-If you need interactivity, consider converting part of this to a Client Component.
-[01:11:58.411] Browser ERROR   uncaughtError: Error: Event handlers cannot be passed to Client Component props.
-  <button className=... onClick={function onClick} children=...>
-                                ^^^^^^^^^^^^^^^^^^
-If you need interactivity, consider converting part of this to a Client Component.
-[01:12:40.222] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
-[01:12:40.223] Server  ERROR    ⨯ Error: Event handlers cannot be passed to Client Component props.
-  <button className=... onClick={function onClick} children=...>
-                                ^^^^^^^^^^^^^^^^^^
-If you need interactivity, consider converting part of this to a Client Component.
-[01:12:40.549] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:12:41.125] Browser ERROR   uncaughtError: Error: Event handlers cannot be passed to Client Component props.
-  <button className=... onClick={function onClick} children=...>
-                                ^^^^^^^^^^^^^^^^^^
-If you need interactivity, consider converting part of this to a Client Component.
-[01:12:41.295] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
-[01:12:41.295] Server  ERROR    ⨯ Error: Event handlers cannot be passed to Client Component props.
-  <button className=... onClick={function onClick} children=...>
-                                ^^^^^^^^^^^^^^^^^^
-If you need interactivity, consider converting part of this to a Client Component.
-[01:12:41.561] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:12:42.710] Browser ERROR   uncaughtError: Error: Event handlers cannot be passed to Client Component props.
-  <button className=... onClick={function onClick} children=...>
-                                ^^^^^^^^^^^^^^^^^^
-If you need interactivity, consider converting part of this to a Client Component.
-[01:12:46.030] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[01:12:46.050] Server  LOG      ✓ Compiled in 629ms
-[01:12:46.148] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[01:12:46.272] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:12:46.630] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
-[01:13:55.748] Server  LOG      ✓ Compiled in 214ms
+https://nextjs.org/docs/messages/module-not-found
