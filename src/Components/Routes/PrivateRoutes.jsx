@@ -1,6 +1,6 @@
 "use client";
 
-import { AuthContext, useAuthContext } from "@/Context/AuthContext";
+import { AuthContext } from "@/Context/AuthContext";
 import { useRouter, usePathname } from "next/navigation";
 import { use, useEffect } from "react";
 
@@ -17,7 +17,11 @@ const PrivateRoute = ({ children }) => {
   }, [user, loading, router, pathname]);
 
   if (loading || !user) {
-    return <span className="loading loading-spinner text-success"></span>;
+    return (
+      <div className="flex justify-center items-center">
+       <span className="loading loading-dots loading-xl"></span>
+      </div>
+    )
   }
 
   return children;

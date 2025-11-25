@@ -8,7 +8,7 @@ import { TbLockPassword } from "react-icons/tb";
 import { FcGoogle } from "react-icons/fc";
 import Swal from "sweetalert2";
 import { AuthContext } from "@/Context/AuthContext";
-import { GoogleAuthProvider } from "firebase/auth";
+import { GoogleAuthProvider, updateProfile } from "firebase/auth";
 
 const RegisterFrom = () => {
   const { createUserFunction, popUp } = use(AuthContext);
@@ -24,6 +24,10 @@ const RegisterFrom = () => {
 
     createUserFunction(email, password)
       .then((getUser) => {
+        updateProfile(getUser.user, {
+          displayName: name,
+        });
+
         console.log(getUser.user);
 
         Swal.fire({
@@ -48,22 +52,22 @@ const RegisterFrom = () => {
 
   const handleGoogleRegister = () => {
     popUp(provider)
-    .then((newUser) => {
-        console.log(newUser.user)
-         Swal.fire({
+      .then((newUser) => {
+        console.log(newUser.user);
+        Swal.fire({
           title: "Registered With Google Successfully",
           icon: "success",
           draggable: true,
         });
-    })
-    .catch((err) => {
+      })
+      .catch((err) => {
         Swal.fire({
           icon: "error",
           title: err.message,
           text: "Something went wrong!",
         });
-    });
-  }
+      });
+  };
 
   return (
     <div className="mx-6">
@@ -125,7 +129,11 @@ const RegisterFrom = () => {
           </div>
 
           <div className="flex justify-center">
-            <FcGoogle size={30} className="text-center cursor-pointer" onClick={handleGoogleRegister} />
+            <FcGoogle
+              size={30}
+              className="text-center cursor-pointer"
+              onClick={handleGoogleRegister}
+            />
           </div>
         </fieldset>
       </form>

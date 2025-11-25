@@ -21,11 +21,11 @@ var _s = __turbopack_context__.k.signature();
 const PrivateRoute = (t0)=>{
     _s();
     const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$compiler$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["c"])(8);
-    if ($[0] !== "cbd67431039eb7ee37e196637db88c5df00c12a4b5d346ebe4d724a281b5aa4d") {
+    if ($[0] !== "4f6f6c3a6861cd8fbb0d1996a9f5fe94b1458244c0f162daaae347817e2e992e") {
         for(let $i = 0; $i < 8; $i += 1){
             $[$i] = Symbol.for("react.memo_cache_sentinel");
         }
-        $[0] = "cbd67431039eb7ee37e196637db88c5df00c12a4b5d346ebe4d724a281b5aa4d";
+        $[0] = "4f6f6c3a6861cd8fbb0d1996a9f5fe94b1458244c0f162daaae347817e2e992e";
     }
     const { children } = t0;
     const { user, loading } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["use"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$Context$2f$AuthContext$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["AuthContext"]);
@@ -59,8 +59,15 @@ const PrivateRoute = (t0)=>{
     if (loading || !user) {
         let t3;
         if ($[7] === Symbol.for("react.memo_cache_sentinel")) {
-            t3 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                className: "loading loading-spinner text-success"
+            t3 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "flex justify-center items-center",
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                    className: "loading loading-dots loading-xl"
+                }, void 0, false, {
+                    fileName: "[project]/src/Components/Routes/PrivateRoutes.jsx",
+                    lineNumber: 47,
+                    columnNumber: 62
+                }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/src/Components/Routes/PrivateRoutes.jsx",
                 lineNumber: 47,
