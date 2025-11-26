@@ -1,3 +1,8 @@
 {
-  "/all-cars/page": "app/all-cars/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/all-cars/[id]/page": "app/all-cars/[id]/page.js",
+  "/all-cars/page": "app/all-cars/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/sell-car/page": "app/sell-car/page.js"
 }

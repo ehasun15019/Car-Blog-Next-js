@@ -14,7 +14,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 ;
 ;
 ;
-const AllCarDesign = ({ name, email, carTypes, condition, image, createdAt })=>{
+const AllCarDesign = ({ id, name, email, carTypes, condition, image, createdAt })=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: "card card-side bg-white shadow-lg rounded-xl overflow-hidden hover:shadow-2xl transition mb-6 p-4 border border-gray-100",
         children: [
@@ -27,12 +27,12 @@ const AllCarDesign = ({ name, email, carTypes, condition, image, createdAt })=>{
                     className: "object-cover rounded-2xl"
                 }, void 0, false, {
                     fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-                    lineNumber: 17,
+                    lineNumber: 18,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-                lineNumber: 16,
+                lineNumber: 17,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -43,7 +43,7 @@ const AllCarDesign = ({ name, email, carTypes, condition, image, createdAt })=>{
                         children: carTypes
                     }, void 0, false, {
                         fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-                        lineNumber: 27,
+                        lineNumber: 28,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -59,7 +59,7 @@ const AllCarDesign = ({ name, email, carTypes, condition, image, createdAt })=>{
                                             children: "Seller:"
                                         }, void 0, false, {
                                             fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-                                            lineNumber: 32,
+                                            lineNumber: 33,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         " ",
@@ -67,7 +67,7 @@ const AllCarDesign = ({ name, email, carTypes, condition, image, createdAt })=>{
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-                                    lineNumber: 31,
+                                    lineNumber: 32,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -78,7 +78,7 @@ const AllCarDesign = ({ name, email, carTypes, condition, image, createdAt })=>{
                                             children: "Email:"
                                         }, void 0, false, {
                                             fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-                                            lineNumber: 35,
+                                            lineNumber: 36,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         " ",
@@ -86,7 +86,7 @@ const AllCarDesign = ({ name, email, carTypes, condition, image, createdAt })=>{
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-                                    lineNumber: 34,
+                                    lineNumber: 35,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -97,14 +97,14 @@ const AllCarDesign = ({ name, email, carTypes, condition, image, createdAt })=>{
                                             children: "Published:"
                                         }, void 0, false, {
                                             fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-                                            lineNumber: 38,
+                                            lineNumber: 39,
                                             columnNumber: 15
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         new Date(createdAt).toLocaleDateString()
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-                                    lineNumber: 37,
+                                    lineNumber: 38,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -115,45 +115,45 @@ const AllCarDesign = ({ name, email, carTypes, condition, image, createdAt })=>{
                                             children: condition
                                         }, void 0, false, {
                                             fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-                                            lineNumber: 43,
+                                            lineNumber: 44,
                                             columnNumber: 27
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-                                    lineNumber: 42,
+                                    lineNumber: 43,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-                            lineNumber: 30,
+                            lineNumber: 31,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     }, void 0, false, {
                         fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-                        lineNumber: 29,
+                        lineNumber: 30,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                        href: ``,
+                        href: `/all-cars/${id}`,
                         className: "btn btn-primary w-[120px] mt-3",
                         children: "View Details"
                     }, void 0, false, {
                         fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-                        lineNumber: 48,
+                        lineNumber: 49,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-                lineNumber: 26,
+                lineNumber: 27,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
     }, void 0, true, {
         fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-        lineNumber: 14,
+        lineNumber: 15,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };
@@ -310,6 +310,7 @@ const AllCars = ()=>{
         className: "space-y-25 py-6",
         children: showData.map((item)=>{
             return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$Components$2f$Design$2f$AllCarDesign$2e$jsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
+                id: item._id,
                 image: item.image,
                 name: item.name,
                 email: item.email,

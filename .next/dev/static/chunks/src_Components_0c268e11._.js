@@ -17,14 +17,14 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 ;
 ;
 const AllCarDesign = (t0)=>{
-    const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$compiler$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["c"])(30);
-    if ($[0] !== "40e3787837f43de0960722101bf24f00522258f9d0345ae96ef3df9f4414c087") {
-        for(let $i = 0; $i < 30; $i += 1){
+    const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$compiler$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["c"])(32);
+    if ($[0] !== "d68bd5934c2d3214c47415784c441895dc6495e5f3fa5b493e6ab01256adc353") {
+        for(let $i = 0; $i < 32; $i += 1){
             $[$i] = Symbol.for("react.memo_cache_sentinel");
         }
-        $[0] = "40e3787837f43de0960722101bf24f00522258f9d0345ae96ef3df9f4414c087";
+        $[0] = "d68bd5934c2d3214c47415784c441895dc6495e5f3fa5b493e6ab01256adc353";
     }
-    const { name, email, carTypes, condition, image, createdAt } = t0;
+    const { id, name, email, carTypes, condition, image, createdAt } = t0;
     let t1;
     if ($[1] !== image) {
         t1 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -36,12 +36,12 @@ const AllCarDesign = (t0)=>{
                 className: "object-cover rounded-2xl"
             }, void 0, false, {
                 fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-                lineNumber: 23,
+                lineNumber: 24,
                 columnNumber: 81
             }, ("TURBOPACK compile-time value", void 0))
         }, void 0, false, {
             fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-            lineNumber: 23,
+            lineNumber: 24,
             columnNumber: 10
         }, ("TURBOPACK compile-time value", void 0));
         $[1] = image;
@@ -56,7 +56,7 @@ const AllCarDesign = (t0)=>{
             children: carTypes
         }, void 0, false, {
             fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-            lineNumber: 31,
+            lineNumber: 32,
             columnNumber: 10
         }, ("TURBOPACK compile-time value", void 0));
         $[3] = carTypes;
@@ -71,7 +71,7 @@ const AllCarDesign = (t0)=>{
             children: "Seller:"
         }, void 0, false, {
             fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-            lineNumber: 39,
+            lineNumber: 40,
             columnNumber: 10
         }, ("TURBOPACK compile-time value", void 0));
         $[5] = t3;
@@ -89,7 +89,7 @@ const AllCarDesign = (t0)=>{
             ]
         }, void 0, true, {
             fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-            lineNumber: 46,
+            lineNumber: 47,
             columnNumber: 10
         }, ("TURBOPACK compile-time value", void 0));
         $[6] = name;
@@ -104,7 +104,7 @@ const AllCarDesign = (t0)=>{
             children: "Email:"
         }, void 0, false, {
             fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-            lineNumber: 54,
+            lineNumber: 55,
             columnNumber: 10
         }, ("TURBOPACK compile-time value", void 0));
         $[8] = t5;
@@ -122,7 +122,7 @@ const AllCarDesign = (t0)=>{
             ]
         }, void 0, true, {
             fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-            lineNumber: 61,
+            lineNumber: 62,
             columnNumber: 10
         }, ("TURBOPACK compile-time value", void 0));
         $[9] = email;
@@ -137,7 +137,7 @@ const AllCarDesign = (t0)=>{
             children: "Published:"
         }, void 0, false, {
             fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-            lineNumber: 69,
+            lineNumber: 70,
             columnNumber: 10
         }, ("TURBOPACK compile-time value", void 0));
         $[11] = t7;
@@ -162,7 +162,7 @@ const AllCarDesign = (t0)=>{
             ]
         }, void 0, true, {
             fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-            lineNumber: 84,
+            lineNumber: 85,
             columnNumber: 10
         }, ("TURBOPACK compile-time value", void 0));
         $[14] = t8;
@@ -180,13 +180,13 @@ const AllCarDesign = (t0)=>{
                     children: condition
                 }, void 0, false, {
                     fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-                    lineNumber: 92,
+                    lineNumber: 93,
                     columnNumber: 25
                 }, ("TURBOPACK compile-time value", void 0))
             ]
         }, void 0, true, {
             fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-            lineNumber: 92,
+            lineNumber: 93,
             columnNumber: 11
         }, ("TURBOPACK compile-time value", void 0));
         $[16] = condition;
@@ -208,12 +208,12 @@ const AllCarDesign = (t0)=>{
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-                lineNumber: 100,
+                lineNumber: 101,
                 columnNumber: 109
             }, ("TURBOPACK compile-time value", void 0))
         }, void 0, false, {
             fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-            lineNumber: 100,
+            lineNumber: 101,
             columnNumber: 11
         }, ("TURBOPACK compile-time value", void 0));
         $[18] = t10;
@@ -224,61 +224,64 @@ const AllCarDesign = (t0)=>{
     } else {
         t11 = $[22];
     }
-    let t12;
-    if ($[23] === Symbol.for("react.memo_cache_sentinel")) {
-        t12 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-            href: "",
+    const t12 = `/all-cars/${id}`;
+    let t13;
+    if ($[23] !== t12) {
+        t13 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+            href: t12,
             className: "btn btn-primary w-[120px] mt-3",
             children: "View Details"
         }, void 0, false, {
             fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-            lineNumber: 111,
+            lineNumber: 113,
             columnNumber: 11
         }, ("TURBOPACK compile-time value", void 0));
         $[23] = t12;
+        $[24] = t13;
     } else {
-        t12 = $[23];
+        t13 = $[24];
     }
-    let t13;
-    if ($[24] !== t11 || $[25] !== t2) {
-        t13 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+    let t14;
+    if ($[25] !== t11 || $[26] !== t13 || $[27] !== t2) {
+        t14 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
             className: "card-body flex flex-col justify-between p-6 lg:w-2/3",
             children: [
                 t2,
                 t11,
-                t12
-            ]
-        }, void 0, true, {
-            fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-            lineNumber: 118,
-            columnNumber: 11
-        }, ("TURBOPACK compile-time value", void 0));
-        $[24] = t11;
-        $[25] = t2;
-        $[26] = t13;
-    } else {
-        t13 = $[26];
-    }
-    let t14;
-    if ($[27] !== t1 || $[28] !== t13) {
-        t14 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-            className: "card card-side bg-white shadow-lg rounded-xl overflow-hidden hover:shadow-2xl transition mb-6 p-4 border border-gray-100",
-            children: [
-                t1,
                 t13
             ]
         }, void 0, true, {
             fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
-            lineNumber: 127,
+            lineNumber: 121,
             columnNumber: 11
         }, ("TURBOPACK compile-time value", void 0));
-        $[27] = t1;
-        $[28] = t13;
-        $[29] = t14;
+        $[25] = t11;
+        $[26] = t13;
+        $[27] = t2;
+        $[28] = t14;
     } else {
-        t14 = $[29];
+        t14 = $[28];
     }
-    return t14;
+    let t15;
+    if ($[29] !== t1 || $[30] !== t14) {
+        t15 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+            className: "card card-side bg-white shadow-lg rounded-xl overflow-hidden hover:shadow-2xl transition mb-6 p-4 border border-gray-100",
+            children: [
+                t1,
+                t14
+            ]
+        }, void 0, true, {
+            fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
+            lineNumber: 131,
+            columnNumber: 11
+        }, ("TURBOPACK compile-time value", void 0));
+        $[29] = t1;
+        $[30] = t14;
+        $[31] = t15;
+    } else {
+        t15 = $[31];
+    }
+    return t15;
 };
 _c = AllCarDesign;
 const __TURBOPACK__default__export__ = AllCarDesign;
@@ -333,11 +336,11 @@ var _s = __turbopack_context__.k.signature();
 const AllCars = ()=>{
     _s();
     const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$compiler$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["c"])(10);
-    if ($[0] !== "2ece7124db40fc3c6e0c2a9e8d83e10fdd90901fe38552e7bd5bd7ba833f9565") {
+    if ($[0] !== "534a838a9ac6ae1a94235903d74a86fa8eaa7921acce3461923cb3c514a28bb4") {
         for(let $i = 0; $i < 10; $i += 1){
             $[$i] = Symbol.for("react.memo_cache_sentinel");
         }
-        $[0] = "2ece7124db40fc3c6e0c2a9e8d83e10fdd90901fe38552e7bd5bd7ba833f9565";
+        $[0] = "534a838a9ac6ae1a94235903d74a86fa8eaa7921acce3461923cb3c514a28bb4";
     }
     let t0;
     if ($[1] === Symbol.for("react.memo_cache_sentinel")) {
@@ -426,6 +429,7 @@ _c = AllCars;
 const __TURBOPACK__default__export__ = AllCars;
 function _temp(item) {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$Components$2f$Design$2f$AllCarDesign$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+        id: item._id,
         image: item.image,
         name: item.name,
         email: item.email,

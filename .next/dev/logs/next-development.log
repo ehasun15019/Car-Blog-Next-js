@@ -119,3 +119,2314 @@ Import traces:
 [00:16:54.194] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
 [00:16:54.380] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:20:37.844] Server  LOG      ✓ Compiled in 65ms
+[00:21:21.559] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:21:22.762] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:22.762] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:22.762] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:21:22.762] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:23:45.444] Server  LOG      ✓ Compiled in 134ms
+[00:23:48.753] Server  LOG      ✓ Compiled in 45ms
+[00:23:50.404] Server  LOG      ✓ Compiled in 45ms
+[00:23:52.247] Server  LOG      ✓ Compiled in 46ms
+[00:23:52.947] Browser ERROR   ./src/Components/Design/AllCarDesign.jsx:48:33
+Parsing ecmascript source code failed
+  46 |         </div>
+  47 |
+> 48 |         <Link href={`all-cars/${]}`} className="btn btn-primary w-[120px] mt-3">View Details</Link>
+     |                                 ^
+  49 |       </div>
+  50 |     </div>
+  51 |   );
+
+Expected '</', got ']'
+
+Import traces:
+  Client Component Browser:
+    ./src/Components/Design/AllCarDesign.jsx [Client Component Browser]
+    ./src/Components/All-Cars/AllCars.jsx [Client Component Browser]
+    ./src/Components/All-Cars/AllCars.jsx [Server Component]
+    ./src/app/all-cars/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/Components/Design/AllCarDesign.jsx [Client Component SSR]
+    ./src/Components/All-Cars/AllCars.jsx [Client Component SSR]
+    ./src/Components/All-Cars/AllCars.jsx [Server Component]
+    ./src/app/all-cars/page.jsx [Server Component]
+[00:23:53.290] Server  LOG      ✓ Compiled in 38ms
+[00:23:53.943] Browser ERROR   ./src/Components/Design/AllCarDesign.jsx:48:33
+Parsing ecmascript source code failed
+  46 |         </div>
+  47 |
+> 48 |         <Link href={`all-cars/${}`} className="btn btn-primary w-[120px] mt-3">View Details</Link>
+     |                                 ^
+  49 |       </div>
+  50 |     </div>
+  51 |   );
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/Components/Design/AllCarDesign.jsx [Client Component Browser]
+    ./src/Components/All-Cars/AllCars.jsx [Client Component Browser]
+    ./src/Components/All-Cars/AllCars.jsx [Server Component]
+    ./src/app/all-cars/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/Components/Design/AllCarDesign.jsx [Client Component SSR]
+    ./src/Components/All-Cars/AllCars.jsx [Client Component SSR]
+    ./src/Components/All-Cars/AllCars.jsx [Server Component]
+    ./src/app/all-cars/page.jsx [Server Component]
+[00:26:03.946] Browser ERROR   uncaughtError: ReferenceError: ite is not defined
+[00:26:04.883] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:26:05.085] Server  LOG      ✓ Compiled in 39ms
+[00:26:05.215] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:05.942] Browser ERROR   uncaughtError: ReferenceError: item is not defined
+[00:26:09.931] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:26:10.083] Server  LOG      ✓ Compiled in 29ms
+[00:26:10.181] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:10.947] Browser ERROR   uncaughtError: ReferenceError: ite is not defined
+[00:26:13.065] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:26:13.200] Server  LOG      ✓ Compiled in 43ms
+[00:26:13.300] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:13.955] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:26:13.955] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:26:13.955] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:26:13.955] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:26:17.235] Server  LOG      ✓ Compiled in 43ms
+[00:26:17.953] Browser ERROR   uncaughtError: ReferenceError: item is not defined
+[00:27:21.913] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:27:22.081] Server  LOG      ✓ Compiled in 141ms
+[00:27:22.190] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:27:22.945] Browser ERROR   uncaughtError: ReferenceError: item is not defined
+[00:27:27.441] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:27:27.592] Server  LOG      ✓ Compiled in 43ms
+[00:27:27.713] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:27:28.952] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:27:28.952] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:27:28.952] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:27:28.952] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:27:37.504] Server  LOG      ✓ Compiled in 45ms
+[00:27:45.319] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:27:54.633] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\node_modules_473cc24e._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:27:54.633] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__a10a8b97._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:27:54.635] Server  WARN    Error: Route "/all-cars/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:28:05.113] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\node_modules_473cc24e._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:28:05.114] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__a10a8b97._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:28:05.114] Server  WARN    Error: Route "/all-cars/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:28:05.262] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:31.374] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:40.063] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\node_modules_473cc24e._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:28:40.063] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__a10a8b97._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:28:40.064] Server  WARN    Error: Route "/all-cars/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:28:40.217] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:46.362] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:46.673] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:28:46.673] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:28:46.673] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:28:46.673] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:28:46.673] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:30:02.948] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:3:9
+Parsing ecmascript source code failed
+  1 | export default function CarDetails({ params }) {
+  2 |   const { id } = params;
+> 3 |   const a
+    |         ^
+  4 | }
+  5 |
+
+'const' declarations must be initialized
+[00:30:06.947] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:4:1
+Parsing ecmascript source code failed
+  2 |   const { id } = params;
+  3 |   const axios = 
+> 4 | }
+    | ^
+  5 |
+
+Expression expected
+[00:30:07.879] Server  LOG      ✓ Compiled in 38ms
+[00:30:12.685] Server  LOG      ✓ Compiled in 158ms
+[00:31:25.041] Server  LOG      ✓ Compiled in 48ms
+[00:31:27.953] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:10:1
+Parsing ecmascript source code failed
+   8 |
+   9 |   try
+> 10 | }
+     | ^
+  11 |
+
+Expected '{', got '}'
+[00:31:29.950] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:12:1
+Parsing ecmascript source code failed
+  10 |     
+  11 |   }
+> 12 | }
+     | ^
+  13 |
+
+Expected a semicolon
+[00:31:41.953] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:12:1
+Parsing ecmascript source code failed
+  10 |     const res = await 
+  11 |   }
+> 12 | }
+     | ^
+  13 |
+
+Expected a semicolon
+[00:31:41.954] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:10:17
+Parsing ecmascript source code failed
+   8 |
+   9 |   try{
+> 10 |     const res = await 
+     |                 ^^^^^
+  11 |   }
+  12 | }
+  13 |
+
+`await` cannot be used as an identifier in an async context
+[00:31:54.941] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:11:3
+Parsing ecmascript source code failed
+   9 |   try{
+  10 |     const res = await 
+> 11 |   }
+     |   ^
+  12 | }
+  13 |
+
+Expression expected
+[00:32:05.954] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:12:1
+Parsing ecmascript source code failed
+  10 |     const res = await axios
+  11 |   }
+> 12 | }
+     | ^
+  13 |
+
+Expected a semicolon
+[00:32:08.955] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:12:1
+Parsing ecmascript source code failed
+  10 |     const res = await axios.get()
+  11 |   }
+> 12 | }
+     | ^
+  13 |
+
+Expected a semicolon
+[00:32:09.955] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:12:1
+Parsing ecmascript source code failed
+  10 |     const res = await axios.get(``)
+  11 |   }
+> 12 | }
+     | ^
+  13 |
+
+Expected a semicolon
+[00:32:41.953] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:12:1
+Parsing ecmascript source code failed
+  10 |     const res = await axios.get(`car-selling/`)
+  11 |   }
+> 12 | }
+     | ^
+  13 |
+
+Expected a semicolon
+[00:32:45.943] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:12:1
+Parsing ecmascript source code failed
+  10 |     const res = await axios.get(`/car-selling/`)
+  11 |   }
+> 12 | }
+     | ^
+  13 |
+
+Expected a semicolon
+[00:32:48.942] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:12:1
+Parsing ecmascript source code failed
+  10 |     const res = await axios.get(`/car-selling/`)
+  11 |   }
+> 12 | }
+     | ^
+  13 |
+
+Expected a semicolon
+[00:32:52.944] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:10:49
+Parsing ecmascript source code failed
+   8 |
+   9 |   try{
+> 10 |     const res = await axios.get(`/car-selling/${}`)
+     |                                                 ^
+  11 |   }
+  12 | }
+  13 |
+
+Expression expected
+[00:32:54.951] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:12:1
+Parsing ecmascript source code failed
+  10 |     const res = await axios.get(`/car-selling/${id}`)
+  11 |   }
+> 12 | }
+     | ^
+  13 |
+
+Expected a semicolon
+[00:33:08.951] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:13:1
+Parsing ecmascript source code failed
+  11 |     
+  12 |   }
+> 13 | }
+     | ^
+  14 |
+
+Expected a semicolon
+[00:33:18.944] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:13:1
+Parsing ecmascript source code failed
+  11 |     car = res.data
+  12 |   }
+> 13 | }
+     | ^
+  14 |
+
+Expected a semicolon
+[00:33:20.948] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:13:1
+Parsing ecmascript source code failed
+  11 |     car = res.data;
+  12 |   }
+> 13 | }
+     | ^
+  14 |
+
+Expected a semicolon
+[00:33:23.944] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:13:1
+Parsing ecmascript source code failed
+  11 |     car = res.data;
+  12 |   } 
+> 13 | }
+     | ^
+  14 |
+
+Expected a semicolon
+[00:33:38.237] Server  LOG      ✓ Compiled in 40ms
+[00:33:40.828] Server  LOG      ✓ Compiled in 37ms
+[00:34:06.612] Server  LOG      ✓ Compiled in 42ms
+[00:34:36.872] Server  LOG      ✓ Compiled in 37ms
+[00:34:41.715] Server  LOG      ✓ Compiled in 38ms
+[00:34:46.154] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\node_modules_473cc24e._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:34:46.154] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__458d29b2._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:34:46.155] Server  WARN    Error: Route "/all-cars/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:34:46.187] Server  LOG     Request failed with status code 404
+[00:37:20.949] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:10:17
+Parsing ecmascript source code failed
+   8 |
+   9 |   try {
+> 10 |     const res = await axios.get(`/car-selling/${id}`);
+     |                 ^^^^^
+  11 |     car = res.data;
+  12 |   } catch (err) {
+  13 |     console.log(err.message);
+
+await isn't allowed in non-async function
+[00:37:22.233] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\node_modules_473cc24e._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:37:22.234] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__458d29b2._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:37:22.234] Server  WARN    Error: Route "/all-cars/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:37:25.882] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\node_modules_473cc24e._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:37:25.882] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__458d29b2._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:37:25.882] Server  WARN    Error: Route "/all-cars/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:37:30.955] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:37:30.955] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:37:30.955] Browser ERROR   unhandledRejection: AxiosError: Request failed with status code 404
+[00:37:30.955] Browser ERROR   unhandledRejection: AxiosError: Request failed with status code 404
+[00:37:49.335] Server  LOG      ✓ Compiled in 45ms
+[00:37:49.945] Browser ERROR   uncaughtError: ReferenceError: car is not defined
+[00:37:53.992] Server  LOG      ✓ Compiled in 40ms
+[00:37:54.945] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:9:9
+Parsing ecmascript source code failed
+   7 |   const axios = useAxios();
+   8 |
+>  9 |   const [ca]
+     |         ^^^^
+  10 |
+  11 |   if (!car) {
+  12 |     return <div className="p-10">Car Not Found</div>;
+
+'const' declarations must be initialized
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[00:38:02.010] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:38:02.360] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\node_modules_next_dist_3a203ced._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:38:02.361] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:38:02.362] Server  WARN    Error: Route "/all-cars/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:38:02.381] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:38:02.382] Server  ERROR    ⨯ ReferenceError: useSsta is not defined
+[00:38:02.546] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:02.954] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:38:02.954] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:38:02.954] Browser ERROR   uncaughtError: ReferenceError: useSsta is not defined
+[00:38:05.728] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:38:05.741] Server  LOG      ✓ Compiled in 44ms
+[00:38:06.072] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\node_modules_next_dist_3a203ced._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:38:06.072] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:38:06.073] Server  WARN    Error: Route "/all-cars/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:38:06.190] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:07.482] Server  LOG      ✓ Compiled in 43ms
+[00:38:08.780] Server  LOG      ✓ Compiled in 40ms
+[00:38:12.547] Server  LOG      ✓ Compiled in 39ms
+[00:38:12.952] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:11:9
+Parsing ecmascript source code failed
+   9 |
+  10 |   const [car, setCar] = useState(null);
+> 11 |   const []
+     |         ^^
+  12 |
+  13 |   if (!car) {
+  14 |     return <div className="p-10">Car Not Found</div>;
+
+'const' declarations must be initialized
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[00:38:14.955] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:11:9
+Parsing ecmascript source code failed
+   9 |
+  10 |   const [car, setCar] = useState(null);
+> 11 |   const [loadi]
+     |         ^^^^^^^
+  12 |
+  13 |   if (!car) {
+  14 |     return <div className="p-10">Car Not Found</div>;
+
+'const' declarations must be initialized
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[00:38:16.943] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:11:9
+Parsing ecmascript source code failed
+   9 |
+  10 |   const [car, setCar] = useState(null);
+> 11 |   const [loading]
+     |         ^^^^^^^^^
+  12 |
+  13 |   if (!car) {
+  14 |     return <div className="p-10">Car Not Found</div>;
+
+'const' declarations must be initialized
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[00:38:50.681] Server  LOG      ✓ Compiled in 81ms
+[00:38:50.947] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:38:50.947] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:38:50.947] Browser ERROR   uncaughtError: ReferenceError: useEffect is not defined
+[00:39:02.568] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:39:02.881] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\node_modules_next_dist_3a203ced._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:39:02.881] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:39:02.882] Server  WARN    Error: Route "/all-cars/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:39:02.889] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:39:02.890] Server  ERROR    ⨯ ReferenceError: useEffect is not defined
+[00:39:02.910] Server  LOG      ✓ Compiled in 42ms
+[00:39:03.019] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:39:03.947] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:39:03.947] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:39:03.947] Browser ERROR   uncaughtError: ReferenceError: useEffect is not defined
+[00:39:08.429] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:39:08.732] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\node_modules_next_dist_3a203ced._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:39:08.733] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:39:08.733] Server  WARN    Error: Route "/all-cars/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:39:08.739] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:39:08.740] Server  ERROR    ⨯ ReferenceError: useEffect is not defined
+[00:39:08.754] Server  LOG      ✓ Compiled in 68ms
+[00:39:08.858] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:39:09.949] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:39:09.949] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:39:09.949] Browser ERROR   uncaughtError: ReferenceError: useEffect is not defined
+[00:39:13.192] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\node_modules_next_dist_3a203ced._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:39:13.192] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:39:13.193] Server  WARN    Error: Route "/all-cars/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:39:13.196] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:39:13.196] Server  ERROR    ⨯ ReferenceError: useEffect is not defined
+[00:39:13.304] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:39:13.490] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:39:13.490] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:39:13.490] Browser ERROR   uncaughtError: ReferenceError: useEffect is not defined
+[00:40:30.841] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:40:31.168] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:40:31.168] Server  ERROR    ⨯ ReferenceError: params is not defined
+[00:40:31.186] Server  LOG      ✓ Compiled in 136ms
+[00:40:31.375] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:40:31.951] Browser ERROR   uncaughtError: ReferenceError: params is not defined
+[00:40:37.124] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:40:37.423] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:40:37.424] Server  ERROR    ⨯ TypeError: Cannot destructure property 'id' of 'props' as it is undefined.
+[00:40:37.454] Server  LOG      ✓ Compiled in 40ms
+[00:40:37.584] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:40:37.944] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'id' of 'props' as it is undefined.
+[00:40:40.286] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:40:40.588] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:40:40.588] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'params')
+[00:40:40.613] Server  LOG      ✓ Compiled in 45ms
+[00:40:40.780] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:40:41.954] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'params')
+[00:40:44.900] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:40:44.901] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'params')
+[00:40:44.999] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:40:45.175] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'params')
+[00:40:45.752] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:40:45.752] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'params')
+[00:40:45.866] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:40:46.035] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'params')
+[00:40:46.491] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:40:46.491] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'params')
+[00:40:46.595] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:40:46.764] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'params')
+[00:43:38.940] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:43:38.941] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'params')
+[00:43:39.099] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:43:39.280] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'params')
+[00:43:40.176] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:43:40.177] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'params')
+[00:43:40.281] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:43:40.461] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'params')
+[00:43:40.833] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:43:40.834] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'params')
+[00:43:40.939] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:43:41.113] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'params')
+[00:43:41.184] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:43:41.185] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'params')
+[00:43:41.288] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:43:41.454] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'params')
+[00:44:15.033] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:44:15.435] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:44:15.435] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'params')
+[00:44:15.449] Server  LOG      ✓ Compiled in 132ms
+[00:44:15.557] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:15.942] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'params')
+[00:44:18.544] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:44:18.837] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:44:18.838] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'params')
+[00:44:18.858] Server  LOG      ✓ Compiled in 56ms
+[00:44:18.953] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:19.952] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'params')
+[00:44:32.722] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:44:33.025] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:44:33.026] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'params')
+[00:44:33.040] Server  LOG      ✓ Compiled in 57ms
+[00:44:33.206] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:33.464] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'params')
+[00:44:37.453] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:44:37.764] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:44:37.764] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'params')
+[00:44:37.782] Server  LOG      ✓ Compiled in 112ms
+[00:44:37.889] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:38.062] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'params')
+[00:44:42.268] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:44:42.269] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'params')
+[00:44:42.370] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:42.601] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:44:42.601] Server  ERROR    ⨯ TypeError: Cannot read properties of undefined (reading 'params')
+[00:44:42.617] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:42.720] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:42.897] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'params')
+[00:44:45.098] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:46.798] Server  LOG      ○ Compiling / ...
+[00:44:49.312] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:49.603] Browser WARN    Image with src "/_next/static/media/login_img.87f4187e.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:44:50.505] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[00:44:50.505] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[00:44:50.646] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:44:56.205] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[00:44:56.205] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[00:44:59.890] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:44:59.890] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:44:59.890] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:49:53.936] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:49:54.277] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:49:54.277] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:49:54.277] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:49:54.277] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:49:54.277] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:08:34.392] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'params')
+[01:11:05.069] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:11:05.435] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:11:05.436] Server  ERROR    ⨯ ReferenceError: props is not defined
+[01:11:05.452] Server  LOG      ✓ Compiled in 175ms
+[01:11:05.591] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:11:06.667] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:11:06.667] Browser ERROR   uncaughtError: ReferenceError: props is not defined
+[01:11:06.963] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:11:06.963] Server  ERROR    ⨯ ReferenceError: props is not defined
+[01:11:06.982] Server  LOG      ✓ Compiled in 56ms
+[01:11:07.086] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:11:07.943] Browser ERROR   uncaughtError: ReferenceError: props is not defined
+[01:11:11.386] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:11:11.397] Server  LOG      ✓ Compiled in 81ms
+[01:11:11.698] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\node_modules_next_dist_3a203ced._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:11:11.698] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:11:11.699] Server  WARN    Error: Route "/all-cars/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:11:11.705] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:11:11.706] Server  ERROR    ⨯ ReferenceError: useEffect is not defined
+[01:11:11.829] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:11:12.389] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:11:12.389] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:11:12.389] Browser ERROR   uncaughtError: ReferenceError: useEffect is not defined
+[01:12:34.010] Server  LOG      ✓ Compiled in 166ms
+[01:12:34.946] Browser ERROR   ./src/app/all-cars/[id]/page.jsx
+Error evaluating Node.js code
+SyntaxError: F:\Programing-Hero-EJP\Blog\client\src\app\all-cars\[id]\page.jsx: Identifier 'id' has already been declared. (6:37)
+
+  4 | import { useState } from "react";
+  5 |
+> 6 | export default function CarDetails({ id }) {
+    |                                      ^
+  7 |   const { id } = params;
+  8 |   const axios = useAxios();
+  9 |
+    [at constructor (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:137105)]
+    [at JSXParserMixin.raise (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:194164)]
+    [at ScopeHandler.checkRedeclarationInScope (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:163166)]
+    [at ScopeHandler.declareName (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:162798)]
+    [at JSXParserMixin.declareNameFromIdentifier (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:279226)]
+    [at JSXParserMixin.checkIdentifier (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:279152)]
+    [at JSXParserMixin.checkLVal (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:278197)]
+    [at JSXParserMixin.checkLVal (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:278768)]
+    [at JSXParserMixin.checkLVal (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:278727)]
+    [at JSXParserMixin.checkParams (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:378733)]
+    [at JSXParserMixin.<anonymous> (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:378278)]
+    [at JSXParserMixin.parseBlockOrModuleBlockBody (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:401663)]
+    [at JSXParserMixin.parseBlockBody (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:401223)]
+    [at JSXParserMixin.parseBlock (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:400923)]
+    [at JSXParserMixin.parseFunctionBody (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:378053)]
+    [at JSXParserMixin.parseFunctionBodyAndFinish (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:377675)]
+    [at F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:404308]
+    [at JSXParserMixin.withSmartMixTopicForbiddingContext (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:383677)]
+    [at JSXParserMixin.parseFunction (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:404262)]
+    [at JSXParserMixin.parseExportDefaultExpression (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:414860)]
+    [at JSXParserMixin.parseExport (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:413097)]
+    [at JSXParserMixin.parseStatementContent (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:391808)]
+    [at JSXParserMixin.parseStatementLike (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:389494)]
+    [at JSXParserMixin.parseModuleItem (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:389055)]
+    [at JSXParserMixin.parseBlockOrModuleBlockBody (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:401400)]
+    [at JSXParserMixin.parseBlockBody (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:401223)]
+    [at JSXParserMixin.parseProgram (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:386857)]
+    [at JSXParserMixin.parseTopLevel (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:386575)]
+    [at JSXParserMixin.parse (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:426834)]
+    [at parse (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:427092)]
+    [at parser (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:1:142018)]
+    [at <anonymous>]
+    [at normalizeFile (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:13:13275)]
+    [at <anonymous>]
+    [at consumeIterator (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\build\babel\loader\util.js:13:38)]
+    [at transform (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\build\babel\loader\transform.js:89:44)]
+    [at async (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\build\babel\loader\index.js:36:108)]
+    at async DummySpan.traceAsyncFn (turbopack:///[turbopack-node]/transforms/webpack-loaders.ts:115:12) [F:\Programing-Hero-EJP\Blog\client\.next\dev\build\chunks\[root-of-the-server]__6e020478._.js:126:16]
+    [at async nextBabelLoader (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\build\babel\loader\index.js:36:63)]
+    at async DummySpan.traceAsyncFn (turbopack:///[turbopack-node]/transforms/webpack-loaders.ts:115:12) [F:\Programing-Hero-EJP\Blog\client\.next\dev\build\chunks\[root-of-the-server]__6e020478._.js:126:16]
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:12:34.946] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:7:11
+Ecmascript file had an error
+   5 |
+   6 | export default function CarDetails({ id }) {
+>  7 |   const { id } = params;
+     |           ^^
+   8 |   const axios = useAxios();
+   9 |
+  10 |   const [car, setCar] = useState(null);
+
+the name `id` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:12:37.711] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:12:38.063] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:12:38.064] Server  ERROR    ⨯ ReferenceError: useEffect is not defined
+[01:12:38.198] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:12:38.456] Browser ERROR   uncaughtError: ReferenceError: useEffect is not defined
+[01:12:46.542] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:12:46.862] Server  LOG      ✓ Compiled in 83ms
+[01:12:47.027] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:12:47.942] Browser LOG     Request failed with status code 500
+[01:12:55.995] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:12:55.995] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:12:56.145] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:12:59.909] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:12:59.909] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:12:59.909] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:13:01.993] Browser LOG     Request failed with status code 500
+[01:13:01.993] Browser LOG     Request failed with status code 500
+[01:13:38.476] Browser LOG     Request failed with status code 500
+[01:13:38.476] Browser LOG     Request failed with status code 500
+[01:14:24.310] Server  LOG      ✓ Compiled in 118ms
+[01:14:24.951] Browser ERROR   ./src/app/all-cars/[id]/page.jsx
+Error evaluating Node.js code
+SyntaxError: F:\Programing-Hero-EJP\Blog\client\src\app\all-cars\[id]\page.jsx: Identifier 'id' has already been declared. (6:37)
+
+  4 | import { useState } from "react";
+  5 |
+> 6 | export default function CarDetails({ id }) {
+    |                                      ^
+  7 |   const { id } = params;
+  8 |   const axios = useAxios();
+  9 |
+    [at constructor (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:137105)]
+    [at JSXParserMixin.raise (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:194164)]
+    [at ScopeHandler.checkRedeclarationInScope (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:163166)]
+    [at ScopeHandler.declareName (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:162798)]
+    [at JSXParserMixin.declareNameFromIdentifier (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:279226)]
+    [at JSXParserMixin.checkIdentifier (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:279152)]
+    [at JSXParserMixin.checkLVal (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:278197)]
+    [at JSXParserMixin.checkLVal (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:278768)]
+    [at JSXParserMixin.checkLVal (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:278727)]
+    [at JSXParserMixin.checkParams (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:378733)]
+    [at JSXParserMixin.<anonymous> (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:378278)]
+    [at JSXParserMixin.parseBlockOrModuleBlockBody (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:401663)]
+    [at JSXParserMixin.parseBlockBody (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:401223)]
+    [at JSXParserMixin.parseBlock (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:400923)]
+    [at JSXParserMixin.parseFunctionBody (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:378053)]
+    [at JSXParserMixin.parseFunctionBodyAndFinish (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:377675)]
+    [at F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:404308]
+    [at JSXParserMixin.withSmartMixTopicForbiddingContext (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:383677)]
+    [at JSXParserMixin.parseFunction (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:404262)]
+    [at JSXParserMixin.parseExportDefaultExpression (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:414860)]
+    [at JSXParserMixin.parseExport (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:413097)]
+    [at JSXParserMixin.parseStatementContent (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:391808)]
+    [at JSXParserMixin.parseStatementLike (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:389494)]
+    [at JSXParserMixin.parseModuleItem (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:389055)]
+    [at JSXParserMixin.parseBlockOrModuleBlockBody (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:401400)]
+    [at JSXParserMixin.parseBlockBody (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:401223)]
+    [at JSXParserMixin.parseProgram (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:386857)]
+    [at JSXParserMixin.parseTopLevel (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:386575)]
+    [at JSXParserMixin.parse (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:426834)]
+    [at parse (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:427092)]
+    [at parser (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:1:142018)]
+    [at <anonymous>]
+    [at normalizeFile (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:13:13275)]
+    [at <anonymous>]
+    [at consumeIterator (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\build\babel\loader\util.js:13:38)]
+    [at transform (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\build\babel\loader\transform.js:89:44)]
+    [at async (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\build\babel\loader\index.js:36:108)]
+    at async DummySpan.traceAsyncFn (turbopack:///[turbopack-node]/transforms/webpack-loaders.ts:115:12) [F:\Programing-Hero-EJP\Blog\client\.next\dev\build\chunks\[root-of-the-server]__6e020478._.js:126:16]
+    [at async nextBabelLoader (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\build\babel\loader\index.js:36:63)]
+    at async DummySpan.traceAsyncFn (turbopack:///[turbopack-node]/transforms/webpack-loaders.ts:115:12) [F:\Programing-Hero-EJP\Blog\client\.next\dev\build\chunks\[root-of-the-server]__6e020478._.js:126:16]
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:14:24.951] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:7:11
+Ecmascript file had an error
+   5 |
+   6 | export default function CarDetails({ id }) {
+>  7 |   const { id } = params;
+     |           ^^
+   8 |   const axios = useAxios();
+   9 |
+  10 |   const [car, setCar] = useState(null);
+
+the name `id` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:14:32.665] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:14:32.665] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:14:32.778] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:14:32.778] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:14:35.401] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\node_modules_next_dist_3a203ced._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:14:35.402] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:14:35.402] Server  WARN    Error: Route "/all-cars/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:14:35.532] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:14:35.714] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:14:35.714] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:14:35.714] Browser LOG     Request failed with status code 500
+[01:15:03.549] Server  LOG      ✓ Compiled in 53ms
+[01:15:03.956] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:15:03.956] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:15:06.295] Server  LOG      ✓ Compiled in 62ms
+[01:15:06.954] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:15:06.954] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:15:07.801] Server  LOG      ✓ Compiled in 43ms
+[01:15:07.955] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:35:8
+Parsing ecmascript source code failed
+  33 |        {
+  34 |         car.
+> 35 |        }
+     |        ^
+  36 |     </div>
+  37 |   );
+  38 | }
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:15:10.956] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:15:10.956] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:15:10.956] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:15:10.956] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:15:13.106] Server  LOG      ✓ Compiled in 79ms
+[01:15:13.952] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:15:13.952] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:15:14.487] Server  LOG      ✓ Compiled in 60ms
+[01:15:14.951] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:15:14.951] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:15:19.302] Server  LOG      ✓ Compiled in 57ms
+[01:15:19.942] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:15:19.942] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:15:23.378] Server  LOG      ✓ Compiled in 55ms
+[01:15:23.955] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:36:9
+Parsing ecmascript source code failed
+  34 |         car.map((item) => {
+  35 |             <Image
+> 36 |         })
+     |         ^
+  37 |        }
+  38 |     </div>
+  39 |   );
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:15:26.952] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:15:26.952] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:15:26.952] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:15:26.952] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:15:29.149] Server  LOG      ✓ Compiled in 41ms
+[01:15:29.942] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:36:28
+Parsing ecmascript source code failed
+  34 |        {
+  35 |         car.map((item) => {
+> 36 |             <Image src={} />
+     |                            ^
+  37 |         })
+  38 |        }
+  39 |     </div>
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:15:35.949] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:15:35.949] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:15:35.949] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:15:35.949] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:15:46.519] Server  LOG      ✓ Compiled in 45ms
+[01:15:46.942] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:15:46.942] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:20:37.946] Server  LOG      ✓ Compiled in 43ms
+[01:20:38.945] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:36:13
+Parsing ecmascript source code failed
+  34 |        {
+  35 |         car.map((item) => {
+> 36 |             <
+     |             ^
+  37 |         })
+  38 |        }
+  39 |     </div>
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:20:39.634] Server  LOG      ✓ Compiled in 39ms
+[01:20:39.945] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:37:9
+Parsing ecmascript source code failed
+  35 |         car.map((item) => {
+  36 |             <Car
+> 37 |         })
+     |         ^
+  38 |        }
+  39 |     </div>
+  40 |   );
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:20:41.947] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:37:9
+Parsing ecmascript source code failed
+  35 |         car.map((item) => {
+  36 |             <CarDF
+> 37 |         })
+     |         ^
+  38 |        }
+  39 |     </div>
+  40 |   );
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:20:43.945] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:37:9
+Parsing ecmascript source code failed
+  35 |         car.map((item) => {
+  36 |             <CarD
+> 37 |         })
+     |         ^
+  38 |        }
+  39 |     </div>
+  40 |   );
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:20:45.942] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:37:9
+Parsing ecmascript source code failed
+  35 |         car.map((item) => {
+  36 |             <CarDeta
+> 37 |         })
+     |         ^
+  38 |        }
+  39 |     </div>
+  40 |   );
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:20:51.942] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:37:9
+Parsing ecmascript source code failed
+  35 |         car.map((item) => {
+  36 |             <CarDetails
+> 37 |         })
+     |         ^
+  38 |        }
+  39 |     </div>
+  40 |   );
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:21:13.956] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:37:9
+Parsing ecmascript source code failed
+  35 |         car.map((item) => {
+  36 |             <CarDtails
+> 37 |         })
+     |         ^
+  38 |        }
+  39 |     </div>
+  40 |   );
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:21:18.135] Server  LOG      ✓ Compiled in 31ms
+[01:21:18.946] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:36:13
+Parsing ecmascript source code failed
+  34 |        {
+  35 |         car.map((item) => {
+> 36 |             <
+     |             ^
+  37 |         })
+  38 |        }
+  39 |     </div>
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:21:20.952] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:21:20.952] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:21:20.952] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:21:20.952] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:21:46.545] Server  LOG      ✓ Compiled in 42ms
+[01:21:46.949] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:37:9
+Parsing ecmascript source code failed
+  35 |         car.map((item) => {
+  36 |             <CarDe
+> 37 |         })
+     |         ^
+  38 |        }
+  39 |     </div>
+  40 |   );
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:21:50.950] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:37:9
+Parsing ecmascript source code failed
+  35 |         car.map((item) => {
+  36 |             <CarDetails
+> 37 |         })
+     |         ^
+  38 |        }
+  39 |     </div>
+  40 |   );
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:21:56.941] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:21:56.941] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:21:56.941] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:21:56.941] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:21:57.768] Server  LOG      ✓ Compiled in 74ms
+[01:21:57.941] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:21:57.941] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:22:01.291] Server  LOG      ✓ Compiled in 46ms
+[01:22:01.944] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:38:13
+Parsing ecmascript source code failed
+  36 |             <div>
+  37 |                 <Car
+> 38 |             </div>
+     |             ^
+  39 |         })
+  40 |        }
+  41 |     </div>
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:22:01.944] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:38:14
+Parsing ecmascript source code failed
+  36 |             <div>
+  37 |                 <Car
+> 38 |             </div>
+     |              ^^^^^
+  39 |         })
+  40 |        }
+  41 |     </div>
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:22:03.946] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:38:13
+Parsing ecmascript source code failed
+  36 |             <div>
+  37 |                 <CarDetails
+> 38 |             </div>
+     |             ^
+  39 |         })
+  40 |        }
+  41 |     </div>
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:22:03.946] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:38:14
+Parsing ecmascript source code failed
+  36 |             <div>
+  37 |                 <CarDetails
+> 38 |             </div>
+     |              ^^^^^
+  39 |         })
+  40 |        }
+  41 |     </div>
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:22:06.952] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:22:06.952] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:22:06.952] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:22:06.952] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:22:09.246] Server  LOG      ✓ Compiled in 32ms
+[01:22:09.952] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:22:09.952] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:22:39.811] Server  LOG      ✓ Compiled in 134ms
+[01:22:39.950] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:22:39.950] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:22:58.160] Server  LOG      ✓ Compiled in 63ms
+[01:22:58.955] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:22:58.955] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:22:59.690] Server  LOG      ✓ Compiled in 62ms
+[01:22:59.942] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:22:59.942] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:23:02.163] Server  LOG      ✓ Compiled in 42ms
+[01:23:02.949] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:36:25
+Parsing ecmascript source code failed
+  34 |        {
+  35 |         car.map((item) => {
+> 36 |             <div key={}></div>
+     |                         ^
+  37 |         })
+  38 |        }
+  39 |     </div>
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:23:02.949] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:36:26
+Parsing ecmascript source code failed
+  34 |        {
+  35 |         car.map((item) => {
+> 36 |             <div key={}></div>
+     |                          ^^^^^
+  37 |         })
+  38 |        }
+  39 |     </div>
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:23:05.949] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:23:05.949] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:23:05.949] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:23:05.949] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:23:05.993] Server  LOG      ✓ Compiled in 41ms
+[01:23:06.943] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:36:28
+Parsing ecmascript source code failed
+  34 |        {
+  35 |         car.map((item) => {
+> 36 |             <div key={item.}></div>
+     |                            ^
+  37 |         })
+  38 |        }
+  39 |     </div>
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:23:07.948] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:23:07.948] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:23:07.948] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:23:07.948] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:23:08.914] Server  LOG      ✓ Compiled in 50ms
+[01:23:09.949] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:36:36
+Parsing ecmascript source code failed
+  34 |        {
+  35 |         car.map((item) => {
+> 36 |             <div key={item.id}>/div>
+     |                                    ^
+  37 |         })
+  38 |        }
+  39 |     </div>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:23:09.949] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:38:8
+Parsing ecmascript source code failed
+  36 |             <div key={item.id}>/div>
+  37 |         })
+> 38 |        }
+     |        ^
+  39 |     </div>
+  40 |   );
+  41 | }
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:23:12.956] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:23:12.956] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:23:12.956] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:23:12.956] Browser ERROR   A param property was accessed directly with `params.id`. `params` is a Promise and must be unwrapped with `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:29:09.749] Server  LOG      ✓ Compiled in 179ms
+[01:29:09.949] Browser ERROR   uncaughtError: ReferenceError: params is not defined
+[01:29:15.880] Server  LOG      ✓ Compiled in 41ms
+[01:29:16.941] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:8:9
+Parsing ecmascript source code failed
+   6 |
+   7 | export default function CarDetails({ name, email, carTypes, condition, image, registration, nid, address, description, createdAt }) {
+>  8 |   const para;
+     |         ^^^^
+   9 |   const axios = useAxios();
+  10 |
+  11 |   const [car, setCar] = useState(null);
+
+'const' declarations must be initialized
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:29:18.004] Server  LOG      ✓ Compiled in 39ms
+[01:29:18.956] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:8:18
+Parsing ecmascript source code failed
+   6 |
+   7 | export default function CarDetails({ name, email, carTypes, condition, image, registration, nid, address, description, createdAt }) {
+>  8 |   const params = ;
+     |                  ^
+   9 |   const axios = useAxios();
+  10 |
+  11 |   const [car, setCar] = useState(null);
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:29:21.970] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:29:22.304] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__1044e10f._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:29:22.305] Server  ERROR    ⨯ ReferenceError: usePa is not defined
+[01:29:22.473] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:29:22.949] Browser ERROR   uncaughtError: ReferenceError: usePa is not defined
+[01:29:24.483] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:29:24.817] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__62ecba0e._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:29:24.817] Server  ERROR    ⨯ ReferenceError: id is not defined
+[01:29:24.838] Server  LOG      ✓ Compiled in 108ms
+[01:29:24.969] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:29:25.957] Browser ERROR   uncaughtError: ReferenceError: id is not defined
+[01:29:27.749] Server  LOG      ✓ Compiled in 45ms
+[01:29:27.951] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:11:3
+Parsing ecmascript source code failed
+   9 |   const params = useParams();
+  10 |   const 
+> 11 |   const axios = useAxios();
+     |   ^^^^^
+  12 |
+  13 |   const [car, setCar] = useState(null);
+  14 |   const [loading, setLoading] = useState(true);
+
+Expected ident
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:29:37.063] Server  LOG      ✓ Compiled in 42ms
+[01:29:37.952] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:11:9
+Parsing ecmascript source code failed
+   9 |   const params = useParams();
+  10 |   const id = params.
+> 11 |   const axios = useAxios();
+     |         ^^^^^
+  12 |
+  13 |   const [car, setCar] = useState(null);
+  14 |   const [loading, setLoading] = useState(true);
+
+Expected a semicolon
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:29:38.348] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:29:38.811] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:29:39.598] Browser LOG     Request failed with status code 500
+[01:29:41.845] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:29:41.846] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:29:42.501] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:29:45.027] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:29:45.027] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:29:45.027] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:29:46.931] Browser LOG     Request failed with status code 500
+[01:29:46.931] Browser LOG     Request failed with status code 500
+[01:30:24.956] Server  LOG      ✓ Compiled in 126ms
+[01:30:25.955] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:38:1
+Parsing ecmascript source code failed
+  36 |        d
+  37 |   );
+> 38 | }
+     | ^
+  39 |
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:30:30.642] Server  LOG      ✓ Compiled in 87ms
+[01:30:39.906] Server  LOG      ✓ Compiled in 44ms
+[01:30:44.005] Server  LOG      ✓ Compiled in 46ms
+[01:31:36.467] Server  LOG      ✓ Compiled in 160ms
+[01:31:38.963] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:31:38.963] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:32:01.603] Server  LOG      ✓ Compiled in 59ms
+[01:32:01.947] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[01:32:01.947] Browser ERROR   Image is missing required "src" property: <img>
+[01:32:01.947] Browser ERROR   Image is missing required "alt" property. Please add Alternative Text to describe the image for screen readers and search engines.
+[01:32:01.947] Browser ERROR   Image is missing required "src" property: <img>
+[01:32:01.947] Browser ERROR   Image is missing required "alt" property. Please add Alternative Text to describe the image for screen readers and search engines.
+[01:32:04.287] Server  LOG      ✓ Compiled in 42ms
+[01:32:04.942] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:37:28
+Parsing ecmascript source code failed
+  35 |     <div>
+  36 |       <div key={car._id}>
+> 37 |             <Image src={} />
+     |                            ^
+  38 |       </div>
+  39 |     </div>
+  40 |   );
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:32:07.949] Browser ERROR   uncaughtError: ReferenceError: ca is not defined
+[01:32:10.588] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:32:10.958] Server  LOG      ✓ Compiled in 49ms
+[01:32:10.961] Browser ERROR   uncaughtError: Error: Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" is missing required "width" property.
+[01:32:11.240] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:32:11.946] Browser ERROR   uncaughtError: Error: Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" is missing required "width" property.
+[01:32:13.594] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:32:13.944] Server  LOG      ✓ Compiled in 44ms
+[01:32:14.045] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:32:14.948] Browser ERROR   uncaughtError: Error: Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" is missing required "width" property.
+[01:32:15.482] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:32:15.794] Server  LOG      ✓ Compiled in 74ms
+[01:32:16.055] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:32:16.946] Browser ERROR   uncaughtError: Error: Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" is missing required "width" property.
+[01:32:18.082] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:32:18.420] Server  LOG      ✓ Compiled in 64ms
+[01:32:18.546] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:32:18.807] Browser ERROR   uncaughtError: Error: Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" is missing required "width" property.
+[01:32:23.380] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:32:23.465] Server  LOG      ✓ Compiled in 61ms
+[01:32:23.584] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:32:24.464] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:32:24.465] Browser ERROR   uncaughtError: Error: Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" is missing required "width" property.
+[01:32:24.477] Server  LOG      ✓ Compiled in 44ms
+[01:32:24.909] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:32:25.543] Server  LOG      ✓ Compiled in 41ms
+[01:32:25.948] Browser ERROR   uncaughtError: Error: Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" is missing required "width" property.
+[01:32:25.948] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:37:62
+Parsing ecmascript source code failed
+  35 |     <div>
+  36 |       <div key={car._id}>
+> 37 |             <Image src={car.image} alt="car image" height={}/>
+     |                                                              ^
+  38 |       </div>
+  39 |     </div>
+  40 |   );
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[01:32:27.103] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:32:27.524] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:32:27.947] Browser ERROR   uncaughtError: Error: Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" is missing required "width" property.
+[01:32:29.882] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:32:29.936] Server  LOG      ✓ Compiled in 66ms
+[01:32:30.047] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:32:30.956] Browser ERROR   uncaughtError: Error: Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" is missing required "width" property.
+[01:32:34.243] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:32:34.672] Server  LOG      ✓ Compiled in 60ms
+[01:32:34.802] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:32:37.880] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:32:38.446] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:32:38.446] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:32:59.488] Server  LOG      ✓ Compiled in 73ms
+[01:33:01.986] Server  LOG      ✓ Compiled in 44ms
+[01:33:04.072] Server  LOG      ✓ Compiled in 46ms
+[01:33:07.868] Server  LOG      ✓ Compiled in 54ms
+[01:33:10.242] Server  LOG      ✓ Compiled in 52ms
+[01:34:29.482] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:34:29.482] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:34:30.703] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:34:32.827] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:34:32.827] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:34:32.827] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:35:39.251] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:35:41.370] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:35:41.370] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:35:44.065] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:35:44.065] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:35:44.065] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:35:44.065] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:35:44.065] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:35:47.839] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:37:49.643] Server  LOG      ✓ Compiled in 334ms
+[01:37:49.956] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" and a height value of 0. This is likely because the parent element of the image has not been styled to have a set height.
+[01:38:43.414] Server  LOG      ✓ Compiled in 163ms
+[01:38:47.006] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:38:47.921] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:38:47.921] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" and a height value of 0. This is likely because the parent element of the image has not been styled to have a set height.
+[01:40:50.390] Server  LOG      ✓ Compiled in 287ms
+[01:41:29.014] Server  LOG      ✓ Compiled in 138ms
+[01:42:16.549] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:42:16.549] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:42:17.271] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:35.716] Server  LOG      ✓ Compiled in 122ms
+[01:42:43.752] Server  LOG      ✓ Compiled in 73ms
+[01:42:46.906] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:46.906] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:43:06.718] Server  LOG      ✓ Compiled in 53ms
+[01:43:29.418] Server  LOG      ✓ Compiled in 94ms
+[01:43:29.947] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:12:1
+Parsing ecmascript source code failed
+  10 | import 
+  11 |
+> 12 | const links = (
+     | ^^^^^
+  13 |   <>
+  14 |     <li>
+  15 |       <Link href="/">Home</Link>
+
+Expected 'from', got 'const'
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[01:43:43.437] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.444] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.446] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.448] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.451] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.452] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.456] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.457] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.460] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.461] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.464] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.465] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.467] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.468] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.471] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.472] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.475] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.477] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.479] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.480] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.481] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.483] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.484] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.486] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.487] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.489] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.490] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.493] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.494] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.496] Server  ERROR    ⨯ ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:43:43.498] Server  LOG      ✓ Compiled in 117ms
+[01:43:43.949] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:10:1
+Module not found: Can't resolve './'
+   8 | import { FaBars } from "react-icons/fa";
+   9 | import Swal from "sweetalert2";
+> 10 | import './'
+     | ^^^^^^^^^^^
+  11 |
+  12 | const links = (
+  13 |   <>
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+[01:43:45.978] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:43:46.949] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:43:46.949] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:43:46.949] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:43:46.949] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:44:15.923] Server  LOG      ✓ Compiled in 141ms
+[01:44:30.554] Server  LOG      ✓ Compiled in 53ms
+[01:44:31.667] Server  LOG      ✓ Compiled in 40ms
+[01:44:58.514] Server  LOG      ✓ Compiled in 54ms
+[01:44:59.308] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:45:01.229] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:45:03.028] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:45:03.640] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:45:03.640] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:45:03.640] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:45:03.640] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:45:03.640] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:45:03.921] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:45:10.514] Server  LOG      ✓ Compiled in 39ms
+[01:45:12.345] Server  LOG      ✓ Compiled in 55ms
+[01:46:01.607] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:46:01.607] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:46:01.727] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:46:02.888] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:46:02.888] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:46:02.888] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:46:47.190] Server  LOG      ✓ Compiled in 139ms
+[01:46:47.954] Browser ERROR   ./src/Components/Navbar/Navbar.css
+Error evaluating Node.js code
+CssSyntaxError: F:\Programing-Hero-EJP\Blog\client\src\Components\Navbar\Navbar.css:1:1: Unknown word a.
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Parser.unknownWord (turbopack:///[project]/node_modules/postcss/lib/parser.js:595:22)]
+    [at Parser.other (turbopack:///[project]/node_modules/postcss/lib/parser.js:437:12)]
+    [at Parser.parse (turbopack:///[project]/node_modules/postcss/lib/parser.js:472:16)]
+    [at parse (turbopack:///[project]/node_modules/postcss/lib/parse.js:11:12)]
+    [at new LazyResult (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:165:16)]
+    [at Processor.process (turbopack:///[project]/node_modules/postcss/lib/processor.js:53:14)]
+    [at transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:51)]
+    [at run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:29)]
+    [at run (turbopack:///[turbopack-node]/ipc/evaluate.ts:115:11)]
+
+Import trace:
+  Client Component Browser:
+    ./src/Components/Navbar/Navbar.css [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+[01:46:55.541] Server  LOG      ✓ Compiled in 4.8s
+[01:46:55.951] Browser ERROR   ./src/Components/Navbar/Navbar.css
+Error evaluating Node.js code
+CssSyntaxError: F:\Programing-Hero-EJP\Blog\client\src\Components\Navbar\Navbar.css:2:5: Unknown word back
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Parser.unknownWord (turbopack:///[project]/node_modules/postcss/lib/parser.js:595:22)]
+    [at Parser.other (turbopack:///[project]/node_modules/postcss/lib/parser.js:437:12)]
+    [at Parser.parse (turbopack:///[project]/node_modules/postcss/lib/parser.js:472:16)]
+    [at parse (turbopack:///[project]/node_modules/postcss/lib/parse.js:11:12)]
+    [at new LazyResult (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:165:16)]
+    [at Processor.process (turbopack:///[project]/node_modules/postcss/lib/processor.js:53:14)]
+    [at transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:51)]
+    [at run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:29)]
+    [at run (turbopack:///[turbopack-node]/ipc/evaluate.ts:115:11)]
+
+Import trace:
+  Client Component Browser:
+    ./src/Components/Navbar/Navbar.css [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+[01:46:57.367] Server  LOG      ✓ Compiled in 141ms
+[01:47:10.439] Server  LOG      ✓ Compiled in 142ms
+[01:47:14.281] Server  LOG      ✓ Compiled in 136ms
+[01:47:14.956] Browser ERROR   ./src/Components/Navbar/Navbar.css
+Error evaluating Node.js code
+CssSyntaxError: F:\Programing-Hero-EJP\Blog\client\src\Components\Navbar\Navbar.css:3:5: Unknown word col
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Parser.unknownWord (turbopack:///[project]/node_modules/postcss/lib/parser.js:595:22)]
+    [at Parser.other (turbopack:///[project]/node_modules/postcss/lib/parser.js:437:12)]
+    [at Parser.parse (turbopack:///[project]/node_modules/postcss/lib/parser.js:472:16)]
+    [at parse (turbopack:///[project]/node_modules/postcss/lib/parse.js:11:12)]
+    [at new LazyResult (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:165:16)]
+    [at Processor.process (turbopack:///[project]/node_modules/postcss/lib/processor.js:53:14)]
+    [at transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:51)]
+    [at run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:29)]
+    [at run (turbopack:///[turbopack-node]/ipc/evaluate.ts:115:11)]
+
+Import trace:
+  Client Component Browser:
+    ./src/Components/Navbar/Navbar.css [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+[01:47:20.122] Server  LOG      ✓ Compiled in 633ms
+[01:47:22.253] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:47:22.253] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:47:31.797] Server  LOG      ✓ Compiled in 152ms
+[01:47:34.579] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:47:34.579] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:50:26.917] Server  LOG      ✓ Compiled in 542ms
+[01:50:27.381] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:50:28.943] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:50:28.943] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:50:28.943] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:50:28.943] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:50:35.743] Server  LOG      ✓ Compiled in 47ms
+[01:50:36.960] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:50:38.678] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:50:38.683] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:50:41.201] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:50:46.457] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:50:46.457] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:50:47.672] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:50:51.759] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:50:51.759] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:50:51.759] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:51:30.296] Server  LOG      ✓ Compiled in 130ms
+[01:51:32.874] Server  LOG      ✓ Compiled in 113ms
+[01:51:42.341] Server  LOG      ✓ Compiled in 125ms
+[01:51:50.179] Server  LOG      ✓ Compiled in 120ms
+[01:52:20.025] Server  LOG      ✓ Compiled in 116ms
+[01:52:41.278] Server  LOG      ✓ Compiled in 205ms
+[01:52:43.696] Server  LOG      ✓ Compiled in 53ms
+[01:52:50.385] Server  LOG      ✓ Compiled in 89ms
+[01:52:55.772] Server  LOG      ✓ Compiled in 54ms
+[01:53:12.121] Server  LOG      ✓ Compiled in 53ms

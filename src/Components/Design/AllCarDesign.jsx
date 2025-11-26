@@ -3,6 +3,7 @@ import Link from "next/link";
 import React from "react";
 
 const AllCarDesign = ({
+  id,
   name,
   email,
   carTypes,
@@ -45,7 +46,7 @@ const AllCarDesign = ({
           </div>
         </div>
 
-        <Link href={``} className="btn btn-primary w-[120px] mt-3">View Details</Link>
+        <Link href={`/all-cars/${id}`} className="btn btn-primary w-[120px] mt-3">View Details</Link>
       </div>
     </div>
   );

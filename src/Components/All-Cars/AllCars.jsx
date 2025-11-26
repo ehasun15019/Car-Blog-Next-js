@@ -29,6 +29,7 @@ const AllCars = () => {
         return (
           <AllCarDesign
             key={item._id}
+            id={item._id}
             image={item.image}
             name={item.name}
             email={item.email}
