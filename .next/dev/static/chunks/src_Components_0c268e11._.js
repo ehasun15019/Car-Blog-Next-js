@@ -18,11 +18,11 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 ;
 const AllCarDesign = (t0)=>{
     const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$compiler$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["c"])(32);
-    if ($[0] !== "d68bd5934c2d3214c47415784c441895dc6495e5f3fa5b493e6ab01256adc353") {
+    if ($[0] !== "ce41285ad777bf63799516c07a6f4d3e8a91d1d4042bc8f786da10f06d9476a7") {
         for(let $i = 0; $i < 32; $i += 1){
             $[$i] = Symbol.for("react.memo_cache_sentinel");
         }
-        $[0] = "d68bd5934c2d3214c47415784c441895dc6495e5f3fa5b493e6ab01256adc353";
+        $[0] = "ce41285ad777bf63799516c07a6f4d3e8a91d1d4042bc8f786da10f06d9476a7";
     }
     const { id, name, email, carTypes, condition, image, createdAt } = t0;
     let t1;
@@ -158,6 +158,7 @@ const AllCarDesign = (t0)=>{
             className: "text-gray-600 text-sm",
             children: [
                 t7,
+                " ",
                 t8
             ]
         }, void 0, true, {
@@ -174,14 +175,15 @@ const AllCarDesign = (t0)=>{
     if ($[16] !== condition) {
         t10 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
             children: [
-                "Condition: ",
+                "Condition:",
+                " ",
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                     className: "bg-yellow-100 text-yellow-700 px-2 py-1 rounded",
                     children: condition
                 }, void 0, false, {
                     fileName: "[project]/src/Components/Design/AllCarDesign.jsx",
                     lineNumber: 93,
-                    columnNumber: 25
+                    columnNumber: 29
                 }, ("TURBOPACK compile-time value", void 0))
             ]
         }, void 0, true, {
@@ -244,7 +246,7 @@ const AllCarDesign = (t0)=>{
     let t14;
     if ($[25] !== t11 || $[26] !== t13 || $[27] !== t2) {
         t14 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-            className: "card-body flex flex-col justify-between p-6 lg:w-2/3",
+            className: "card-body flex flex-col justify-between p-6 w-full lg:w-2/3",
             children: [
                 t2,
                 t11,
@@ -265,7 +267,7 @@ const AllCarDesign = (t0)=>{
     let t15;
     if ($[29] !== t1 || $[30] !== t14) {
         t15 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-            className: "card card-side bg-white shadow-lg rounded-xl overflow-hidden hover:shadow-2xl transition mb-6 p-4 border border-gray-100",
+            className: "card card-side flex-col lg:flex-row bg-white shadow-lg rounded-xl overflow-hidden hover:shadow-2xl transition mb-6 border border-gray-100",
             children: [
                 t1,
                 t14

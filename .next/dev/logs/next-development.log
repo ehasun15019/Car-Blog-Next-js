@@ -2430,3 +2430,616 @@ Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
 [01:52:50.385] Server  LOG      ✓ Compiled in 89ms
 [01:52:55.772] Server  LOG      ✓ Compiled in 54ms
 [01:53:12.121] Server  LOG      ✓ Compiled in 53ms
+[02:09:01.878] Server  LOG      ✓ Compiled in 351ms
+[02:09:30.070] Browser LOG     Request failed with status code 404
+[02:09:31.821] Browser LOG     Request failed with status code 404
+[02:09:33.250] Browser LOG     Request failed with status code 404
+[02:09:33.734] Browser LOG     Request failed with status code 404
+[02:09:34.113] Browser LOG     Request failed with status code 404
+[02:09:35.223] Browser LOG     Request failed with status code 404
+[02:09:35.427] Browser LOG     Request failed with status code 404
+[02:09:35.624] Browser LOG     Request failed with status code 404
+[02:09:36.228] Browser LOG     Request failed with status code 404
+[02:09:36.394] Browser LOG     Request failed with status code 404
+[02:09:36.545] Browser LOG     Request failed with status code 404
+[02:09:37.354] Browser LOG     Request failed with status code 404
+[02:09:37.536] Browser LOG     Request failed with status code 404
+[02:09:42.254] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:10:17.367] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:10:17.657] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[02:10:28.274] Browser LOG     Request failed with status code 404
+[02:10:28.554] Browser LOG     Request failed with status code 404
+[02:10:28.731] Browser LOG     Request failed with status code 404
+[02:10:28.883] Browser LOG     Request failed with status code 404
+[02:10:29.042] Browser LOG     Request failed with status code 404
+[02:10:29.626] Browser LOG     Request failed with status code 404
+[02:10:29.802] Browser LOG     Request failed with status code 404
+[02:10:30.002] Browser LOG     Request failed with status code 404
+[02:10:30.190] Browser LOG     Request failed with status code 404
+[02:10:30.386] Browser LOG     Request failed with status code 404
+[02:14:54.000] Server  LOG      ✓ Compiled in 55ms
+[02:14:54.941] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:13:1
+Parsing ecmascript source code failed
+  11 | const 
+  12 |
+> 13 | export default function CarDetails() {
+     | ^^^^^^
+  14 |   const params = useParams();
+  15 |   const id = params.id;
+  16 |   const axios = useAxios();
+
+Expected ident
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[02:15:08.921] Server  LOG      ✓ Compiled in 48ms
+[02:15:09.951] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:11:7
+Parsing ecmascript source code failed
+   9 | import { useContext } from "react";
+  10 |
+> 11 | const car
+     |       ^^^
+  12 |
+  13 | export default function CarDetails() {
+  14 |   const params = useParams();
+
+'const' declarations must be initialized
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[02:15:17.956] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:11:7
+Parsing ecmascript source code failed
+   9 | import { useContext } from "react";
+  10 |
+> 11 | const CarDetails
+     |       ^^^^^^^^^^
+  12 |
+  13 | export default function CarDetails() {
+  14 |   const params = useParams();
+
+'const' declarations must be initialized
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[02:15:19.736] Server  LOG      ✓ Compiled in 43ms
+[02:15:19.956] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:13:1
+Parsing ecmascript source code failed
+  11 | const CarDetails = 
+  12 |
+> 13 | export default function CarDetails() {
+     | ^^^^^^
+  14 |   const params = useParams();
+  15 |   const id = params.id;
+  16 |   const axios = useAxios();
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[02:15:22.927] Server  LOG      ✓ Compiled in 59ms
+[02:15:23.944] Browser ERROR   ./src/app/all-cars/[id]/page.jsx
+Error evaluating Node.js code
+SyntaxError: F:\Programing-Hero-EJP\Blog\client\src\app\all-cars\[id]\page.jsx: Identifier 'CarDetails' has already been declared. (15:24)
+
+  13 | }
+  14 |
+> 15 | export default function CarDetails() {
+     |                         ^
+  16 |   const params = useParams();
+  17 |   const id = params.id;
+  18 |   const axios = useAxios();
+    [at constructor (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:137105)]
+    [at JSXParserMixin.raise (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:194164)]
+    [at ScopeHandler.checkRedeclarationInScope (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:163166)]
+    [at ScopeHandler.declareName (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:162529)]
+    [at JSXParserMixin.registerFunctionStatementId (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:404843)]
+    [at JSXParserMixin.parseFunction (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:404441)]
+    [at JSXParserMixin.parseExportDefaultExpression (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:414860)]
+    [at JSXParserMixin.parseExport (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:413097)]
+    [at JSXParserMixin.parseStatementContent (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:391808)]
+    [at JSXParserMixin.parseStatementLike (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:389494)]
+    [at JSXParserMixin.parseModuleItem (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:389055)]
+    [at JSXParserMixin.parseBlockOrModuleBlockBody (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:401400)]
+    [at JSXParserMixin.parseBlockBody (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:401223)]
+    [at JSXParserMixin.parseProgram (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:386857)]
+    [at JSXParserMixin.parseTopLevel (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:386575)]
+    [at JSXParserMixin.parse (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:426834)]
+    [at parse (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:427092)]
+    [at parser (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:1:142018)]
+    [at <anonymous>]
+    [at normalizeFile (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:13:13275)]
+    [at <anonymous>]
+    [at consumeIterator (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\build\babel\loader\util.js:13:38)]
+    [at transform (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\build\babel\loader\transform.js:89:44)]
+    [at async (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\build\babel\loader\index.js:36:108)]
+    at async DummySpan.traceAsyncFn (turbopack:///[turbopack-node]/transforms/webpack-loaders.ts:115:12) [F:\Programing-Hero-EJP\Blog\client\.next\dev\build\chunks\[root-of-the-server]__6e020478._.js:126:16]
+    [at async nextBabelLoader (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\build\babel\loader\index.js:36:63)]
+    at async DummySpan.traceAsyncFn (turbopack:///[turbopack-node]/transforms/webpack-loaders.ts:115:12) [F:\Programing-Hero-EJP\Blog\client\.next\dev\build\chunks\[root-of-the-server]__6e020478._.js:126:16]
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[02:15:23.944] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:15:25
+Ecmascript file had an error
+  13 | }
+  14 |
+> 15 | export default function CarDetails() {
+     |                         ^^^^^^^^^^
+  16 |   const params = useParams();
+  17 |   const id = params.id;
+  18 |   const axios = useAxios();
+
+the name `CarDetails` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[02:15:26.956] Browser ERROR   ./src/app/all-cars/[id]/page.jsx
+Error evaluating Node.js code
+SyntaxError: F:\Programing-Hero-EJP\Blog\client\src\app\all-cars\[id]\page.jsx: Identifier 'CarDetails' has already been declared. (15:24)
+
+  13 | }
+  14 |
+> 15 | export default function CarDetails() {
+     |                         ^
+  16 |   const params = useParams();
+  17 |   const id = params.id;
+  18 |   const axios = useAxios();
+    [at constructor (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:137105)]
+    [at JSXParserMixin.raise (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:194164)]
+    [at ScopeHandler.checkRedeclarationInScope (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:163166)]
+    [at ScopeHandler.declareName (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:162529)]
+    [at JSXParserMixin.registerFunctionStatementId (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:404843)]
+    [at JSXParserMixin.parseFunction (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:404441)]
+    [at JSXParserMixin.parseExportDefaultExpression (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:414860)]
+    [at JSXParserMixin.parseExport (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:413097)]
+    [at JSXParserMixin.parseStatementContent (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:391808)]
+    [at JSXParserMixin.parseStatementLike (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:389494)]
+    [at JSXParserMixin.parseModuleItem (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:389055)]
+    [at JSXParserMixin.parseBlockOrModuleBlockBody (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:401400)]
+    [at JSXParserMixin.parseBlockBody (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:401223)]
+    [at JSXParserMixin.parseProgram (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:386857)]
+    [at JSXParserMixin.parseTopLevel (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:386575)]
+    [at JSXParserMixin.parse (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:426834)]
+    [at parse (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:191:427092)]
+    [at parser (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:1:142018)]
+    [at <anonymous>]
+    [at normalizeFile (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\babel\bundle.js:13:13275)]
+    [at <anonymous>]
+    [at consumeIterator (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\build\babel\loader\util.js:13:38)]
+    [at transform (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\build\babel\loader\transform.js:89:44)]
+    [at async (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\build\babel\loader\index.js:36:108)]
+    at async DummySpan.traceAsyncFn (turbopack:///[turbopack-node]/transforms/webpack-loaders.ts:115:12) [F:\Programing-Hero-EJP\Blog\client\.next\dev\build\chunks\[root-of-the-server]__6e020478._.js:126:16]
+    [at async nextBabelLoader (F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\build\babel\loader\index.js:36:63)]
+    at async DummySpan.traceAsyncFn (turbopack:///[turbopack-node]/transforms/webpack-loaders.ts:115:12) [F:\Programing-Hero-EJP\Blog\client\.next\dev\build\chunks\[root-of-the-server]__6e020478._.js:126:16]
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[02:15:26.956] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:15:25
+Ecmascript file had an error
+  13 | }
+  14 |
+> 15 | export default function CarDetails() {
+     |                         ^^^^^^^^^^
+  16 |   const params = useParams();
+  17 |   const id = params.id;
+  18 |   const axios = useAxios();
+
+the name `CarDetails` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[02:15:27.933] Server  LOG      ✓ Compiled in 487ms
+[02:15:28.946] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:12:11
+Parsing ecmascript source code failed
+  10 |
+  11 | const CarDetails = () => {
+> 12 |     return(
+     |           ^
+> 13 |         
+     | ^^^^^^^^
+> 14 |     )
+     | ^^^^^^
+  15 | }
+  16 |
+  17 | export default function CarDetails() {
+
+Parenthesized expression cannot be empty
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[02:15:46.943] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:12:11
+Parsing ecmascript source code failed
+  10 |
+  11 | const CarDetails = () => {
+> 12 |     return(
+     |           ^
+> 13 |
+     | ^
+> 14 |     )
+     | ^^^^^^
+  15 | }
+  16 |
+  17 | export default function CarDetails() {
+
+Parenthesized expression cannot be empty
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[02:15:48.942] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:12:11
+Parsing ecmascript source code failed
+  10 |
+  11 | const CarDetails = () => {
+> 12 |     return(
+     |           ^
+> 13 |         
+     | ^^^^^^^^
+> 14 |     )
+     | ^^^^^^
+  15 | }
+  16 |
+  17 | export default function CarDetails() {
+
+Parenthesized expression cannot be empty
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[02:15:50.947] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:12:11
+Parsing ecmascript source code failed
+  10 |
+  11 | const CarDetails = () => {
+> 12 |     return(
+     |           ^
+> 13 |         
+     | ^^^^^^^^
+> 14 |     )
+     | ^^^^^^
+  15 | }
+  16 |
+  17 | export default function CarDetails() {
+
+Parenthesized expression cannot be empty
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[02:15:52.254] Server  LOG      ✓ Compiled in 47ms
+[02:15:52.946] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:167:1
+Parsing ecmascript source code failed
+  165 |   );
+  166 |
+> 167 | export default function CarDetails() {
+      | ^^^^^^
+  168 |  
+  169 | }
+  170 |
+
+'import', and 'export' cannot be used outside of module code
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[02:15:58.943] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:167:1
+Parsing ecmascript source code failed
+  165 |   );
+  166 |
+> 167 | export default function Pa() {
+      | ^^^^^^
+  168 |  
+  169 | }
+  170 |
+
+'import', and 'export' cannot be used outside of module code
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[02:16:06.954] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:167:1
+Parsing ecmascript source code failed
+  165 |   );
+  166 |
+> 167 | export default function pageWrapper() {
+      | ^^^^^^
+  168 |  
+  169 | }
+  170 |
+
+'import', and 'export' cannot be used outside of module code
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[02:16:07.946] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:167:1
+Parsing ecmascript source code failed
+  165 |   );
+  166 |
+> 167 | export default function pageWrapper() {
+      | ^^^^^^
+  168 |     
+  169 | }
+  170 |
+
+'import', and 'export' cannot be used outside of module code
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[02:16:11.949] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:167:1
+Parsing ecmascript source code failed
+  165 |   );
+  166 |
+> 167 | export default function pageWrapper() {
+      | ^^^^^^
+  168 |     return(
+  169 |         <
+  170 |     )
+
+'import', and 'export' cannot be used outside of module code
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[02:16:14.950] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:168:1
+Parsing ecmascript source code failed
+  166 |   );
+  167 |
+> 168 | export default function pageWrapper() {
+      | ^^^^^^
+  169 |     return(
+  170 |         <PrivateRoute
+  171 |     )
+
+'import', and 'export' cannot be used outside of module code
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[02:16:16.953] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:168:1
+Parsing ecmascript source code failed
+  166 |   );
+  167 |
+> 168 | export default function pageWrapper() {
+      | ^^^^^^
+  169 |     return(
+  170 |         <PrivateRoute>
+  171 |             
+
+'import', and 'export' cannot be used outside of module code
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[02:16:47.250] Server  LOG      ✓ Compiled in 584ms
+[02:16:47.420] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/all-cars/[id]/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[02:16:48.846] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:16:50.191] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/all-cars/[id]/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[02:16:50.875] Server  LOG      ✓ Compiled in 194ms
+[02:16:50.985] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:16:55.220] Browser WARN    Image with src "/_next/static/media/login_img.87f4187e.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[02:17:27.682] Browser LOG     {"apiKey":"AIzaSyC1VxCUOIyTJYR9EvhAbNIYynflMBWQQEw","appName":"[DEFAULT]","createdAt":"1764141099394","email":"bipul@gmail.com","emailVerified":false,"isAnonymous":false,"lastLoginAt":"1764141099394","providerData":[{"displayName":null,"email":"bipul@gmail.com","phoneNumber":null,"photoURL":null,"providerId":"password","uid":"bipul@gmail.com"}],"stsTokenManager":{"accessToken":"eyJhbGciOiJSUzI1NiIsImtpZCI6IjQ1YTZjMGMyYjgwMDcxN2EzNGQ1Y2JiYmYzOWI4NGI2NzYxMjgyNjUiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vbS00OS1pbnRlZ3JhdGlvbi1wcml2YXRlLXJvdXRlIiwiYXVkIjoibS00OS1pbnRlZ3JhdGlvbi1wcml2YXRlLXJvdXRlIiwiYXV0aF90aW1lIjoxNzY0MTQxMDk5LCJ1c2VyX2lkIjoibTJ6c2lsZXd1cWhrWncxSjAwb0hxcUpVY1pLMiIsInN1YiI6Im0yenNpbGV3dXFoa1p3MUowMG9IcXFKVWNaSzIiLCJpYXQiOjE3NjQxNDEwOTksImV4cCI6MTc2NDE0NDY5OSwiZW1haWwiOiJiaXB1bEBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsiYmlwdWxAZ21haWwuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoicGFzc3dvcmQifX0.CCGD63YOyAHIyNT-f8mv9xO6B84SKbGkO3HAaf-nooQ40pSh_9QHPZvdnPjoEZO6z7Rx5s22kh0A5uKG-LDPSWLmS0cpQcVAvN2HUITCQnqmiQjURPcivXluQXWZDcUWt25zuPRm67S5A1Egcv7T0qSAcklaLGWJCHoW8qt8OSkKchDS-pk3_J75U49tZMHUAfhgw3D3PP2xzavcQYMOTACFXMyxiqZIWtoe-fRTwExjS6EUxnTbLpQRxDJiI6XhFDRsabzY5Qa3rAMaJV1xJTs4UoI6gl-O8Ays0hdgSmnjcfwDsC0WSlqnXKCzMrhGr525QiaGFn0X0rHMLwB_fw","expirationTime":1764144701384,"refreshToken":"AMf-vByasik0HpozbsVMUm4wu9hap5cWwuep084zSI12Ug94GV1w9XGg8L8QMQ3-zjwSJ_czYXBUSG7nVOaGgztzfhV5rKREBNOpG79HxCteqa7T4jUIz1bZXW7Zjto0rqYeL5MnM5SvQ_ePpf8hevEnMtVmCLZTKBNGtHAQYP1UCR3Aucoq6-Fqop6hRUAHlFzbMz_VU8QyNXYeumPT8Bas3R_al5tctxylXeC6HLB0BPg09Jjdz9IUTVtm3VmesaDiuXwQr-_C"},"uid":"m2zsilewuqhkZw1J00oHqqJUcZK2"}
+[02:17:31.266] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:17:31.266] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:17:31.266] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:17:31.266] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:18:35.347] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:18:35.347] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:18:38.568] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:18:39.533] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:18:39.533] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:18:39.533] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:18:39.533] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:20:57.682] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/all-cars/[id]/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[02:20:57.689] Server  LOG      ✓ Compiled in 202ms
+[02:20:58.190] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:20:59.552] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/all-cars/[id]/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[02:20:59.846] Server  LOG      ✓ Compiled in 185ms
+[02:20:59.965] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:21:06.274] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/all-cars/[id]/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[02:21:06.574] Server  LOG      ✓ Compiled in 287ms
+[02:21:06.577] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/all-cars/[id]/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[02:21:06.780] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:21:09.017] Server  LOG      ✓ Compiled in 54ms
+[02:21:09.955] Browser ERROR   ./src/app/all-cars/[id]/page.jsx:80:25
+Parsing ecmascript source code failed
+  78 |       {/* Title */}
+  79 |       <h1 className="text-3xl lg:text-4xl font-extrabold text-gray-900 mt-6">
+> 80 |         {car.carTypes}: } <div className="badge badge-error">Error</div>
+     |                         ^
+  81 |       </h1>
+  82 |
+  83 |       {/* Author & Date */}
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+Import traces:
+  Client Component Browser:
+    ./src/app/all-cars/[id]/page.jsx [Client Component Browser]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/all-cars/[id]/page.jsx [Client Component SSR]
+    ./src/app/all-cars/[id]/page.jsx [Server Component]
+[02:21:10.463] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/all-cars/[id]/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[02:21:10.868] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:21:17.855] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/all-cars/[id]/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[02:21:18.162] Server  LOG      ✓ Compiled in 97ms
+[02:21:18.259] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:21:21.161] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/all-cars/[id]/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[02:21:21.488] Server  LOG      ✓ Compiled in 101ms
+[02:21:21.608] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:21:22.533] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[02:21:36.302] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/all-cars/[id]/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[02:21:36.596] Server  LOG      ✓ Compiled in 92ms
+[02:21:36.965] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:21:41.787] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/all-cars/[id]/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[02:21:42.089] Server  LOG      ✓ Compiled in 86ms
+[02:21:42.215] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:21:44.077] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/all-cars/[id]/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[02:21:44.399] Server  LOG      ✓ Compiled in 146ms
+[02:21:44.683] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:21:45.397] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/all-cars/[id]/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[02:21:46.251] Server  LOG      ✓ Compiled in 201ms
+[02:21:46.263] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[02:21:46.379] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:21:46.985] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[02:21:53.837] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/all-cars/[id]/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[02:21:54.162] Server  LOG      ✓ Compiled in 118ms
+[02:21:54.283] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:21:55.964] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/all-cars/[id]/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[02:21:56.266] Server  LOG      ✓ Compiled in 91ms
+[02:21:56.387] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:21:58.532] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[02:22:02.174] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/all-cars/[id]/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[02:22:02.466] Server  LOG      ✓ Compiled in 84ms
+[02:22:02.579] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:22:06.090] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/all-cars/[id]/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[02:22:06.407] Server  LOG      ✓ Compiled in 166ms
+[02:22:06.415] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[02:22:06.543] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:22:07.204] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[02:22:18.819] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:22:18.819] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:22:18.819] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:22:18.819] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:22:20.392] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:22:20.392] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:22:38.825] Browser LOG     {"apiKey":"AIzaSyC1VxCUOIyTJYR9EvhAbNIYynflMBWQQEw","appName":"[DEFAULT]","createdAt":"1764141099394","displayName":"Bipul","email":"bipul@gmail.com","emailVerified":false,"isAnonymous":false,"lastLoginAt":"1764141411133","providerData":[{"displayName":"Bipul","email":"bipul@gmail.com","phoneNumber":null,"photoURL":null,"providerId":"password","uid":"bipul@gmail.com"}],"stsTokenManager":{"accessToken":"eyJhbGciOiJSUzI1NiIsImtpZCI6IjQ1YTZjMGMyYjgwMDcxN2EzNGQ1Y2JiYmYzOWI4NGI2NzYxMjgyNjUiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiQmlwdWwiLCJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vbS00OS1pbnRlZ3JhdGlvbi1wcml2YXRlLXJvdXRlIiwiYXVkIjoibS00OS1pbnRlZ3JhdGlvbi1wcml2YXRlLXJvdXRlIiwiYXV0aF90aW1lIjoxNzY0MTQxNDExLCJ1c2VyX2lkIjoibTJ6c2lsZXd1cWhrWncxSjAwb0hxcUpVY1pLMiIsInN1YiI6Im0yenNpbGV3dXFoa1p3MUowMG9IcXFKVWNaSzIiLCJpYXQiOjE3NjQxNDE0MTEsImV4cCI6MTc2NDE0NTAxMSwiZW1haWwiOiJiaXB1bEBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsiYmlwdWxAZ21haWwuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoicGFzc3dvcmQifX0.vEEScltI7IC-lhuVdMzoewkVYUtVC4_oqMoTPh4P78ZldVaulvvB8VplEEgLm9ihNX0GUpMwl3OUAZY_xao2s_tFF28LgEjpRcgPlo9zM1jGS99ncCvL3XLrPg83_iSK89_-Px3kAsatd1htMJcs9UQT5w-9vLVNBOCVcW2Tgj-BClvJjW8tTZFkNjTwhsGq5j7AEgBkdNNGtDQRggvax7Umqwga-_kHq_qQcgdAUEP7ZgU5LG2WOgOsNPAGQGRsi2F1HfnpyFL2KQSH9syp-JEN_CPdtyumzFQKR1gMBs4-WjyC7kdRE3QxfRMnKFV-g3uE9NdvC6uR51XofWiFqw","expirationTime":1764145012818,"refreshToken":"AMf-vBwv5_6LhFdBb7FZoPddaivbKunAky-s0FBxZ45aGLzqjTcFIKofj8dC_f_18epjRA7SZg8C6A-OazhKLbZfRAtQDQOZWd5H0aQpVeCaVSE_92QOWWygMazty9-nPvM2H8OODFGvkF5th3vD1V1LdPF1nhpsDKHkdFMvAsFlf6x1gceK_xs7BI6PGzPn93dT-bQ3pYIvPewxqxD7eHhhElYhWuV36_XA3JHOVIEeTjQznrrUwVfPXiB59fJ89-cM3wM-TNxe"},"uid":"m2zsilewuqhkZw1J00oHqqJUcZK2"}
+[02:23:55.994] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:23:55.994] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:23:56.862] Browser WARN    Image with src "https://imgs.search.brave.com/rC3ssk-gvdwgBpPJ9PjOqrcj8jKzQMO86FuNM7v5eJg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMucGV4ZWxzLmNv/bS9waG90b3MvOTM3/NjY4L3BleGVscy1w/aG90by05Mzc2Njgu/anBlZz9hdXRvPWNv/bXByZXNzJmNzPXRp/bnlzcmdiJmRwcj0x/Jnc9NTAw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:24:08.317] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:24:09.824] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:24:10.983] Browser WARN    Image with src "https://imgs.search.brave.com/rC3ssk-gvdwgBpPJ9PjOqrcj8jKzQMO86FuNM7v5eJg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMucGV4ZWxzLmNv/bS9waG90b3MvOTM3/NjY4L3BleGVscy1w/aG90by05Mzc2Njgu/anBlZz9hdXRvPWNv/bXByZXNzJmNzPXRp/bnlzcmdiJmRwcj0x/Jnc9NTAw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:24:10.983] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:24:10.983] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:24:10.983] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:24:10.983] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:24:57.685] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:24:57.685] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:25:34.375] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:26:22.817] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:26:22.817] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:26:23.087] Browser WARN    Image with src "https://imgs.search.brave.com/rC3ssk-gvdwgBpPJ9PjOqrcj8jKzQMO86FuNM7v5eJg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMucGV4ZWxzLmNv/bS9waG90b3MvOTM3/NjY4L3BleGVscy1w/aG90by05Mzc2Njgu/anBlZz9hdXRvPWNv/bXByZXNzJmNzPXRp/bnlzcmdiJmRwcj0x/Jnc9NTAw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:26:25.734] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:26:25.734] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:26:25.735] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:26:25.735] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:28:21.632] Server  LOG      ✓ Compiled in 368ms
+[02:29:26.339] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:29:28.781] Browser WARN    Image with src "https://imgs.search.brave.com/rC3ssk-gvdwgBpPJ9PjOqrcj8jKzQMO86FuNM7v5eJg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMucGV4ZWxzLmNv/bS9waG90b3MvOTM3/NjY4L3BleGVscy1w/aG90by05Mzc2Njgu/anBlZz9hdXRvPWNv/bXByZXNzJmNzPXRp/bnlzcmdiJmRwcj0x/Jnc9NTAw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:29:28.781] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:29:28.781] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:29:28.781] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:29:28.781] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
