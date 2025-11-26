@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///F:/Programing-Hero-EJP/Blog/client/src/Components/Axios/useAxios.jsx"],"sourcesContent":["import axios from 'axios'\r\nimport React from 'react'\r\n\r\nconst axiosSecure = axios.create({\r\n    baseURL: process.env.NEXT_PUBLIC_BACKEND_API\r\n})\r\n\r\nconst useAxios = () => {\r\n  return axiosSecure\r\n}\r\n\r\nexport default useAxios"],"names":[],"mappings":";;;;AAIa;AAJb;AACA;;;AAEA,MAAM,cAAc,mJAAK,CAAC,MAAM,CAAC;IAC7B,OAAO;AACX;AAEA,MAAM,WAAW;IACf,OAAO;AACT;uCAEe"}}]
-}
