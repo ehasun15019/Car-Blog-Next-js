@@ -38,6 +38,7 @@ const Navbar = () => {
     { href: "/all-cars", label: "All Blogs" },
     { href: "/about", label: "About" },
     { href: "/sell-car", label: "Sell a car" },
+    { href: "/dashboard", label: "Admin Dashboard" },
   ];
 
   return (
@@ -65,7 +66,7 @@ const Navbar = () => {
         </div>
 
         <Link href="/" className="flex gap-2 items-center">
-          <Image src={assets.logo} alt="logo" height={40} />
+          <Image src={assets.logo} alt="logo" height={40} width={70} />
         </Link>
       </div>
 

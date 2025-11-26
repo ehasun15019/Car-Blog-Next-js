@@ -38,6 +38,7 @@ const SellCarFromDesign = () => {
     axios
       .post("/car-selling", carData)
       .then((res) => {
+        console.log(res.data)
         Swal.fire({
           title: "Form filled Successfully!",
           icon: "success",

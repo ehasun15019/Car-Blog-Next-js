@@ -12,7 +12,7 @@ const AllCarDesign = ({
   createdAt,
 }) => {
   return (
-    <div className="card card-side flex-col lg:flex-row bg-white shadow-lg rounded-xl overflow-hidden hover:shadow-2xl transition mb-6 border border-gray-100">
+    <div className="card card-side flex-col lg:flex-row bg-white shadow-lg rounded-xl overflow-hidden hover:shadow-2xl transition mb-6 border border-gray-100 px-4 py-5">
       {/* LEFT IMAGE */}
       <div className="relative w-full lg:w-1/3 h-64 lg:h-auto flex-shrink-0">
         <Image
