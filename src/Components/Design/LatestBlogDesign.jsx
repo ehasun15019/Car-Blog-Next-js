@@ -67,7 +67,7 @@ const LatestBlogDesign = ({
         <div className="mt-6 flex flex-col md:flex-row gap-3">
           <Link
             className="btn bg-secondary text-white w-full md:w-1/2 text-center py-3 rounded-lg shadow hover:shadow-lg transition"
-            href="/cars"
+            href="/all-cars"
           >
             Show all cars
           </Link>

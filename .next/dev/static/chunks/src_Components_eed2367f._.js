@@ -93,11 +93,11 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 ;
 const LatestBlogDesign = (t0)=>{
     const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$compiler$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["c"])(44);
-    if ($[0] !== "992255eacceb37d508bedca6f2edc801bfd773bc962343a3a1dafead54d32ec2") {
+    if ($[0] !== "136484eefdb9066760d1f57a61c7a3ec06107c9ae063ab34aeea5616f9a3988f") {
         for(let $i = 0; $i < 44; $i += 1){
             $[$i] = Symbol.for("react.memo_cache_sentinel");
         }
-        $[0] = "992255eacceb37d508bedca6f2edc801bfd773bc962343a3a1dafead54d32ec2";
+        $[0] = "136484eefdb9066760d1f57a61c7a3ec06107c9ae063ab34aeea5616f9a3988f";
     }
     const { name, email, carTypes, condition, image, description, createdAt } = t0;
     let t1;
@@ -436,7 +436,7 @@ const LatestBlogDesign = (t0)=>{
             className: "mt-6 flex flex-col md:flex-row gap-3",
             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                 className: "btn bg-secondary text-white w-full md:w-1/2 text-center py-3 rounded-lg shadow hover:shadow-lg transition",
-                href: "/cars",
+                href: "/all-cars",
                 children: "Show all cars"
             }, void 0, false, {
                 fileName: "[project]/src/Components/Design/LatestBlogDesign.jsx",
